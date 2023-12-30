@@ -1,7 +1,7 @@
 import json
 
 # open the faq_data.txt file
-with open("datasets/faq_data.txt", "r") as f:
+with open("faq_data.txt", "r", encoding='utf-8') as f:
     lines = f.readlines()
 
 # create a list of dictionaries with the fields "question" and "answer"
@@ -28,5 +28,5 @@ if question and answer:
     data.append({"question": question, "answer": answer})
 
 # write the data to a JSON file
-with open("faq_data.json", "w") as f:
-    json.dump(data, f)
+with open("faq_data.json", "w", encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False)

@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 import time 
 
 #FAQ zu Prüfungsangelegenheiten der Bachelorstudiengänge AIN, GIB und WIN 
-#url = "https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/studium/pruefungen-thesis/faq"
+url = "https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/studium/pruefungen-thesis/faq"
 
 #FAQ zu Prüfungen der HTWG
-url = "https://www.htwg-konstanz.de/studium/faq/pruefungen"
+#url = "https://www.htwg-konstanz.de/studium/faq/pruefungen"
 
 # Send an HTTP request to the URL and get the page content
 response = requests.get(url)
@@ -16,7 +16,7 @@ html = response.text
 soup = BeautifulSoup(html, 'html.parser')
 
 # Open a text file to save the data
-with open("faq_data2.txt", "w", encoding="utf-8") as file:
+with open("faq_data.txt", "w", encoding="utf-8") as file:
 
     # Find all elements with class "title icon"
     title_icon_elements = soup.find_all(class_="title icon")
