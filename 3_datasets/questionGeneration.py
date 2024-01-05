@@ -8,7 +8,7 @@ client = OpenAI(
 
 def generate_questions(context, n, id, document_id):
     qa = client.completions.create(
-        model="text-davinci-003",
+        model="gpt-3.5-turbo-instruct", #text-davinci-003 deprecated since 5th january 2024
         prompt=f"Erstelle {n} Fragen und beantworte sie nur durch wortwörtliches zitieren mit Groß- und Kleinschreibung: {context}. Formatiere die Fragen und Antworten so:  Q1: A1: Q2: A2: ... Achte darauf dass die Antworten Zeichengenau im Text vorkommen,",
         max_tokens=1000,
         #n=n,
