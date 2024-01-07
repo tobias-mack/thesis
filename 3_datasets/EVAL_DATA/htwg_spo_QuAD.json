@@ -1,0 +1,1145 @@
+{
+    "data": [
+        {
+            "title": "SPO-3-AIN",
+            "paragraphs": [
+                {
+                    "context": "§ 57 Studiengang Angewandte Informatik (AIN) (1) Vorpraktikum Entfällt. (2) Studienaufbau Der Studiengang umfasst sieben Semester (zwei Semester Grundstudium und fünf Semester Hauptstudium). Das integrierte praktische Studiensemester ist im vierten Semester zu erbringen. Den Abschluss des Studiums bildet die Bachelorarbeit.",
+                    "document_id": 64,
+                    "qas": [
+                        {
+                            "question": "Entfällt das Vorpraktikum?",
+                            "id": 64,
+                            "answers": [
+                                {
+                                    "answer_id": 64,
+                                    "document_id": 64,
+                                    "question_id": 64,
+                                    "text": "Entfällt.",
+                                    "answer_start": 62,
+                                    "answer_end": 71
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie viele Semester umfasst der Studiengang?",
+                            "id": 65,
+                            "answers": [
+                                {
+                                    "answer_id": 65,
+                                    "document_id": 64,
+                                    "question_id": 65,
+                                    "text": "Der Studiengang umfasst sieben Semester (zwei Semester Grundstudium und fünf Semester Hauptstudium).",
+                                    "answer_start": 90,
+                                    "answer_end": 190
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wann findet das Praxissemester statt?",
+                            "id": 66,
+                            "answers": [
+                                {
+                                    "answer_id": 66,
+                                    "document_id": 64,
+                                    "question_id": 66,
+                                    "text": "Das integrierte praktische Studiensemester ist im vierten Semester zu erbringen.",
+                                    "answer_start": 191,
+                                    "answer_end": 271
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(3) Vertiefungs- und Studienrichtungen Studierende müssen zu Beginn des fünften Semesters eine von drei Vertiefungsrichtungen wählen. Als Vertiefungsrichtungen werden Artificial Intelligence (AI), Embedded Systems (ES) und Software Engineering (SE) angeboten. Zu Beginn jedes Semesters findet eine Informationsveranstaltung zu den Vertiefungsrichtungen statt. Die Lehrveranstaltungen in den Vertiefungsrichtungen werden in der Regel jährlich angeboten. Zu Beginn jedes Semesters wird das Angebot der Lehrveranstaltungen in den Vertiefungsrichtungen für die beiden kommenden Semester bekanntgegeben.",
+                    "document_id": 65,
+                    "qas": [
+                        {
+                            "question": "Wie muss ich mich für eine Vertiefungsrichtung entscheiden?",
+                            "id": 67,
+                            "answers": [
+                                {
+                                    "answer_id": 67,
+                                    "document_id": 65,
+                                    "question_id": 67,
+                                    "text": "Studierende müssen zu Beginn des fünften Semesters eine von drei Vertiefungsrichtungen wählen.",
+                                    "answer_start": 39,
+                                    "answer_end": 133
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche Vertiefungsrichtungen werden angeboten?",
+                            "id": 68,
+                            "answers": [
+                                {
+                                    "answer_id": 68,
+                                    "document_id": 65,
+                                    "question_id": 68,
+                                    "text": "Als Vertiefungsrichtungen werden Artificial Intelligence (AI), Embedded Systems (ES) und Software Engineering (SE) angeboten.",
+                                    "answer_start": 134,
+                                    "answer_end": 259
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wann findet die Informationsveranstaltung zu den Vertiefungsrichtungen statt?",
+                            "id": 69,
+                            "answers": [
+                                {
+                                    "answer_id": 69,
+                                    "document_id": 65,
+                                    "question_id": 69,
+                                    "text": "Zu Beginn jedes Semesters findet eine Informationsveranstaltung zu den Vertiefungsrichtungen statt.",
+                                    "answer_start": 260,
+                                    "answer_end": 359
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(4) Studienumfang Der Gesamtumfang der für den erfolgreichen Abschluss des Studiums erforderlichen Lehrveranstaltungen im Pflicht- und Wahlpflichtbereich beträgt 120 Semesterwochenstunden (SWS), der Arbeitsaufwand 210 ECTS-Punkte.",
+                    "document_id": 66,
+                    "qas": [
+                        {
+                            "question": "Wie viele Semesterwochenstunden sind insgesamt für den erfolgreichen Abschluss des Studiums erforderlich?",
+                            "id": 70,
+                            "answers": [
+                                {
+                                    "answer_id": 70,
+                                    "document_id": 66,
+                                    "question_id": 70,
+                                    "text": "120 Semesterwochenstunden",
+                                    "answer_start": 162,
+                                    "answer_end": 187
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie viele ECTS-Punkte sind insgesamt erforderlich?",
+                            "id": 71,
+                            "answers": [
+                                {
+                                    "answer_id": 71,
+                                    "document_id": 66,
+                                    "question_id": 71,
+                                    "text": "210 ECTS-Punkte",
+                                    "answer_start": 214,
+                                    "answer_end": 229
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(6) Integriertes praktisches Studiensemester Die Zulassung zum praktischen Studiensemester erfolgt, wenn eine Zulassung zum Hauptstudium gegeben ist.",
+                    "document_id": 67,
+                    "qas": [
+                        {
+                            "question": "Wann kann ich mich auf das Praxissemester bewerben?",
+                            "id": 72,
+                            "answers": [
+                                {
+                                    "answer_id": 72,
+                                    "document_id": 67,
+                                    "question_id": 72,
+                                    "text": "Die Zulassung zum praktischen Studiensemester erfolgt, wenn eine Zulassung zum Hauptstudium gegeben ist.",
+                                    "answer_start": 45,
+                                    "answer_end": 149
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(7) Sonstige schriftliche und praktische Arbeiten Die Modulteilprüfungen der Art SP (sonstige schriftliche oder praktische Arbeiten gemäß § 15 Abs. 1 Nr. 4) werden folgendermaßen definiert: TE = Testate, LP = Labor-/Programmierarbeiten, AB = Ausarbeitungen/Berichte, PR = Präsentation. Bei Modulteilprüfungen der Art TE, LP, AB und PR legt der/die Prüfer/in gemäß § 18 Abs. 3 zu Beginn des Semesters die Prüfungsmodalitäten, insbesondere die Prüfungstermine fest.",
+                    "document_id": 68,
+                    "qas": [
+                        {
+                            "question": "Welche Art von Modulteilprüfungen wird definiert?",
+                            "id": 73,
+                            "answers": [
+                                {
+                                    "answer_id": 73,
+                                    "document_id": 68,
+                                    "question_id": 73,
+                                    "text": "TE = Testate, LP = Labor-/Programmierarbeiten, AB = Ausarbeitungen/Berichte, PR = Präsentation.",
+                                    "answer_start": 190,
+                                    "answer_end": 285
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie wird festgelegt, welche Prüfungsmodalitäten gelten?",
+                            "id": 74,
+                            "answers": [
+                                {
+                                    "answer_id": 74,
+                                    "document_id": 68,
+                                    "question_id": 74,
+                                    "text": "legt der/die Prüfer/in gemäß § 18 Abs. 3 zu Beginn des Semesters die Prüfungsmodalitäten, insbesondere die Prüfungstermine fest.",
+                                    "answer_start": 335,
+                                    "answer_end": 463
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was bedeutet TE?",
+                            "id": 75,
+                            "answers": [
+                                {
+                                    "answer_id": 75,
+                                    "document_id": 68,
+                                    "question_id": 75,
+                                    "text": "TE = Testate",
+                                    "answer_start": 190,
+                                    "answer_end": 202
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(8) Lehr- und Prüfungssprachen Lehrveranstaltungen und Prüfungen werden in der Regel in deutscher Sprache durchgeführt, können aber auch ganz oder teilweise in englischer Sprache durchgeführt werden; in diesem Fall gibt der/die Prüfer/in zu Beginn des Semesters die Sprach- und Prüfungsmodalitäten bekannt. Die Bachelorarbeit kann in deutscher oder englischer Sprache verfasst werden.",
+                    "document_id": 69,
+                    "qas": [
+                        {
+                            "question": "Welche Sprachen werden für Lehrveranstaltungen und Prüfungen verwendet?",
+                            "id": 76,
+                            "answers": [
+                                {
+                                    "answer_id": 76,
+                                    "document_id": 69,
+                                    "question_id": 76,
+                                    "text": "Lehrveranstaltungen und Prüfungen werden in der Regel in deutscher Sprache durchgeführt, können aber auch ganz oder teilweise in englischer Sprache durchgeführt werden",
+                                    "answer_start": 31,
+                                    "answer_end": 198
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie werden die Sprach- und Prüfungsmodalitäten bekannt gegeben?",
+                            "id": 77,
+                            "answers": [
+                                {
+                                    "answer_id": 77,
+                                    "document_id": 69,
+                                    "question_id": 77,
+                                    "text": "in diesem Fall gibt der/die Prüfer/in zu Beginn des Semesters die Sprach- und Prüfungsmodalitäten bekannt",
+                                    "answer_start": 200,
+                                    "answer_end": 305
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "In welcher Sprache kann man die Bachelorarbeit schreiben?",
+                            "id": 78,
+                            "answers": [
+                                {
+                                    "answer_id": 78,
+                                    "document_id": 69,
+                                    "question_id": 78,
+                                    "text": "Die Bachelorarbeit kann in deutscher oder englischer Sprache verfasst werden.",
+                                    "answer_start": 307,
+                                    "answer_end": 384
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(11) Fachliche Zulassungsvoraussetzungen zu den Modul- bzw. Modulteilprüfungen Zusätzlich zu den im § 14 des Allgemeinen Teils der SPOBa festgelegten Zulassungsvoraussetzungen gibt es folgende Ergänzung: Die Zulassung zu den Modul- bzw. Modulteilprüfungen des Hauptstudiums kann in begründeten Ausnahmefällen auf Antrag auch erfolgen, wenn drei oder vier Modul- bzw. Modulteilprüfungen des Grundstudiums noch nicht erbracht sind. Der begründete schriftliche Antrag ist innerhalb von 14 Tagen nach Bekanntgabe der Prüfungsergebnisse an den zuständigen Prüfungsausschuss zu stellen. Der Bescheid über den Beschluss des Prüfungsausschusses wird vom Studierendensekretariat erstellt.",
+                    "document_id": 70,
+                    "qas": [
+                        {
+                            "question": "Welche Zulassungsvoraussetzungen gibt es für die Modul- bzw. Modulteilprüfungen des Hauptstudiums?",
+                            "id": 79,
+                            "answers": [
+                                {
+                                    "answer_id": 79,
+                                    "document_id": 70,
+                                    "question_id": 79,
+                                    "text": "Die Zulassung zu den Modul- bzw. Modulteilprüfungen des Hauptstudiums kann in begründeten Ausnahmefällen auf Antrag auch erfolgen, wenn drei oder vier Modul- bzw. Modulteilprüfungen des Grundstudiums noch nicht erbracht sind.",
+                                    "answer_start": 204,
+                                    "answer_end": 429
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie lange nach Bekanntgabe der Prüfungsergebnisse muss der Antrag an den Prüfungsausschuss gestellt werden?",
+                            "id": 80,
+                            "answers": [
+                                {
+                                    "answer_id": 80,
+                                    "document_id": 70,
+                                    "question_id": 80,
+                                    "text": "Der begründete schriftliche Antrag ist innerhalb von 14 Tagen nach Bekanntgabe der Prüfungsergebnisse an den zuständigen Prüfungsausschuss zu stellen.",
+                                    "answer_start": 430,
+                                    "answer_end": 580
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wer stellt den Bescheid über den Beschluss des Prüfungsausschusses aus?",
+                            "id": 81,
+                            "answers": [
+                                {
+                                    "answer_id": 81,
+                                    "document_id": 70,
+                                    "question_id": 81,
+                                    "text": "Der Bescheid über den Beschluss des Prüfungsausschusses wird vom Studierendensekretariat erstellt.",
+                                    "answer_start": 581,
+                                    "answer_end": 679
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(13) Mündliche Ergänzungsprüfung. Wird die zweite Wiederholungsprüfung mit nicht ausreichend (5,0) bewertet, so findet gem. § 21 Abs. 4 Satz 4 SPOBa Allgemeiner Teil im zeitlichen Zusammenhang mit dieser zweiten Wiederholungsprüfung eine mündliche Ergänzungsprüfung (M30) statt. Es gelten die Regelungen des § 17 SPOBa Allgemeiner Teil für mündliche Prüfungen entsprechend. Der Termin für die mündliche Ergänzungsprüfung wird von dem/der Prüfer/in mit dem betreffenden Studierenden vereinbart. Das Bestehen der mündlichen Ergänzungsprüfung verbessert die Note der zweiten Wiederholungsprüfung auf ausreichend (4,0). Eine mündliche Ergänzungsprüfung zur zweiten Wiederholungsprüfung ist maximal für zwei benotete Modul- bzw. Modulteilprüfungen während des gesamten Studiums zulässig. Das Ergebnis der mündlichen Ergänzungsprüfung ist von dem/der Prüfer/in innerhalb von 14 Tagen nach Notenbekanntgabe der zweiten Wiederholungsprüfung schriftlich an das Zentrale Prüfungsamt zu melden.",
+                    "document_id": 71,
+                    "qas": [
+                        {
+                            "question": "Was ist die mündliche Ergänzungsprüfung?",
+                            "id": 82,
+                            "answers": [
+                                {
+                                    "answer_id": 82,
+                                    "document_id": 71,
+                                    "question_id": 82,
+                                    "text": "Wird die zweite Wiederholungsprüfung mit nicht ausreichend (5,0) bewertet, so findet gem. § 21 Abs. 4 Satz 4 SPOBa Allgemeiner Teil im zeitlichen Zusammenhang mit dieser zweiten Wiederholungsprüfung eine mündliche Ergänzungsprüfung (M30) statt",
+                                    "answer_start": 34,
+                                    "answer_end": 277
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie verbessert sich die Note der zweiten Wiederholungsprüfung?",
+                            "id": 83,
+                            "answers": [
+                                {
+                                    "answer_id": 83,
+                                    "document_id": 71,
+                                    "question_id": 83,
+                                    "text": "Das Bestehen der mündlichen Ergänzungsprüfung verbessert die Note der zweiten Wiederholungsprüfung auf ausreichend (4,0).",
+                                    "answer_start": 494,
+                                    "answer_end": 615
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie oft ist eine mündliche Ergänzungsprüfung während des gesamten Studiums zulässig?",
+                            "id": 84,
+                            "answers": [
+                                {
+                                    "answer_id": 84,
+                                    "document_id": 71,
+                                    "question_id": 84,
+                                    "text": "Eine mündliche Ergänzungsprüfung zur zweiten Wiederholungsprüfung ist maximal für zwei benotete Modul- bzw. Modulteilprüfungen während des gesamten Studiums zulässig.",
+                                    "answer_start": 616,
+                                    "answer_end": 782
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wann ist das Ergebnis der mündlichen Ergänzungsprüfung dem Zentralen Prüfungsamt zu melden?",
+                            "id": 85,
+                            "answers": [
+                                {
+                                    "answer_id": 85,
+                                    "document_id": 71,
+                                    "question_id": 85,
+                                    "text": "Das Ergebnis der mündlichen Ergänzungsprüfung ist von dem/der Prüfer/in innerhalb von 14 Tagen nach Notenbekanntgabe der zweiten Wiederholungsprüfung schriftlich an das Zentrale Prüfungsamt zu melden",
+                                    "answer_start": 783,
+                                    "answer_end": 982
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(14) Gewichtung der Modulteilprüfungen (Regelung für die Module AI 7, ES 7 und SE 7) Die Gewichtung der benoteten Modulteilprüfungen bei der Berechnung von Modulnoten erfolgt proportional zur Anzahl der ECTS-Punkte der zugehörigen Lehrveranstaltung. (14a) Modulprüfungen Für Module, bei denen im Prüfungsplan (Absatz 10) der Leistungsnachweis bzw. die Prüfungsleistung in der Zeile des Modulnamens eingetragen ist, gilt folgende Regelung: Die Modulprüfung umfasst sämtliche Lehrveranstaltungen des Moduls. Entsprechend § 26 Abs. 2 Satz 6 und § 33 Abs. 2 Satz 4 SPOBa fließt das Ergebnis einer benoteten Modulprüfung mit dem Gewicht der dem Modul im Prüfungsplan (Absatz 10) zugeordneten ECTS-Punktzahl in die Berechnung der Gesamtnote der Bachelorzwischenprüfung und der Bachelorprüfung ein.",
+                    "document_id": 72,
+                    "qas": [
+                        {
+                            "question": "Welche Regelung gilt für Modulprüfungen?",
+                            "id": 86,
+                            "answers": [
+                                {
+                                    "answer_id": 86,
+                                    "document_id": 72,
+                                    "question_id": 86,
+                                    "text": "Die Modulprüfung umfasst sämtliche Lehrveranstaltungen des Moduls. Entsprechend § 26 Abs. 2 Satz 6 und § 33 Abs. 2 Satz 4 SPOBa fließt das Ergebnis einer benoteten Modulprüfung mit dem Gewicht der dem Modul im Prüfungsplan (Absatz 10) zugeordneten ECTS-Punktzahl in die Berechnung der Gesamtnote der Bachelorzwischenprüfung und der Bachelorprüfung ein.",
+                                    "answer_start": 439,
+                                    "answer_end": 791
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie wird die Gewichtung der benoteten Modulteilprüfungen bei der Berechnung von Modulnoten erfolgen?",
+                            "id": 87,
+                            "answers": [
+                                {
+                                    "answer_id": 87,
+                                    "document_id": 72,
+                                    "question_id": 87,
+                                    "text": "Die Gewichtung der benoteten Modulteilprüfungen bei der Berechnung von Modulnoten erfolgt proportional zur Anzahl der ECTS-Punkte der zugehörigen Lehrveranstaltung.",
+                                    "answer_start": 85,
+                                    "answer_end": 249
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche Module sind in der Regelung für die Modulteilprüfungen enthalten?",
+                            "id": 88,
+                            "answers": [
+                                {
+                                    "answer_id": 88,
+                                    "document_id": 72,
+                                    "question_id": 88,
+                                    "text": "Für Module, bei denen im Prüfungsplan (Absatz 10) der Leistungsnachweis bzw. die Prüfungsleistung in der Zeile des Modulnamens eingetragen ist, gilt folgende Regelung: Die Modulprüfung umfasst sämtliche Lehrveranstaltungen des Moduls.",
+                                    "answer_start": 271,
+                                    "answer_end": 505
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(15) Wahlpflichtmodul Der Katalog der Lehrveranstaltungen des Wahlpflichtmoduls für Vertiefungsrichtungen wird zu Beginn jedes Semesters bekannt gegeben. Im Katalog werden die Lehrveranstaltungen durch Angabe ihrer Titel und der jeweiligen ECTS-Punkte beschrieben. Daneben können auch benotete Lehrveranstaltungen aus dem Studium Generale oder aus dem Angebot anderer Fakultäten nach Genehmigung durch den/die Studiengangleiter/in im Umfang von maximal 6 ECTS belegt werden. Die Anmeldung zu den Prüfungen erfolgt durch die Studierenden beim Zentralen Prüfungsamt.",
+                    "document_id": 73,
+                    "qas": [
+                        {
+                            "question": "Welche Informationen stehen im Katalog der Lehrveranstaltungen des Wahlpflichtmoduls?",
+                            "id": 89,
+                            "answers": [
+                                {
+                                    "answer_id": 89,
+                                    "document_id": 73,
+                                    "question_id": 89,
+                                    "text": "Im Katalog werden die Lehrveranstaltungen durch Angabe ihrer Titel und der jeweiligen ECTS-Punkte beschrieben",
+                                    "answer_start": 154,
+                                    "answer_end": 263
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kann ich ein Modul aus einer anderen Fakultät wählen?",
+                            "id": 90,
+                            "answers": [
+                                {
+                                    "answer_id": 90,
+                                    "document_id": 73,
+                                    "question_id": 90,
+                                    "text": "Daneben können auch benotete Lehrveranstaltungen aus dem Studium Generale oder aus dem Angebot anderer Fakultäten nach Genehmigung durch den/die Studiengangleiter/in im Umfang von maximal 6 ECTS belegt werden",
+                                    "answer_start": 265,
+                                    "answer_end": 473
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wann wird der Katalog der Lehrveranstaltungen des Wahlpflichtmoduls bekannt gegeben?",
+                            "id": 91,
+                            "answers": [
+                                {
+                                    "answer_id": 91,
+                                    "document_id": 73,
+                                    "question_id": 91,
+                                    "text": "Der Katalog der Lehrveranstaltungen des Wahlpflichtmoduls für Vertiefungsrichtungen wird zu Beginn jedes Semesters bekannt gegeben",
+                                    "answer_start": 22,
+                                    "answer_end": 152
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie erfolgt die Anmeldung zu einem Wahlpflichtmodul?",
+                            "id": 92,
+                            "answers": [
+                                {
+                                    "answer_id": 92,
+                                    "document_id": 73,
+                                    "question_id": 92,
+                                    "text": "Die Anmeldung zu den Prüfungen erfolgt durch die Studierenden beim Zentralen Prüfungsamt.",
+                                    "answer_start": 475,
+                                    "answer_end": 564
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(17) Bachelorarbeit Bei der Anmeldung zur Bachelorarbeit müssen gemäß § 30 Abs. 1 Nr. 2 des Allgemeinen Teils alle Modul- bzw. Modulteilprüfungen, die den ersten fünf Semestern fest zugeordnet sind, bestanden sein und zusätzlich 12 ECTS-Punkte aus den Modulen der Vertiefungsrichtung nachgewiesen werden. Der Prüfungsausschuss kann ausnahmsweise die Anmeldung einer Bachelorarbeit zulassen, wenn die/der Studierende darstellen kann, dass sie/er alle offenen Prüfungsleistungen im laufenden Semester abschließen kann. (18) Mündliche Bachelorprüfung Entfällt.",
+                    "document_id": 74,
+                    "qas": [
+                        {
+                            "question": "Muss man alle Modul- bzw. Modulteilprüfungen bestanden haben, um sich für die Bachelorarbeit anzumelden?",
+                            "id": 93,
+                            "answers": [
+                                {
+                                    "answer_id": 93,
+                                    "document_id": 74,
+                                    "question_id": 93,
+                                    "text": "gemäß § 30 Abs. 1 Nr. 2 des Allgemeinen Teils alle Modul- bzw. Modulteilprüfungen, die den ersten fünf Semestern fest zugeordnet sind, bestanden sein und zusätzlich 12 ECTS-Punkte aus den Modulen der Vertiefungsrichtung nachgewiesen werden",
+                                    "answer_start": 64,
+                                    "answer_end": 303
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was muss man für die Bachelorarbeit beachten?",
+                            "id": 94,
+                            "answers": [
+                                {
+                                    "answer_id": 94,
+                                    "document_id": 74,
+                                    "question_id": 94,
+                                    "text": "Bei der Anmeldung zur Bachelorarbeit müssen gemäß § 30 Abs. 1 Nr. 2 des Allgemeinen Teils alle Modul- bzw. Modulteilprüfungen, die den ersten fünf Semestern fest zugeordnet sind, bestanden sein und zusätzlich 12 ECTS-Punkte aus den Modulen der Vertiefungsrichtung nachgewiesen werden",
+                                    "answer_start": 20,
+                                    "answer_end": 303
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kann eine Ausnahme gemacht werden, wenn noch nicht alle Prüfungsleistungen abgeschlossen sind?",
+                            "id": 95,
+                            "answers": [
+                                {
+                                    "answer_id": 95,
+                                    "document_id": 74,
+                                    "question_id": 95,
+                                    "text": "Der Prüfungsausschuss kann ausnahmsweise die Anmeldung einer Bachelorarbeit zulassen, wenn die/der Studierende darstellen kann, dass sie/er alle offenen Prüfungsleistungen im laufenden Semester abschließen kann.",
+                                    "answer_start": 305,
+                                    "answer_end": 516
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Gibt es eine mündliche Bachelorprüfung?",
+                            "id": 96,
+                            "answers": [
+                                {
+                                    "answer_id": 96,
+                                    "document_id": 74,
+                                    "question_id": 96,
+                                    "text": "Entfällt.",
+                                    "answer_start": 548,
+                                    "answer_end": 557
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(19) Bachelorgrad Im Studiengang Angewandte Informatik wird der Abschlussgrad Bachelor of Science (abgekürzt: B.Sc.) vergeben.",
+                    "document_id": 75,
+                    "qas": [
+                        {
+                            "question": "Was ist der Abschlussgrad im Studiengang Angewandte Informatik?",
+                            "id": 97,
+                            "answers": [
+                                {
+                                    "answer_id": 97,
+                                    "document_id": 75,
+                                    "question_id": 97,
+                                    "text": "Bachelor of Science (abgekürzt: B.Sc.)",
+                                    "answer_start": 78,
+                                    "answer_end": 116
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie lautet die Abkürzung für den Bachelorgrad im Studiengang Angewandte Informatik?",
+                            "id": 98,
+                            "answers": [
+                                {
+                                    "answer_id": 98,
+                                    "document_id": 75,
+                                    "question_id": 98,
+                                    "text": "B.Sc.",
+                                    "answer_start": 110,
+                                    "answer_end": 115
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "(20) Übergangsregelung 1. Studierende (der SPO Nr. 3), die im Sommersemester 2020 in das erste, zweite oder dritte Semester eingestuft sind, legen die Bachelorzwischenprüfung sowie die Bachelorprüfung nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab. 2. Studierende (der SPO Nr. 2), die im Sommersemester 2020 in das dritte Semester eingestuft sind, und die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) bestanden haben, legen die Bachelorprüfung (Hauptstudium) nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab. 3. Studierende (der SPO Nr. 2), die im Sommersemester 2020 in das dritte Semester eingestuft sind, aber noch Prüfungsleistungen aus dem Grundstudium abzulegen haben, legen die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) ab. Die Prüfungsleistungen der Bachelorprüfung (Hauptstudium) sind nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) abzulegen. 4. Studierende (der SPO Nr. 2), die im Sommersemester 2020 nochmals in das zweite Semester eingestuft sind, legen die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) und die Bachelorprüfung nach § 57 in der Fassung vom 2. November 2018 (SPO Nr. 3) ab.",
+                    "document_id": 76,
+                    "qas": [
+                        {
+                            "question": "Welche Prüfung legen Studierende der SPO Nr. 3 im Sommersemester 2020 ab?",
+                            "id": 99,
+                            "answers": [
+                                {
+                                    "answer_id": 99,
+                                    "document_id": 76,
+                                    "question_id": 99,
+                                    "text": "Studierende (der SPO Nr. 3), die im Sommersemester 2020 in das erste, zweite oder dritte Semester eingestuft sind, legen die Bachelorzwischenprüfung sowie die Bachelorprüfung nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab.",
+                                    "answer_start": 26,
+                                    "answer_end": 263
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche Prüfung legen Studierende der SPO Nr. 2 im Sommersemester 2020 ab, die in das dritte Semester eingestuft sind und die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) bestanden haben?",
+                            "id": 100,
+                            "answers": [
+                                {
+                                    "answer_id": 100,
+                                    "document_id": 76,
+                                    "question_id": 100,
+                                    "text": "Studierende (der SPO Nr. 2), die im Sommersemester 2020 in das dritte Semester eingestuft sind, und die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) bestanden haben, legen die Bachelorprüfung (Hauptstudium) nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab.",
+                                    "answer_start": 267,
+                                    "answer_end": 573
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche Prüfung legen Studierende der SPO Nr. 2 im Sommersemester 2020 ab, die in das dritte Semester eingestuft sind, aber noch Prüfungsleistungen aus dem Grundstudium abzulegen haben?",
+                            "id": 101,
+                            "answers": [
+                                {
+                                    "answer_id": 101,
+                                    "document_id": 76,
+                                    "question_id": 101,
+                                    "text": "Studierende (der SPO Nr. 2), die im Sommersemester 2020 in das dritte Semester eingestuft sind, aber noch Prüfungsleistungen aus dem Grundstudium abzulegen haben, legen die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) ab. Die Prüfungsleistungen der Bachelorprüfung (Hauptstudium) sind nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) abzulegen.",
+                                    "answer_start": 577,
+                                    "answer_end": 968
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche Prüfung legen Studierende der SPO Nr. 2 im Sommersemester 2020 ab, die nochmals in das zweite Semester eingestuft sind?",
+                            "id": 102,
+                            "answers": [
+                                {
+                                    "answer_id": 102,
+                                    "document_id": 76,
+                                    "question_id": 102,
+                                    "text": "Studierende (der SPO Nr. 2), die im Sommersemester 2020 nochmals in das zweite Semester eingestuft sind, legen die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) und die Bachelorprüfung nach § 57 in der Fassung vom 2. November 2018 (SPO Nr. 3) ab.",
+                                    "answer_start": 972,
+                                    "answer_end": 1254
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche SPO habe ich wenn ich seit Sommer 2021 studiere?",
+                            "id": 103,
+                            "answers": [
+                                {
+                                    "answer_id": 103,
+                                    "document_id": 76,
+                                    "question_id": 103,
+                                    "text": "Studierende (der SPO Nr. 3), die im Sommersemester 2020 in das erste, zweite oder dritte Semester eingestuft sind, legen die Bachelorzwischenprüfung sowie die Bachelorprüfung nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab.",
+                                    "answer_start": 26,
+                                    "answer_end": 263
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist die Übergangsregelung?",
+                            "id": 104,
+                            "answers": [
+                                {
+                                    "answer_id": 104,
+                                    "document_id": 76,
+                                    "question_id": 104,
+                                    "text": "1. Studierende (der SPO Nr. 3), die im Sommersemester 2020 in das erste, zweite oder dritte Semester eingestuft sind, legen die Bachelorzwischenprüfung sowie die Bachelorprüfung nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab. 2. Studierende (der SPO Nr. 2), die im Sommersemester 2020 in das dritte Semester eingestuft sind, und die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) bestanden haben, legen die Bachelorprüfung (Hauptstudium) nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) ab. 3. Studierende (der SPO Nr. 2), die im Sommersemester 2020 in das dritte Semester eingestuft sind, aber noch Prüfungsleistungen aus dem Grundstudium abzulegen haben, legen die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) ab. Die Prüfungsleistungen der Bachelorprüfung (Hauptstudium) sind nach § 57 in der Fassung vom 13. November 2018 (SPO Nr. 3) abzulegen. 4. Studierende (der SPO Nr. 2), die im Sommersemester 2020 nochmals in das zweite Semester eingestuft sind, legen die Bachelorzwischenprüfung nach § 57 in der Fassung vom 11. Februar 2014 (SPO Nr. 2) und die Bachelorprüfung nach § 57 in der Fassung vom 2. November 2018 (SPO Nr. 3) ab.",
+                                    "answer_start": 23,
+                                    "answer_end": 1254
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "SPO-Allgemein",
+            "paragraphs": [
+                {
+                    "context": "§ 2 Regelstudienzeit, Studienaufbau und Modularisierung (1) Die Regelstudienzeit beträgt sieben Semester, im Studiengang Architektur-BA6 (BA6) sechs Semester und im Studiengang Architektur mit EU-Berufsanerkennung (BA8) acht Semester. Beträgt die Regelstudien- zeit sieben Semester, umfasst sie sechs theoretische Studiensemester, ein integriertes praktisches Studien- semester sowie die Prüfungen einschließlich der Bearbeitungszeit der Bachelorarbeit. Im Studiengang Archi- tektur-BA6 (BA6) umfasst sie sechs theoretische Studiensemester sowie die Prüfungen einschließlich der Bearbeitungszeit der Bachelorarbeit. Im Studiengang Architektur mit EU-Berufsanerkennung (BA8) umfasst sie sieben theoretische Studiensemester, ein integriertes praktisches Studiensemester sowie die Prüfungen einschließlich der Bearbeitungszeit der Bachelorarbeit. Für Studierende, die im Sommersemester 2020 oder im Wintersemester 2020/2021 eingeschrieben sind, gilt gemäß § 29 Absatz 3a Landeshochschulgesetz (LHG) eine von der Regelstudienzeit nach Satz 1 abwei- chende, für jedes dieser Semester um ein Semester verlängerte individuelle Regelstudienzeit; das Wissen- schaftsministerium kann diese Regelung durch Rechtsverordnung auf weitere Semester erstrecken",
+                    "document_id": 77,
+                    "qas": [
+                        {
+                            "question": "Welche Regelstudienzeit hat der Studiengang Angewandte Informatik?",
+                            "id": 105,
+                            "answers": [
+                                {
+                                    "answer_id": 105,
+                                    "document_id": 77,
+                                    "question_id": 105,
+                                    "text": "Die Regelstudienzeit beträgt sieben Semester, im Studiengang Architektur-BA6 (BA6) sechs Semester und im Studiengang Architektur mit EU-Berufsanerkennung (BA8) acht Semester",
+                                    "answer_start": 60,
+                                    "answer_end": 233
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie lange dauert die Regelstudienzeit im Studiengang Architektur?",
+                            "id": 106,
+                            "answers": [
+                                {
+                                    "answer_id": 106,
+                                    "document_id": 77,
+                                    "question_id": 106,
+                                    "text": "Die Regelstudienzeit beträgt sieben Semester, im Studiengang Architektur-BA6 (BA6) sechs Semester und im Studiengang Architektur mit EU-Berufsanerkennung (BA8) acht Semester",
+                                    "answer_start": 60,
+                                    "answer_end": 233
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist § 2",
+                            "id": 107,
+                            "answers": [
+                                {
+                                    "answer_id": 107,
+                                    "document_id": 77,
+                                    "question_id": 107,
+                                    "text": "§ 2 Regelstudienzeit, Studienaufbau und Modularisierung",
+                                    "answer_start": 0,
+                                    "answer_end": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "§ 2 Regelstudienzeit, Studienaufbau und Modularisierung (2) Das Studium gliedert sich in das Grundstudium, das nach zwei Semestern, in den Studiengängen Kommunikationsdesign und Wirtschaftssprache Deutsch und Tourismusmanagement nach drei Semestern, mit der Bachelorzwischenprüfung abschließt, und das Hauptstudium, das mit der Bachelorprüfung abschließt.",
+                    "document_id": 78,
+                    "qas": [
+                        {
+                            "question": "Wie lange dauert das Grundstudium?",
+                            "id": 108,
+                            "answers": [
+                                {
+                                    "answer_id": 108,
+                                    "document_id": 78,
+                                    "question_id": 108,
+                                    "text": "Das Studium gliedert sich in das Grundstudium, das nach zwei Semestern, in den Studiengängen Kommunikationsdesign und Wirtschaftssprache Deutsch und Tourismusmanagement nach drei Semestern",
+                                    "answer_start": 60,
+                                    "answer_end": 248
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wann schließt das Grundstudium ab?",
+                            "id": 109,
+                            "answers": [
+                                {
+                                    "answer_id": 109,
+                                    "document_id": 78,
+                                    "question_id": 109,
+                                    "text": "mit der Bachelorzwischenprüfung",
+                                    "answer_start": 250,
+                                    "answer_end": 281
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "§ 2 Regelstudienzeit, Studienaufbau und Modularisierung (3) Das erste Studiensemester ist ein Assessmentsemester. Neben den Fachgrundlagen soll es die Lern- und Arbeitstechniken für ein erfolgreiches Studium vermitteln. Die Studierfähigkeit wird gefördert und überprüft. Das Assessmentsemester soll den Studierenden ermöglichen, zu erkennen, ob der Studiengang für sie geeignet ist. Die Bestimmungen zum Assessmentsemester sind im Besonderen Teil festgelegt",
+                    "document_id": 79,
+                    "qas": [
+                        {
+                            "question": "Was ist das erste Studiensemester?",
+                            "id": 110,
+                            "answers": [
+                                {
+                                    "answer_id": 110,
+                                    "document_id": 79,
+                                    "question_id": 110,
+                                    "text": "Das erste Studiensemester ist ein Assessmentsemester.",
+                                    "answer_start": 60,
+                                    "answer_end": 113
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist das Assessmentsemester?",
+                            "id": 111,
+                            "answers": [
+                                {
+                                    "answer_id": 111,
+                                    "document_id": 79,
+                                    "question_id": 111,
+                                    "text": "Das Assessmentsemester soll den Studierenden ermöglichen, zu erkennen, ob der Studiengang für sie geeignet ist.",
+                                    "answer_start": 271,
+                                    "answer_end": 382
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "§ 2 Regelstudienzeit, Studienaufbau und Modularisierung (4) Das Studium ist modular aufgebaut. Ein Modul bezeichnet eine Studieneinheit bestehend aus einer oder mehreren Lehrveranstaltungen, die entweder methodisch aufeinander aufbauen oder inhaltlich zusammen gehören. Bestandteil eines Moduls kann auch die im integrierten praktischen Studiensemester durchgeführte Ausbildung in der Praxis sein. Die Inhalte eines Moduls sind so bemessen, dass sie innerhalb eines Semesters oder innerhalb von zwei aufeinander folgenden Semestern vermittelt werden können. Für jedes Modul ist in der Regel eine Modulprüfung gemäß § 3 abzulegen",
+                    "document_id": 80,
+                    "qas": [
+                        {
+                            "question": "Was ist ein Modul?",
+                            "id": 112,
+                            "answers": [
+                                {
+                                    "answer_id": 112,
+                                    "document_id": 80,
+                                    "question_id": 112,
+                                    "text": "Ein Modul bezeichnet eine Studieneinheit bestehend aus einer oder mehreren Lehrveranstaltungen, die entweder methodisch aufeinander aufbauen oder inhaltlich zusammen gehören.",
+                                    "answer_start": 95,
+                                    "answer_end": 269
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie lange dauert ein Modul?",
+                            "id": 113,
+                            "answers": [
+                                {
+                                    "answer_id": 113,
+                                    "document_id": 80,
+                                    "question_id": 113,
+                                    "text": "Die Inhalte eines Moduls sind so bemessen, dass sie innerhalb eines Semesters oder innerhalb von zwei aufeinander folgenden Semestern vermittelt werden können",
+                                    "answer_start": 398,
+                                    "answer_end": 556
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "§ 3 Prüfungsaufbau und -fristen - Verlust des Prüfungsanspruchs infolge Fristüberschreitung (1) Die Bachelorzwischenprüfung besteht aus Modul- bzw. Modulteilprüfungen und Unbenoteten Leistungsnachweisen (§§ 14 ff.), die Bachelorprüfung aus Modul- bzw. Modulteilprüfungen und Unbenoteten Leistungsnachweisen (§§ 14 ff.), der Bachelorarbeit (§ 30) und, sofern im Besonderen Teil für den jeweiligen Studiengang vorgesehen, aus einer Mündlichen Bachelorprüfung (§ 31). Module umfassen entweder eine oder mehrere benotete oder unbenotete Modulteilprüfung(en) oder umfassen nur eine Modulprüfung und, sofern im Besonderen Teil für den jeweiligen Studiengang vorgesehen, entweder einen oder mehrere Unbenotete(n) Leistungsnachweis(e). Im Besonderen Teil werden die Module der Bachelorzwischenprüfung und der Bachelorprüfung, einschließlich der zugehörigen Modul- bzw. Modulteilprüfungen sowie der Unbenoteten Leistungsnachweise, festgelegt.",
+                    "document_id": 81,
+                    "qas": [
+                        {
+                            "question": "Was ist die Bachelorzwischenprüfung?",
+                            "id": 114,
+                            "answers": [
+                                {
+                                    "answer_id": 114,
+                                    "document_id": 81,
+                                    "question_id": 114,
+                                    "text": "Die Bachelorzwischenprüfung besteht aus Modul- bzw. Modulteilprüfungen und Unbenoteten Leistungsnachweisen (§§ 14 ff.), der Bachelorarbeit (§ 30) und, sofern im Besonderen Teil für den jeweiligen Studiengang vorgesehen, aus einer Mündlichen Bachelorprüfung (§ 31)",
+                                    "answer_start": 96,
+                                    "answer_end": 359
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist § 3?",
+                            "id": 115,
+                            "answers": [
+                                {
+                                    "answer_id": 115,
+                                    "document_id": 81,
+                                    "question_id": 115,
+                                    "text": "§ 3 Prüfungsaufbau und -fristen - Verlust des Prüfungsanspruchs infolge Fristüberschreitung",
+                                    "answer_start": 0,
+                                    "answer_end": 91
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was umfassen Module?",
+                            "id": 116,
+                            "answers": [
+                                {
+                                    "answer_id": 116,
+                                    "document_id": 81,
+                                    "question_id": 116,
+                                    "text": "Module umfassen entweder eine oder mehrere benotete oder unbenotete Modulteilprüfung(en) oder umfassen nur eine Modulprüfung und, sofern im Besonderen Teil für den jeweiligen Studiengang vorgesehen, entweder einen oder mehrere Unbenotete(n) Leistungsnachweis(e).",
+                                    "answer_start": 465,
+                                    "answer_end": 727
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wo werden die Module der Bachelorzwischenprüfung und der Bachelorprüfung festgelegt?",
+                            "id": 117,
+                            "answers": [
+                                {
+                                    "answer_id": 117,
+                                    "document_id": 81,
+                                    "question_id": 117,
+                                    "text": "Im Besonderen Teil werden die Module der Bachelorzwischenprüfung und der Bachelorprüfung, einschließlich der zugehörigen Modul- bzw. Modulteilprüfungen sowie der Unbenoteten Leistungsnachweise, festgelegt.",
+                                    "answer_start": 728,
+                                    "answer_end": 933
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was passiert bei Fristüberschreitung?",
+                            "id": 118,
+                            "answers": [
+                                {
+                                    "answer_id": 118,
+                                    "document_id": 81,
+                                    "question_id": 118,
+                                    "text": "Verlust des Prüfungsanspruchs infolge Fristüberschreitung",
+                                    "answer_start": 34,
+                                    "answer_end": 91
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "§ 4 ECTS-Punkte und Lernumfang (1) ECTS-Punkte beschreiben entsprechend dem „European Credit Transfer System“ den mittleren zeitlichen Arbeitsaufwand, der erforderlich ist, um ein Modul erfolgreich zu absolvieren. (2) Die Zuordnung der ECTS-Punkte zu den Modulen ist im Besonderen Teil geregelt. ECTS-Punkte werden nur dann vergeben, wenn alle Modul- bzw. Modulteilprüfungen und Unbenoteten Leistungsnachweise des jeweiligen Moduls erbracht (§ 20) wurden. Entsprechend werden für die bestandene Bachelorarbeit bzw. für die bestandene Mündliche Bachelorprüfung ECTS-Punkte nach Maßgabe des Besonderen Teils vergeben. (3) Der Arbeitsaufwand für ein Studiensemester beträgt 30 ECTS-Punkte. (4) Der zeitliche Aufwand für einen ECTS-Punkt beträgt einheitlich in einem Studiengang 30 Arbeitsstunden. Eine Arbeitsstunde umfasst 60 Minuten.",
+                    "document_id": 82,
+                    "qas": [
+                        {
+                            "question": "Was sind ECTS?",
+                            "id": 119,
+                            "answers": [
+                                {
+                                    "answer_id": 119,
+                                    "document_id": 82,
+                                    "question_id": 119,
+                                    "text": "ECTS-Punkte beschreiben entsprechend dem „European Credit Transfer System“ den mittleren zeitlichen Arbeitsaufwand, der erforderlich ist, um ein Modul erfolgreich zu absolvieren.",
+                                    "answer_start": 35,
+                                    "answer_end": 213
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie sind die ECTS-Punkte zu den Modulen geregelt?",
+                            "id": 120,
+                            "answers": [
+                                {
+                                    "answer_id": 120,
+                                    "document_id": 82,
+                                    "question_id": 120,
+                                    "text": "Die Zuordnung der ECTS-Punkte zu den Modulen ist im Besonderen Teil geregelt.",
+                                    "answer_start": 218,
+                                    "answer_end": 295
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wann werden ECTS-Punkte vergeben?",
+                            "id": 121,
+                            "answers": [
+                                {
+                                    "answer_id": 121,
+                                    "document_id": 82,
+                                    "question_id": 121,
+                                    "text": "ECTS-Punkte werden nur dann vergeben, wenn alle Modul- bzw. Modulteilprüfungen und Unbenoteten Leistungsnachweise des jeweiligen Moduls erbracht (§ 20) wurden.",
+                                    "answer_start": 296,
+                                    "answer_end": 455
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie viele ECTS hat ein normales Studiensemester?",
+                            "id": 122,
+                            "answers": [
+                                {
+                                    "answer_id": 122,
+                                    "document_id": 82,
+                                    "question_id": 122,
+                                    "text": "Der Arbeitsaufwand für ein Studiensemester beträgt 30 ECTS-Punkte.",
+                                    "answer_start": 620,
+                                    "answer_end": 686
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wie viele Arbeitsstunden sind 1 ECTS?",
+                            "id": 123,
+                            "answers": [
+                                {
+                                    "answer_id": 123,
+                                    "document_id": 82,
+                                    "question_id": 123,
+                                    "text": "Der zeitliche Aufwand für einen ECTS-Punkt beträgt einheitlich in einem Studiengang 30 Arbeitsstunden. Eine Arbeitsstunde umfasst 60 Minuten.",
+                                    "answer_start": 691,
+                                    "answer_end": 832
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Wieviele ECTS-Punkte werden für die bestandene Bachelorarbeit bzw. für die bestandene Mündliche Bachelorprüfung vergeben?",
+                            "id": 124,
+                            "answers": [
+                                {
+                                    "answer_id": 124,
+                                    "document_id": 82,
+                                    "question_id": 124,
+                                    "text": "Entsprechend werden für die bestandene Bachelorarbeit bzw. für die bestandene Mündliche Bachelorprüfung ECTS-Punkte nach Maßgabe des Besonderen Teils vergeben.",
+                                    "answer_start": 456,
+                                    "answer_end": 615
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "§ 5 Lehr- und Prüfungssprachen Lehrveranstaltungen und Prüfungen (Unbenotete Leistungsnachweise, Modul- bzw. Modulteilprüfungen, Bachelorarbeit, Mündliche Bachelorprüfung) können ganz oder teilweise in einer Fremdsprache abgehalten werden. Näheres regelt der Besondere Teil.",
+                    "document_id": 83,
+                    "qas": [
+                        {
+                            "question": "In welchen Sprachen werden Lehrveranstaltungen und Prüfungen abgehalten?",
+                            "id": 125,
+                            "answers": [
+                                {
+                                    "answer_id": 125,
+                                    "document_id": 83,
+                                    "question_id": 125,
+                                    "text": "Lehrveranstaltungen und Prüfungen (Unbenotete Leistungsnachweise, Modul- bzw. Modulteilprüfungen, Bachelorarbeit, Mündliche Bachelorprüfung) können ganz oder teilweise in einer Fremdsprache abgehalten werden.",
+                                    "answer_start": 31,
+                                    "answer_end": 239
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Welche Regelungen gibt es für die Lehr- und Prüfungssprachen?",
+                            "id": 126,
+                            "answers": [
+                                {
+                                    "answer_id": 126,
+                                    "document_id": 83,
+                                    "question_id": 126,
+                                    "text": "Näheres regelt der Besondere Teil.",
+                                    "answer_start": 240,
+                                    "answer_end": 274
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Allgemeine Abkürzungen: Sem = Semester, SWS = Semesterwochenstunden, ECTS = European Credit Transfer System, LV = Lehrveranstaltung, MO = Modul, PM = Pflichtmodul, WPM = Wahlpflichtmodul, EN = Englischsprachige Veranstaltung, V = Vorlesung, Ü = Übung (mit Betreuung), LÜ = Laborübung, W = Workshop / Seminar, P = Praktikum, PJ = Projekt, E = Exkursion, X = Veranstaltungsart ist abhängig von der gewählten Veranstaltung, PSS = Integriertes praktisches Studiensemester, TSS = Theoretisches Auslandsstudiensemester",
+                    "document_id": 84,
+                    "qas": [
+                        {
+                            "question": "Was bedeutet SWS?",
+                            "id": 127,
+                            "answers": [
+                                {
+                                    "answer_id": 127,
+                                    "document_id": 84,
+                                    "question_id": 127,
+                                    "text": "Semesterwochenstunden",
+                                    "answer_start": 46,
+                                    "answer_end": 67
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist ECTS?",
+                            "id": 128,
+                            "answers": [
+                                {
+                                    "answer_id": 128,
+                                    "document_id": 84,
+                                    "question_id": 128,
+                                    "text": "European Credit Transfer System",
+                                    "answer_start": 76,
+                                    "answer_end": 107
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist ein PM?",
+                            "id": 129,
+                            "answers": [
+                                {
+                                    "answer_id": 129,
+                                    "document_id": 84,
+                                    "question_id": 129,
+                                    "text": "Pflichtmodul",
+                                    "answer_start": 150,
+                                    "answer_end": 162
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Was ist PSS?",
+                            "id": 130,
+                            "answers": [
+                                {
+                                    "answer_id": 130,
+                                    "document_id": 84,
+                                    "question_id": 130,
+                                    "text": "Integriertes praktisches Studiensemester",
+                                    "answer_start": 427,
+                                    "answer_end": 467
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

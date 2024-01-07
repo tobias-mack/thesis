@@ -1,0 +1,1269 @@
+{
+    "data": [
+        {
+            "title": "FAQ",
+            "paragraphs": [
+                {
+                    "context": "Warum nennt man das erste Semester auch \"Assessmentsemester\"? Das erste Semester soll Ihnen den Einstieg ins Studium erleichtern und Ihnen helfen, frühzeitig einzuschätzen, ob der gewählte Studiengang Ihren Vorstellungen und Neigungen auch wirklich entspricht. Es ist so aufgebaut, dass Ihnen sowohl fachliche Grundlagen als auch Lern- und Arbeitstechniken, die für ein erfolgreiches Studium notwendig sind, vermittelt werden. Dadurch wird Ihre Studierfähigkeit gefördert, aber auch frühzeitig überprüft und bewertet.Das englische Wort \"assessment\" kann mit \"Einschätzung\" oder \"Bewertung\" übersetzt werden.Für das Assessmentsemester gibt es einige Besonderheiten in der Studien- und Prüfungsordnung, die den oben beschriebenen Zielen dienen sollen und in den nachfolgenden Abschnitten beschrieben sind.\n",
+                    "qas": [
+                        {
+                            "question": "Warum nennt man das erste Semester auch \"Assessmentsemester\"?",
+                            "id": "1",
+                            "answers": [
+                                {
+                                    "answer_id": "1",
+                                    "document_id": "1",
+                                    "question_id": "1",
+                                    "text": "Das erste Semester soll Ihnen den Einstieg ins Studium erleichtern und Ihnen helfen, frühzeitig einzuschätzen, ob der gewählte Studiengang Ihren Vorstellungen und Neigungen auch wirklich entspricht. Es ist so aufgebaut, dass Ihnen sowohl fachliche Grundlagen als auch Lern- und Arbeitstechniken, die für ein erfolgreiches Studium notwendig sind, vermittelt werden. Dadurch wird Ihre Studierfähigkeit gefördert, aber auch frühzeitig überprüft und bewertet.Das englische Wort \"assessment\" kann mit \"Einschätzung\" oder \"Bewertung\" übersetzt werden.Für das Assessmentsemester gibt es einige Besonderheiten in der Studien- und Prüfungsordnung, die den oben beschriebenen Zielen dienen sollen und in den nachfolgenden Abschnitten beschrieben sind.\n",
+                                    "answer_start": 62,
+                                    "answer_end": 804
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wo finde ich den Studienplan (zum ersten Semester) und die zugehörigen Prüfungen? Dies alles finden Sie in der Studien- und Prüfungsordnung (kurz: SPO) Ihres Studiengangs: Wählen Sie diesen in der Rubrik \"Besonderer Teil\" aus. Achten Sie dabei darauf, dass Sie die richtige Version ansteuern.Im Absatz \"(9) Regelmäßiger Studienplan\" der SPO finden Sie die Bezeichnungen der Lehrveranstaltungen (LV) und deren Art (V = Vorlesung, Ü = Übungen, LÜ = Laborübungen, W = Workshop). Außerdem ist die jeweilige Stundenzahl pro Woche (SWS) angegeben. In manchen Fällen sind mehrere Lehrveranstaltungen zu einem \"Modul\" zusammengeschweißt.Der Tabelle im Absatz \"(10) Prüfungsplan\" können Sie in der letzten Spalte rechts außen die Prüfungsformen der benoteten Modul- oder Modulteilprüfungen entnehmen. Das Kürzel K90 beispielsweise steht für eine schriftliche Klausurprüfung von 90 Minuten Dauer.Im Gegensatz zu diesen benoteten Prüfungen stehen unbenotete Leistungsnachweise – im Studierendenjargon auch gerne \"Scheine\" genannt. Diese sind in der Form SP (= sonstige schriftliche oder praktische Arbeit), z.B. als schriftliche Ausarbeitung oder als Programmierarbeit, vorlesungsbegleitend über das Semester hinweg zu erbringen.     Der Arbeitsaufwand, den Sie für ein Modul aufbringen sollten - also für die Vorlesungs- und Übungsbesuche, für die vorlesungsbegleitenden Leistungsnachweise und für die Vorbereitung auf die Prüfungen – wird durch so genannte ECTS-Punkte widergespiegelt: Nach dem European Credit Transfer System liegt die Arbeitslast eines Semesters in der Summe bei 30 ECTS-Punkten. 1 ECTS-Punkt entspricht einem zeitlichen Aufwand von 30 Arbeitsstunden; somit wird davon ausgegangen, dass Sie pro Semester ca. 30*30=900 Arbeitsstunden für Ihr Studium investieren(!). Ein Semester umfasst 15 (Vorlesungs-)Wochen. Daher liegt die wöchentliche Arbeitslast (während der Vorlesungszeit) bei ungefähr 60 Stunden. Das Modulhandbuch Ihres Studiengangs beschreibt für alle vorgesehenen Module, welcher Aufwand als Kontaktzeit (Vorlesung, Übungen) und welcher Aufwand im Selbststudium zu erbringen ist. Natürlich können Sie auch etwas Zeit auf die Klausurvorbereitung verschieben, aber Mitarbeit während des Semesters erleichtert die Vorbereitung immens.Die ECTS-Punkte stellen gleichzeitig auch Gewichtungsfaktoren beim Berechnen der Durchschnittsnote über alle erbrachten benoteten Prüfungsleistungen hinweg dar.\n",
+                    "qas": [
+                        {
+                            "question": "Wo finde ich den Studienplan (zum ersten Semester) und die zugehörigen Prüfungen?",
+                            "id": "2",
+                            "answers": [
+                                {
+                                    "answer_id": "2",
+                                    "document_id": "2",
+                                    "question_id": "2",
+                                    "text": "Dies alles finden Sie in der Studien- und Prüfungsordnung (kurz: SPO) Ihres Studiengangs: Wählen Sie diesen in der Rubrik \"Besonderer Teil\" aus. Achten Sie dabei darauf, dass Sie die richtige Version ansteuern.Im Absatz \"(9) Regelmäßiger Studienplan\" der SPO finden Sie die Bezeichnungen der Lehrveranstaltungen (LV) und deren Art (V = Vorlesung, Ü = Übungen, LÜ = Laborübungen, W = Workshop). Außerdem ist die jeweilige Stundenzahl pro Woche (SWS) angegeben. In manchen Fällen sind mehrere Lehrveranstaltungen zu einem \"Modul\" zusammengeschweißt.Der Tabelle im Absatz \"(10) Prüfungsplan\" können Sie in der letzten Spalte rechts außen die Prüfungsformen der benoteten Modul- oder Modulteilprüfungen entnehmen. Das Kürzel K90 beispielsweise steht für eine schriftliche Klausurprüfung von 90 Minuten Dauer.Im Gegensatz zu diesen benoteten Prüfungen stehen unbenotete Leistungsnachweise – im Studierendenjargon auch gerne \"Scheine\" genannt. Diese sind in der Form SP (= sonstige schriftliche oder praktische Arbeit), z.B. als schriftliche Ausarbeitung oder als Programmierarbeit, vorlesungsbegleitend über das Semester hinweg zu erbringen.     Der Arbeitsaufwand, den Sie für ein Modul aufbringen sollten - also für die Vorlesungs- und Übungsbesuche, für die vorlesungsbegleitenden Leistungsnachweise und für die Vorbereitung auf die Prüfungen – wird durch so genannte ECTS-Punkte widergespiegelt: Nach dem European Credit Transfer System liegt die Arbeitslast eines Semesters in der Summe bei 30 ECTS-Punkten. 1 ECTS-Punkt entspricht einem zeitlichen Aufwand von 30 Arbeitsstunden; somit wird davon ausgegangen, dass Sie pro Semester ca. 30*30=900 Arbeitsstunden für Ihr Studium investieren(!). Ein Semester umfasst 15 (Vorlesungs-)Wochen. Daher liegt die wöchentliche Arbeitslast (während der Vorlesungszeit) bei ungefähr 60 Stunden. Das Modulhandbuch Ihres Studiengangs beschreibt für alle vorgesehenen Module, welcher Aufwand als Kontaktzeit (Vorlesung, Übungen) und welcher Aufwand im Selbststudium zu erbringen ist. Natürlich können Sie auch etwas Zeit auf die Klausurvorbereitung verschieben, aber Mitarbeit während des Semesters erleichtert die Vorbereitung immens.Die ECTS-Punkte stellen gleichzeitig auch Gewichtungsfaktoren beim Berechnen der Durchschnittsnote über alle erbrachten benoteten Prüfungsleistungen hinweg dar.\n",
+                                    "answer_start": 82,
+                                    "answer_end": 2413
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wann finden die Klausurprüfungen zum Assessmentsemester statt? Klausuren werden stets unmittelbar nach Ende der Vorlesungszeit, im so genannten 1. Prüfungszeitraum, geschrieben. Das gilt nicht nur für das Assessmentsemester, sondern für das gesamte Studium. Der 1. Prüfungszeitraum eines Wintersemesters beginnt in der Regel Ende Januar, der eines Sommersemesters Anfang Juli, und erstreckt sich jeweils über 3 Wochen.Für das Assessmentsemester – und nur für dieses – gibt es auch noch einen 2. Prüfungszeitraum. Der 2. Prüfungszeitraum liegt am Beginn des nachfolgenden Semesters (Mitte März für das Wintersemester bzw. Ende September/Anfang Oktober für das Sommersemester). Die aktuellen Termine finden Sie auf der Seite des zentralen Prüfungsausschusses unter Termine/Fristen.Sie müssen im ersten Semester alle Klausuren schreiben, d.h. Sie werden also im 1. Prüfungszeitraum für alle Prüfungen des 1. Semesters automatisch angemeldet.Im 2. Prüfungszeitraum müssen Sie alle Klausuren des ersten Semesters schreiben, die Sie noch nicht bestanden haben. Das sind alle Klausuren, die Sie im 1. Prüfungszeitraum geschrieben und nicht bestanden haben und alle Klausuren, die Sie z.B. aus Krankheitsgründen noch nicht geschrieben haben.\n",
+                    "qas": [
+                        {
+                            "question": "Wann finden die Klausurprüfungen zum Assessmentsemester statt?",
+                            "id": "3",
+                            "answers": [
+                                {
+                                    "answer_id": "3",
+                                    "document_id": "3",
+                                    "question_id": "3",
+                                    "text": "Klausuren werden stets unmittelbar nach Ende der Vorlesungszeit, im so genannten 1. Prüfungszeitraum, geschrieben. Das gilt nicht nur für das Assessmentsemester, sondern für das gesamte Studium. Der 1. Prüfungszeitraum eines Wintersemesters beginnt in der Regel Ende Januar, der eines Sommersemesters Anfang Juli, und erstreckt sich jeweils über 3 Wochen.Für das Assessmentsemester – und nur für dieses – gibt es auch noch einen 2. Prüfungszeitraum. Der 2. Prüfungszeitraum liegt am Beginn des nachfolgenden Semesters (Mitte März für das Wintersemester bzw. Ende September/Anfang Oktober für das Sommersemester). Die aktuellen Termine finden Sie auf der Seite des zentralen Prüfungsausschusses unter Termine/Fristen.Sie müssen im ersten Semester alle Klausuren schreiben, d.h. Sie werden also im 1. Prüfungszeitraum für alle Prüfungen des 1. Semesters automatisch angemeldet.Im 2. Prüfungszeitraum müssen Sie alle Klausuren des ersten Semesters schreiben, die Sie noch nicht bestanden haben. Das sind alle Klausuren, die Sie im 1. Prüfungszeitraum geschrieben und nicht bestanden haben und alle Klausuren, die Sie z.B. aus Krankheitsgründen noch nicht geschrieben haben.\n",
+                                    "answer_start": 63,
+                                    "answer_end": 1234
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Muss ich gleich zu allen Prüfungen des Assessmentsemesters antreten? Ja, Sie müssen in Ihrem ersten Semester an allen benoteten Prüfungen, die in Ihrer Studien- und Prüfungsordnung vorgesehen sind, teilnehmen. Man sagt auch: Alle Modul(teil)prüfungen des Assessmentsemesters sind terminiert. Deshalb werden Sie zu diesen auch automatisch angemeldet.Diese Verpflichtung zum Schreiben aller Prüfungen soll Ihnen helfen, frühzeitig einzuschätzen, ob der gewählte Studiengang Ihren Vorstellungen und Neigungen auch wirklich entspricht.Sollten Sie am Prüfungstag krank sein, benötigen Sie ein ärztliches Attest, das Sie unverzüglich im Sekretariat einreichen, Details siehe Punkt Was muss ich im Krankheitsfall beachten?Falls Sie durch nicht-krankheitsbedingte außergewöhnliche Probleme (z.B. Verkehr, Vorfälle privater oder familiärer Natur, …) nicht in der Lage sind, an einer Klausur teilzunehmen, kontaktieren Sie bitte umgehend die/den für Sie zuständigen Prüfungsausschussvorsitzenden. Bleiben Sie keinesfalls unentschuldigt einer Klausur fern – sonst gilt die Prüfung als nicht bestanden (Note 5,0). Im Notenkonto wird der Vermerk U (unentschuldigtes Fehlen) eingetragen, und der Versuchszähler wird für die nächste Anmeldung dieser Prüfung um 1 erhöht. \n",
+                    "qas": [
+                        {
+                            "question": "Muss ich gleich zu allen Prüfungen des Assessmentsemesters antreten?",
+                            "id": "4",
+                            "answers": [
+                                {
+                                    "answer_id": "4",
+                                    "document_id": "4",
+                                    "question_id": "4",
+                                    "text": "Ja, Sie müssen in Ihrem ersten Semester an allen benoteten Prüfungen, die in Ihrer Studien- und Prüfungsordnung vorgesehen sind, teilnehmen. Man sagt auch: Alle Modul(teil)prüfungen des Assessmentsemesters sind terminiert. Deshalb werden Sie zu diesen auch automatisch angemeldet.Diese Verpflichtung zum Schreiben aller Prüfungen soll Ihnen helfen, frühzeitig einzuschätzen, ob der gewählte Studiengang Ihren Vorstellungen und Neigungen auch wirklich entspricht.Sollten Sie am Prüfungstag krank sein, benötigen Sie ein ärztliches Attest, das Sie unverzüglich im Sekretariat einreichen, Details siehe Punkt Was muss ich im Krankheitsfall beachten?Falls Sie durch nicht-krankheitsbedingte außergewöhnliche Probleme (z.B. Verkehr, Vorfälle privater oder familiärer Natur, …) nicht in der Lage sind, an einer Klausur teilzunehmen, kontaktieren Sie bitte umgehend die/den für Sie zuständigen Prüfungsausschussvorsitzenden. Bleiben Sie keinesfalls unentschuldigt einer Klausur fern – sonst gilt die Prüfung als nicht bestanden (Note 5,0). Im Notenkonto wird der Vermerk U (unentschuldigtes Fehlen) eingetragen, und der Versuchszähler wird für die nächste Anmeldung dieser Prüfung um 1 erhöht. \n",
+                                    "answer_start": 69,
+                                    "answer_end": 1257
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Hilfe, ich habe eine Klausur nicht bestanden! Falls Sie eine Klausur im ersten Anlauf nicht bestanden haben, ist dies kein Grund zur Panik und kann durchaus passieren – schließlich sind Sie ja noch damit beschäftigt, sich mit der neuen Lern- und Prüfungssituation zurechtzufinden. Sie werden automatisch zum nächstmöglichen Prüfungstermin angemeldet. Falls Sie die Klausur im 1. Prüfungszeitraum nicht bestanden haben, bedeutet dies, dass Sie die Klausur im 2. Prüfungszeitraum noch einmal schreiben können. Wenn Sie die Klausur im 2. Prüfungszeitraum erstmalig nicht bestanden haben, müssen Sie bis zum Ende des nächsten Semesters warten, um diese noch einmal zu wiederholen.Falls Sie auch die Wiederholungsklausur(en) nicht bestehen sollten, können Sie sich zunächst nochmals überlegen, ob Sie den für Sie richtigen Studiengang gewählt haben oder sich lieber anderweitig orientieren wollen. Wenn Sie in Ihrem Studiengang weiterstudieren wollen, gibt es für Sie auf Antrag eventuell noch die Möglichkeit, einen dritten Versuch zum Bestehen der Klausur zu unternehmen. Näheres dazu finden Sie in der Rubrik Wiederholung von Prüfungen.   \n",
+                    "qas": [
+                        {
+                            "question": "Hilfe, ich habe eine Klausur nicht bestanden!",
+                            "id": "5",
+                            "answers": [
+                                {
+                                    "answer_id": "5",
+                                    "document_id": "5",
+                                    "question_id": "5",
+                                    "text": "Falls Sie eine Klausur im ersten Anlauf nicht bestanden haben, ist dies kein Grund zur Panik und kann durchaus passieren – schließlich sind Sie ja noch damit beschäftigt, sich mit der neuen Lern- und Prüfungssituation zurechtzufinden. Sie werden automatisch zum nächstmöglichen Prüfungstermin angemeldet. Falls Sie die Klausur im 1. Prüfungszeitraum nicht bestanden haben, bedeutet dies, dass Sie die Klausur im 2. Prüfungszeitraum noch einmal schreiben können. Wenn Sie die Klausur im 2. Prüfungszeitraum erstmalig nicht bestanden haben, müssen Sie bis zum Ende des nächsten Semesters warten, um diese noch einmal zu wiederholen.Falls Sie auch die Wiederholungsklausur(en) nicht bestehen sollten, können Sie sich zunächst nochmals überlegen, ob Sie den für Sie richtigen Studiengang gewählt haben oder sich lieber anderweitig orientieren wollen. Wenn Sie in Ihrem Studiengang weiterstudieren wollen, gibt es für Sie auf Antrag eventuell noch die Möglichkeit, einen dritten Versuch zum Bestehen der Klausur zu unternehmen. Näheres dazu finden Sie in der Rubrik Wiederholung von Prüfungen.   \n",
+                                    "answer_start": 46,
+                                    "answer_end": 1138
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "An wen kann ich mich wenden, wenn ich weitere Fragen zu Prüfungsangelegenheiten habe? Dafür sind wir da – die Vorsitzenden der Prüfungsausschüsse.\n",
+                    "qas": [
+                        {
+                            "question": "An wen kann ich mich wenden, wenn ich weitere Fragen zu Prüfungsangelegenheiten habe?",
+                            "id": "6",
+                            "answers": [
+                                {
+                                    "answer_id": "6",
+                                    "document_id": "6",
+                                    "question_id": "6",
+                                    "text": "Dafür sind wir da – die Vorsitzenden der Prüfungsausschüsse.\n",
+                                    "answer_start": 86,
+                                    "answer_end": 147
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Können Studien- und Prüfungsleistungen, die ich bereits an einer anderen deutschen Hochschule oder in einem anderen Studiengang der HTWG erbracht habe, anerkannt werden? Ja, das ist auf Antrag hin möglich.Überprüft wird vor einer Anerkennung, ob die von Ihnen früher \"erworbenen Kompetenzen in Inhalt, Umfang und in den Anforderungen denjenigen Studienzeiten und Studien- und Prüfungsleistungen des entsprechenden Studiums an der Hochschule Konstanz im Wesentlichen entsprechen.\" (SPO-Ba, Allgemeiner Teil, §24 (1)). Sie müssen daher \"die erforderlichen Informationen über die anzuerkennende Leistung bereitstellen\" (§24 (6)).SPO-Ba, Allgemeiner Teil \n",
+                    "qas": [
+                        {
+                            "question": "Können Studien- und Prüfungsleistungen, die ich bereits an einer anderen deutschen Hochschule oder in einem anderen Studiengang der HTWG erbracht habe, anerkannt werden?",
+                            "id": "7",
+                            "answers": [
+                                {
+                                    "answer_id": "7",
+                                    "document_id": "7",
+                                    "question_id": "7",
+                                    "text": "Ja, das ist auf Antrag hin möglich.Überprüft wird vor einer Anerkennung, ob die von Ihnen früher \"erworbenen Kompetenzen in Inhalt, Umfang und in den Anforderungen denjenigen Studienzeiten und Studien- und Prüfungsleistungen des entsprechenden Studiums an der Hochschule Konstanz im Wesentlichen entsprechen.\" (SPO-Ba, Allgemeiner Teil, §24 (1)). Sie müssen daher \"die erforderlichen Informationen über die anzuerkennende Leistung bereitstellen\" (§24 (6)).SPO-Ba, Allgemeiner Teil \n",
+                                    "answer_start": 170,
+                                    "answer_end": 652
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wann und wie ist der Antrag auf Anerkennung zu stellen? Der Antrag ist innerhalb von drei Monaten nach dem Tag der Immatrikulation an der HTWG zu stellen. Verwenden Sie hierzu das Formular Antrag auf Anerkennung einer Prüfungsleistung – bitte verwenden Sie das elektronisch ausfüllbare Formular.Die Angaben, die Sie zu Umfang (gemessen in ECTS-Punkten), Art der Prüfung und erzielter Note machen, sind durch Unterlagen der ehemaligen Hochschule oder des früheren Studiengangs nachzuweisen. Auch sollte eine Übersicht der Inhalte der andernorts besuchten Lehrveranstaltung vorgelegt werden, um überprüfen zu können, ob diese sich weitgehend mit denen der anzuerkennenden decken. Für all diese Nachweise sind Notenbescheinigungen und Modulhandbücher am besten geeignet.\n",
+                    "qas": [
+                        {
+                            "question": "Wann und wie ist der Antrag auf Anerkennung zu stellen?",
+                            "id": "8",
+                            "answers": [
+                                {
+                                    "answer_id": "8",
+                                    "document_id": "8",
+                                    "question_id": "8",
+                                    "text": "Der Antrag ist innerhalb von drei Monaten nach dem Tag der Immatrikulation an der HTWG zu stellen. Verwenden Sie hierzu das Formular Antrag auf Anerkennung einer Prüfungsleistung – bitte verwenden Sie das elektronisch ausfüllbare Formular.Die Angaben, die Sie zu Umfang (gemessen in ECTS-Punkten), Art der Prüfung und erzielter Note machen, sind durch Unterlagen der ehemaligen Hochschule oder des früheren Studiengangs nachzuweisen. Auch sollte eine Übersicht der Inhalte der andernorts besuchten Lehrveranstaltung vorgelegt werden, um überprüfen zu können, ob diese sich weitgehend mit denen der anzuerkennenden decken. Für all diese Nachweise sind Notenbescheinigungen und Modulhandbücher am besten geeignet.\n",
+                                    "answer_start": 56,
+                                    "answer_end": 768
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "An wen muss ich mich mit dem Antrag auf Anerkennung wenden? Wenn Sie den Studiengang gewechselt haben, ist die/der Leiter/in Ihres neuen Studiengangs für die Anerkennung zuständig.Kontaktdaten der Studiengangsverantwortlichen (sog. Studiendekaninnen bzw. Studiendekane oder Studiengangsleiterinnen bzw. Studiengangsleiter)  \n",
+                    "qas": [
+                        {
+                            "question": "An wen muss ich mich mit dem Antrag auf Anerkennung wenden?",
+                            "id": "9",
+                            "answers": [
+                                {
+                                    "answer_id": "9",
+                                    "document_id": "9",
+                                    "question_id": "9",
+                                    "text": "Wenn Sie den Studiengang gewechselt haben, ist die/der Leiter/in Ihres neuen Studiengangs für die Anerkennung zuständig.Kontaktdaten der Studiengangsverantwortlichen (sog. Studiendekaninnen bzw. Studiendekane oder Studiengangsleiterinnen bzw. Studiengangsleiter)  \n",
+                                    "answer_start": 60,
+                                    "answer_end": 325
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie oft kann ich eine nicht bestandene Prüfung wiederholen? Eine nicht bestandene benotete Prüfung können Sie einmal wiederholen. Zur Wiederholungsprüfung werden Sie automatisch zum nächstmöglichen Prüfungstermin angemeldet.Eine zweite Wiederholung – also ein dritter Versuch - ist nur auf schriftlichen Antrag (\"Antrag auf eine 2. Wiederholung im Fach…\") an den Prüfungsausschuss möglich.Unbenotete Leistungsnachweise (\"Scheine\") können auch ohne Antrag mehrfach wiederholt werden. Allerdings gelten auch für diese die Prüfungsfristen. \n",
+                    "qas": [
+                        {
+                            "question": "Wie oft kann ich eine nicht bestandene Prüfung wiederholen?",
+                            "id": "10",
+                            "answers": [
+                                {
+                                    "answer_id": "10",
+                                    "document_id": "10",
+                                    "question_id": "10",
+                                    "text": "Eine nicht bestandene benotete Prüfung können Sie einmal wiederholen. Zur Wiederholungsprüfung werden Sie automatisch zum nächstmöglichen Prüfungstermin angemeldet.Eine zweite Wiederholung – also ein dritter Versuch - ist nur auf schriftlichen Antrag (\"Antrag auf eine 2. Wiederholung im Fach…\") an den Prüfungsausschuss möglich.Unbenotete Leistungsnachweise (\"Scheine\") können auch ohne Antrag mehrfach wiederholt werden. Allerdings gelten auch für diese die Prüfungsfristen. \n",
+                                    "answer_start": 60,
+                                    "answer_end": 538
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie ist der Antrag auf eine 2. Wiederholung zu stellen? Es handelt sich um einen formlosen, also frei formulierten, Antrag. Dieser ist an den Prüfungsausschuss zu richten und innerhalb der per Aushang bekanntgemachten Frist(i.A. innerhalb von 14 Tagen nach Freischaltung der aktuellen Online-Notenansicht) einzureichen.Wenn Sie mehrere benotete Prüfungen im zweiten Versuch nicht bestanden haben, können Sie diese alle in einem einzigen Antragsschreiben aufführen.Der Prüfungsausschuss entscheidet aufgrund Ihrer sonstigen Studien- und Prüfungsleistungen. Wenn diese insgesamt schlecht sind, sollten Sie in dem Schreiben Gründe für Ihre Leistungsschwäche schildern.Vergessen Sie nicht, Ihre Unterschrift unter das Antragsschreiben zu setzen, und geben Sie dieses bitte im Zentralen Prüfungsamt ab.\n",
+                    "qas": [
+                        {
+                            "question": "Wie ist der Antrag auf eine 2. Wiederholung zu stellen?",
+                            "id": "11",
+                            "answers": [
+                                {
+                                    "answer_id": "11",
+                                    "document_id": "11",
+                                    "question_id": "11",
+                                    "text": "Es handelt sich um einen formlosen, also frei formulierten, Antrag. Dieser ist an den Prüfungsausschuss zu richten und innerhalb der per Aushang bekanntgemachten Frist(i.A. innerhalb von 14 Tagen nach Freischaltung der aktuellen Online-Notenansicht) einzureichen.Wenn Sie mehrere benotete Prüfungen im zweiten Versuch nicht bestanden haben, können Sie diese alle in einem einzigen Antragsschreiben aufführen.Der Prüfungsausschuss entscheidet aufgrund Ihrer sonstigen Studien- und Prüfungsleistungen. Wenn diese insgesamt schlecht sind, sollten Sie in dem Schreiben Gründe für Ihre Leistungsschwäche schildern.Vergessen Sie nicht, Ihre Unterschrift unter das Antragsschreiben zu setzen, und geben Sie dieses bitte im Zentralen Prüfungsamt ab.\n",
+                                    "answer_start": 56,
+                                    "answer_end": 798
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was geschieht, wenn ich bei einer benoteten Prüfung auch die 2. Wiederholung (also den 3. Versuch) nicht bestanden habe? In diesem Falle gibt es für Bachelor-Studierende noch eine letzte Chance, das Studium fortzusetzen: die mündliche Ergänzungsprüfung.In dieser soll überprüft werden, ob Sie das Stoffgebiet doch ausreichend beherrschen und Ihr Wissen lediglich in der schriftlichen Prüfung nicht zum Ausdruck bringen konnten. Sie stellt eine Ergänzung zur Klausur dar; neues Lernen auf diese mündliche Prüfung ist also nicht vorgesehen.Bei Bestehen der mündlichen Ergänzungsprüfung wird Ihre Note (lediglich) auf 4,0 angehoben. Andernfalls ist die Prüfung \"endgültig nicht bestanden\", und das Studium muss beendet werden.Die mündliche Ergänzungsprüfung hat eine Dauer von 30 Minuten. Sie findet nur wenige Tage, nachdem Ihnen das Scheitern des 3. Versuchs bekanntgegeben wurde, statt. Der Termin wird Ihnen per Email mitgeteilt. Wenn Sie einen Drittversuch mitgeschrieben haben, müssen Sie Ihre Emails (@ htwg-konstanz.de) also regelmäßig überprüfen!Eine mündliche Ergänzungsprüfung zur zweiten Wiederholung ist für maximal zwei Prüfungen während des gesamten Studiums zulässig. \n",
+                    "qas": [
+                        {
+                            "question": "Was geschieht, wenn ich bei einer benoteten Prüfung auch die 2. Wiederholung (also den 3. Versuch) nicht bestanden habe?",
+                            "id": "12",
+                            "answers": [
+                                {
+                                    "answer_id": "12",
+                                    "document_id": "12",
+                                    "question_id": "12",
+                                    "text": "In diesem Falle gibt es für Bachelor-Studierende noch eine letzte Chance, das Studium fortzusetzen: die mündliche Ergänzungsprüfung.In dieser soll überprüft werden, ob Sie das Stoffgebiet doch ausreichend beherrschen und Ihr Wissen lediglich in der schriftlichen Prüfung nicht zum Ausdruck bringen konnten. Sie stellt eine Ergänzung zur Klausur dar; neues Lernen auf diese mündliche Prüfung ist also nicht vorgesehen.Bei Bestehen der mündlichen Ergänzungsprüfung wird Ihre Note (lediglich) auf 4,0 angehoben. Andernfalls ist die Prüfung \"endgültig nicht bestanden\", und das Studium muss beendet werden.Die mündliche Ergänzungsprüfung hat eine Dauer von 30 Minuten. Sie findet nur wenige Tage, nachdem Ihnen das Scheitern des 3. Versuchs bekanntgegeben wurde, statt. Der Termin wird Ihnen per Email mitgeteilt. Wenn Sie einen Drittversuch mitgeschrieben haben, müssen Sie Ihre Emails (@ htwg-konstanz.de) also regelmäßig überprüfen!Eine mündliche Ergänzungsprüfung zur zweiten Wiederholung ist für maximal zwei Prüfungen während des gesamten Studiums zulässig. \n",
+                                    "answer_start": 121,
+                                    "answer_end": 1182
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was ist der Unterschied zwischen Grundstudium und Hauptstudium? Das Grundstudium umfasst das 1. und das 2. Semester. Sie haben insgesamt 4 Semester Zeit, alle Prüfungsleistungen (Klausuren und Scheine) aus dem Grundstudium zu bestehen.Das Hauptstudium umfasst die Semester 3 - 7.\n",
+                    "qas": [
+                        {
+                            "question": "Was ist der Unterschied zwischen Grundstudium und Hauptstudium?",
+                            "id": "13",
+                            "answers": [
+                                {
+                                    "answer_id": "13",
+                                    "document_id": "13",
+                                    "question_id": "13",
+                                    "text": "Das Grundstudium umfasst das 1. und das 2. Semester. Sie haben insgesamt 4 Semester Zeit, alle Prüfungsleistungen (Klausuren und Scheine) aus dem Grundstudium zu bestehen.Das Hauptstudium umfasst die Semester 3 - 7.\n",
+                                    "answer_start": 64,
+                                    "answer_end": 280
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Werde ich ins 3. Semester eingestuft, wenn ich Prüfungsleistungen aus den ersten beiden Semestern offen habe? Das hängt ab von der Anzahl der aus dem Grundstudium noch offenen Prüfungsleistungen. Dabei werden auch Unbenotete Leistungsnachweise mitgezählt!Haben Sie maximal 2 solche Prüfungsleistungen offen, sind Sie zum Hauptstudium zugelassen und werden automatisch in das 3. Semester eingestuft.Wenn Sie mehr als 2 Prüfungsleistungen des Grundstudiums offen haben, bleiben Sie in der Regel im Grundstudium und werden in den ersten Wochen des neuen Semesters vom 3. in das 2. Semester zurückgestuft - vorausgesetzt, die für den Abschluss des Grundstudiums vorgegebene Frist von vier Semestern wird dabei nicht überschritten (s. a. Prüfungsfristen). Die Rückstufung geschieht automatisch, ebenso wie die Anmeldung zu den noch offenen Prüfungen. \tAllerdings: Wenn die Anzahl der noch offenen Prüfungsleistungen zwar größer als 2 ist, aber bei maximal 4 liegt, haben Sie noch die Möglichkeit, einen Antrag auf Zulassung zum Hauptstudium zu stellen. Es handelt sich dabei um einen formlosen, also frei formulierten, Antrag. Dieser ist an den Prüfungsausschuss zu richten und innerhalb der per Aushang bekanntgemachten Frist (i. A. innerhalb von 14 Tagen nach Freischaltung der aktuellen Online-Notenansicht) im Zentralen Prüfungsamt einzureichen. \t Wichtiger Hinweis für BAföG-Empfangende: \tWenn Sie sich mit mehr als 2 offenen Prüfungsleistungen (auf Antrag) in das 3. Semester einstufen lassen, könnte sich das später negativ auf die weitere Förderung nach dem BAföG auswirken. Nach dem 4. Fachsemester benötigen Sie nämlich eine Bescheinigung Ihres Leistungsstands. Diese kann allerdings nicht ausgestellt werden, falls Sie zu diesem Zeitpunkt noch viele Prüfungsleistungen der ersten 4 Semester offen haben. \tDaher ist oftmals eine \"zwingende\" Wiederholung des 2. Semesters, die nicht BAföG-schädlich ist, der Höherstufung vorzuziehen.\n",
+                    "qas": [
+                        {
+                            "question": "Werde ich ins 3. Semester eingestuft, wenn ich Prüfungsleistungen aus den ersten beiden Semestern offen habe?",
+                            "id": "14",
+                            "answers": [
+                                {
+                                    "answer_id": "14",
+                                    "document_id": "14",
+                                    "question_id": "14",
+                                    "text": "Das hängt ab von der Anzahl der aus dem Grundstudium noch offenen Prüfungsleistungen. Dabei werden auch Unbenotete Leistungsnachweise mitgezählt!Haben Sie maximal 2 solche Prüfungsleistungen offen, sind Sie zum Hauptstudium zugelassen und werden automatisch in das 3. Semester eingestuft.Wenn Sie mehr als 2 Prüfungsleistungen des Grundstudiums offen haben, bleiben Sie in der Regel im Grundstudium und werden in den ersten Wochen des neuen Semesters vom 3. in das 2. Semester zurückgestuft - vorausgesetzt, die für den Abschluss des Grundstudiums vorgegebene Frist von vier Semestern wird dabei nicht überschritten (s. a. Prüfungsfristen). Die Rückstufung geschieht automatisch, ebenso wie die Anmeldung zu den noch offenen Prüfungen. \tAllerdings: Wenn die Anzahl der noch offenen Prüfungsleistungen zwar größer als 2 ist, aber bei maximal 4 liegt, haben Sie noch die Möglichkeit, einen Antrag auf Zulassung zum Hauptstudium zu stellen. Es handelt sich dabei um einen formlosen, also frei formulierten, Antrag. Dieser ist an den Prüfungsausschuss zu richten und innerhalb der per Aushang bekanntgemachten Frist (i. A. innerhalb von 14 Tagen nach Freischaltung der aktuellen Online-Notenansicht) im Zentralen Prüfungsamt einzureichen. \t Wichtiger Hinweis für BAföG-Empfangende: \tWenn Sie sich mit mehr als 2 offenen Prüfungsleistungen (auf Antrag) in das 3. Semester einstufen lassen, könnte sich das später negativ auf die weitere Förderung nach dem BAföG auswirken. Nach dem 4. Fachsemester benötigen Sie nämlich eine Bescheinigung Ihres Leistungsstands. Diese kann allerdings nicht ausgestellt werden, falls Sie zu diesem Zeitpunkt noch viele Prüfungsleistungen der ersten 4 Semester offen haben. \tDaher ist oftmals eine \"zwingende\" Wiederholung des 2. Semesters, die nicht BAföG-schädlich ist, der Höherstufung vorzuziehen.\n",
+                                    "answer_start": 110,
+                                    "answer_end": 1938
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich Fächer aus höheren Semestern vorziehen? Im Grundstudium können prinzipiell keine Prüfungsleistungen aus dem Hauptstudium vorgezogen werden.Im Hauptstudium können dagegen nach Rücksprache mit dem Vorsitzenden des Prüfungsausschusses Leistungen aus höheren Semestern in begründeten Ausnahmefällen und auf Antrag vorgezogen werden.Das Vorziehen des \"Tutoriums\" - gemäß der Studienordnung im 6. Semester (Studiengänge WIN und GIB) oder im 7. Semester (Studiengang AIN) vorgesehen - kann unter der Voraussetzung, dass Sie alle Prüfungsleistungen aus Ihren vorangegangenen Semestern bestanden haben, genehmigt werden.Auch können Kurse zu Fremdsprachen, die an der HTWG für Studierende aller Fachrichtungen als Wahlpflichtfächer angeboten werden, schon in frühen Semestern belegt werden.Besprechen Sie das geplante Vorziehen schon zu Beginn des Semesters mit dem/der Vorsitzenden des Prüfungsausschusses. Legen Sie diesem/dieser später, bei der Prüfungsanmeldung, den ausgefüllten Anmeldebogen vor, so dass er/sie auf diesem durch seine Unterschrift die Berechtigung zum Vorziehen der Prüfungsleistung bestätigen kann. (sie Punkt 13 im Infoblatt Prüfungsanmeldung) \n",
+                    "qas": [
+                        {
+                            "question": "Kann ich Fächer aus höheren Semestern vorziehen?",
+                            "id": "15",
+                            "answers": [
+                                {
+                                    "answer_id": "15",
+                                    "document_id": "15",
+                                    "question_id": "15",
+                                    "text": "Im Grundstudium können prinzipiell keine Prüfungsleistungen aus dem Hauptstudium vorgezogen werden.Im Hauptstudium können dagegen nach Rücksprache mit dem Vorsitzenden des Prüfungsausschusses Leistungen aus höheren Semestern in begründeten Ausnahmefällen und auf Antrag vorgezogen werden.Das Vorziehen des \"Tutoriums\" - gemäß der Studienordnung im 6. Semester (Studiengänge WIN und GIB) oder im 7. Semester (Studiengang AIN) vorgesehen - kann unter der Voraussetzung, dass Sie alle Prüfungsleistungen aus Ihren vorangegangenen Semestern bestanden haben, genehmigt werden.Auch können Kurse zu Fremdsprachen, die an der HTWG für Studierende aller Fachrichtungen als Wahlpflichtfächer angeboten werden, schon in frühen Semestern belegt werden.Besprechen Sie das geplante Vorziehen schon zu Beginn des Semesters mit dem/der Vorsitzenden des Prüfungsausschusses. Legen Sie diesem/dieser später, bei der Prüfungsanmeldung, den ausgefüllten Anmeldebogen vor, so dass er/sie auf diesem durch seine Unterschrift die Berechtigung zum Vorziehen der Prüfungsleistung bestätigen kann. (sie Punkt 13 im Infoblatt Prüfungsanmeldung) \n",
+                                    "answer_start": 49,
+                                    "answer_end": 1168
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich mich freiwillig zurückstufen lassen? Im Hauptstudium ist eine freiwillige Rückstufung in das zuletzt durchlaufene Semester auf Antrag möglich. Voraussetzung dafür ist, dass Ihnen noch mindestens 4 Prüfungsleistungen fehlen.Beachten Sie aber, dass nach einer Rückstufung keine Prüfungsleistungen aus höheren Semestern vorgezogen werden können!Der Antrag auf Rückstufung ist vor Beginn der ersten Vorlesungswoche ausgefüllt im Sekretariat des Prüfungsamtes abzugeben. Zuvor sollten Sie sich durch den/die Vorsitzenden des Prüfungsausschusses beraten lassen.Im Grundstudium ist eine Rückstufung ins 1. Semester nicht möglich. Eine Rückstufung ins 2. Semester erfolgt automatisch (s.o.) und ist ja meist auch nicht ganz freiwillig.\n",
+                    "qas": [
+                        {
+                            "question": "Kann ich mich freiwillig zurückstufen lassen?",
+                            "id": "16",
+                            "answers": [
+                                {
+                                    "answer_id": "16",
+                                    "document_id": "16",
+                                    "question_id": "16",
+                                    "text": "Im Hauptstudium ist eine freiwillige Rückstufung in das zuletzt durchlaufene Semester auf Antrag möglich. Voraussetzung dafür ist, dass Ihnen noch mindestens 4 Prüfungsleistungen fehlen.Beachten Sie aber, dass nach einer Rückstufung keine Prüfungsleistungen aus höheren Semestern vorgezogen werden können!Der Antrag auf Rückstufung ist vor Beginn der ersten Vorlesungswoche ausgefüllt im Sekretariat des Prüfungsamtes abzugeben. Zuvor sollten Sie sich durch den/die Vorsitzenden des Prüfungsausschusses beraten lassen.Im Grundstudium ist eine Rückstufung ins 1. Semester nicht möglich. Eine Rückstufung ins 2. Semester erfolgt automatisch (s.o.) und ist ja meist auch nicht ganz freiwillig.\n",
+                                    "answer_start": 46,
+                                    "answer_end": 737
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Nach wie vielen Semestern muss das Grundstudium spätestens abgeschlossen sein? Das Grundstudium muss nach 4 Semestern abgeschlossen sein, d. h. alle benoteten Modul(teil)prüfungen und alle unbenoteten Leistungsnachweise (\"Scheine\") der ersten beiden Semester Ihres Bachelorstudiengangs müssen in diesem Zeitraum bestanden sein.Eine Verlängerung dieser Frist ist nur auf schriftlichen und gut begründeten Antrag (\"Antrag auf Fristaufschub für den Abschluss des Grundstudiums\") an den Prüfungsausschuss möglich. \n",
+                    "qas": [
+                        {
+                            "question": "Nach wie vielen Semestern muss das Grundstudium spätestens abgeschlossen sein?",
+                            "id": "17",
+                            "answers": [
+                                {
+                                    "answer_id": "17",
+                                    "document_id": "17",
+                                    "question_id": "17",
+                                    "text": "Das Grundstudium muss nach 4 Semestern abgeschlossen sein, d. h. alle benoteten Modul(teil)prüfungen und alle unbenoteten Leistungsnachweise (\"Scheine\") der ersten beiden Semester Ihres Bachelorstudiengangs müssen in diesem Zeitraum bestanden sein.Eine Verlängerung dieser Frist ist nur auf schriftlichen und gut begründeten Antrag (\"Antrag auf Fristaufschub für den Abschluss des Grundstudiums\") an den Prüfungsausschuss möglich. \n",
+                                    "answer_start": 79,
+                                    "answer_end": 511
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Nach wie vielen Semestern muss mein gesamtes Bachelorstudium spätestens abgeschlossen sein? Die Regelstudienzeit beträgt 7 Semester. Diese darf um höchstens 3 Studiensemester überschritten werden, so dass die Gesamtstudienzeit (inklusive Bachelorarbeit) also bei maximal 10 Semestern liegt.Eine Verlängerung dieser Frist ist nur auf schriftlichen und gut begründeten Antrag (\"Antrag auf Fristaufschub für die Bachelorprüfung\") an den Prüfungsausschuss möglich.\n",
+                    "qas": [
+                        {
+                            "question": "Nach wie vielen Semestern muss mein gesamtes Bachelorstudium spätestens abgeschlossen sein?",
+                            "id": "18",
+                            "answers": [
+                                {
+                                    "answer_id": "18",
+                                    "document_id": "18",
+                                    "question_id": "18",
+                                    "text": "Die Regelstudienzeit beträgt 7 Semester. Diese darf um höchstens 3 Studiensemester überschritten werden, so dass die Gesamtstudienzeit (inklusive Bachelorarbeit) also bei maximal 10 Semestern liegt.Eine Verlängerung dieser Frist ist nur auf schriftlichen und gut begründeten Antrag (\"Antrag auf Fristaufschub für die Bachelorprüfung\") an den Prüfungsausschuss möglich.\n",
+                                    "answer_start": 92,
+                                    "answer_end": 461
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie ist der Antrag auf einen Fristaufschub zu stellen? Es handelt sich um einen formlosen, also frei formulierten, Antrag. Dieser ist an den Prüfungsausschuss zu richten und innerhalb der per Aushang bekanntgemachten Frist (i. A. innerhalb von 14 Tagen nach Freischaltung der aktuellen Online-Notenansicht) einzureichen. Ihr Antrag (auch \"Härteantrag\" genannt) muss eine Begründung dafür, dass Sie das Grundstudium bzw. das gesamte Bachelorstudium nicht in der vorgegebenen Frist abschließen konnten, enthalten. Es muss sich dabei um Gründe handeln, die Sie \"selbst nicht zu vertreten\" haben. Darunter fallen beispielsweise eigene Erkrankungen oder die Pflege erkrankter Angehöriger sowie Schwangerschaft und Mutterschutz. Auch die Mitwirkung in der Selbstverwaltung der HTWG zählt dazu, wenn sie den ordnungsgemäßen Ablauf des Studiums beeinträchtigt hat, ebenso wie das Nichtangebot oder der Ausfall einer Lehrveranstaltung, mit der das (Grund-)Studium fristgerecht hätte beendet werden können. Vergessen Sie nicht, Ihre Unterschrift unter das Antragsschreiben zu setzen, und geben Sie dieses bitte im Zentralen Prüfungsamt ab. \n",
+                    "qas": [
+                        {
+                            "question": "Wie ist der Antrag auf einen Fristaufschub zu stellen?",
+                            "id": "19",
+                            "answers": [
+                                {
+                                    "answer_id": "19",
+                                    "document_id": "19",
+                                    "question_id": "19",
+                                    "text": "Es handelt sich um einen formlosen, also frei formulierten, Antrag. Dieser ist an den Prüfungsausschuss zu richten und innerhalb der per Aushang bekanntgemachten Frist (i. A. innerhalb von 14 Tagen nach Freischaltung der aktuellen Online-Notenansicht) einzureichen. Ihr Antrag (auch \"Härteantrag\" genannt) muss eine Begründung dafür, dass Sie das Grundstudium bzw. das gesamte Bachelorstudium nicht in der vorgegebenen Frist abschließen konnten, enthalten. Es muss sich dabei um Gründe handeln, die Sie \"selbst nicht zu vertreten\" haben. Darunter fallen beispielsweise eigene Erkrankungen oder die Pflege erkrankter Angehöriger sowie Schwangerschaft und Mutterschutz. Auch die Mitwirkung in der Selbstverwaltung der HTWG zählt dazu, wenn sie den ordnungsgemäßen Ablauf des Studiums beeinträchtigt hat, ebenso wie das Nichtangebot oder der Ausfall einer Lehrveranstaltung, mit der das (Grund-)Studium fristgerecht hätte beendet werden können. Vergessen Sie nicht, Ihre Unterschrift unter das Antragsschreiben zu setzen, und geben Sie dieses bitte im Zentralen Prüfungsamt ab. \n",
+                                    "answer_start": 55,
+                                    "answer_end": 1131
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich Prüfungen \"schieben\", also von angemeldeten Prüfungen ohne Angabe von Gründen zurücktreten? Das ist nur bei nicht-terminierten Prüfungen möglich. Die Teilnahme an terminierten Prüfungen ist dagegen zwingend.Terminiert sindalle Prüfungen des ersten Semesters (des so genannten \"Assessmentsemesters\").alle Wiederholungsprüfungen (beachten Sie hierzu auch die unten aufgeführte Sonderregelung für das Assessmentsemester)sowie alle Prüfungen, von denen Sie zuvor bereits einmal zurückgetreten waren. Ein Rücktritt von einer nicht-terminierten Prüfung ist also nur einmalig möglich. Ausnahmen davon gibt es allenfalls bei Fächern des Studiums Generale oder des Fremdsprachen-Wahlangebots. Falls Sie aus Krankheitsgründen zurücktreten müssen, beachten Sie bitte die untenstehenden Hinweise zum Rücktritt wegen einer Krankheit. \n",
+                    "qas": [
+                        {
+                            "question": "Kann ich Prüfungen \"schieben\", also von angemeldeten Prüfungen ohne Angabe von Gründen zurücktreten?",
+                            "id": "20",
+                            "answers": [
+                                {
+                                    "answer_id": "20",
+                                    "document_id": "20",
+                                    "question_id": "20",
+                                    "text": "Das ist nur bei nicht-terminierten Prüfungen möglich. Die Teilnahme an terminierten Prüfungen ist dagegen zwingend.Terminiert sindalle Prüfungen des ersten Semesters (des so genannten \"Assessmentsemesters\").alle Wiederholungsprüfungen (beachten Sie hierzu auch die unten aufgeführte Sonderregelung für das Assessmentsemester)sowie alle Prüfungen, von denen Sie zuvor bereits einmal zurückgetreten waren. Ein Rücktritt von einer nicht-terminierten Prüfung ist also nur einmalig möglich. Ausnahmen davon gibt es allenfalls bei Fächern des Studiums Generale oder des Fremdsprachen-Wahlangebots. Falls Sie aus Krankheitsgründen zurücktreten müssen, beachten Sie bitte die untenstehenden Hinweise zum Rücktritt wegen einer Krankheit. \n",
+                                    "answer_start": 101,
+                                    "answer_end": 831
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie kann ich von einer nicht-terminierten Prüfung zurücktreten? Sie können sich entweder online im Studierendenportal von einer solchen Prüfung abmelden oder mit Hilfe des Formulars Rücktritt von nicht-terminierten Prüfungen, das vor dem Prüfungstermin im Sekretariat des Prüfungsamts abzugeben ist. Bei Klausurprüfungen kann der Rücktritt sogar unmittelbar vor Beginn der Klausur direkt bei dem/der Prüfer/in erfolgen.Das Online-Abmeldeverfahren steht nur innerhalb eines vorgegebenen Zeitfensters während des Semesters zur Verfügung. Beachten Sie die Infos des Zentralen Prüfungsamts zur Prüfungsan- und -abmeldung unter \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\" / Link \"Infos zur Prüfungsanmeldung\".Im Notenkonto ist ein genehmigter Rücktritt durch den Vermerk G oder RT erkennbar. Der Versuchszähler wird nicht erhöht. Nach dem Rücktritt ist die Prüfung terminiert, d.h. Sie werden automatisch zum nächstmöglichen Prüfungstermin (in der Regel im Folgesemester, es sei denn dabei handele es sich um das Praxissemester) wiederangemeldet. \n",
+                    "qas": [
+                        {
+                            "question": "Wie kann ich von einer nicht-terminierten Prüfung zurücktreten?",
+                            "id": "21",
+                            "answers": [
+                                {
+                                    "answer_id": "21",
+                                    "document_id": "21",
+                                    "question_id": "21",
+                                    "text": "Sie können sich entweder online im Studierendenportal von einer solchen Prüfung abmelden oder mit Hilfe des Formulars Rücktritt von nicht-terminierten Prüfungen, das vor dem Prüfungstermin im Sekretariat des Prüfungsamts abzugeben ist. Bei Klausurprüfungen kann der Rücktritt sogar unmittelbar vor Beginn der Klausur direkt bei dem/der Prüfer/in erfolgen.Das Online-Abmeldeverfahren steht nur innerhalb eines vorgegebenen Zeitfensters während des Semesters zur Verfügung. Beachten Sie die Infos des Zentralen Prüfungsamts zur Prüfungsan- und -abmeldung unter \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\" / Link \"Infos zur Prüfungsanmeldung\".Im Notenkonto ist ein genehmigter Rücktritt durch den Vermerk G oder RT erkennbar. Der Versuchszähler wird nicht erhöht. Nach dem Rücktritt ist die Prüfung terminiert, d.h. Sie werden automatisch zum nächstmöglichen Prüfungstermin (in der Regel im Folgesemester, es sei denn dabei handele es sich um das Praxissemester) wiederangemeldet. \n",
+                                    "answer_start": 64,
+                                    "answer_end": 1051
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was muss ich im Krankheitsfall beachten? Wenn Sie aus Krankheitsgründen nicht in der Lage sind, an einer Prüfung teilzunehmen, müssen Sie dies durch ein ärztliches Attest belegen (gleichgültig, ob es sich um einen terminierte oder nicht-terminierte Prüfung handelt).Hierfür ist das Formular zum krankheitsbedingten Rücktritt durch Sie und den/die Arzt/Ärztin auszufüllen. Sie müssen die Prüfungen, an denen Sie wegen der Krankheit nicht teilnehmen können, mit dem jeweiligen Prüfungsdatum angeben. Der Arzt / Die Ärztin hat den Befund und die voraussichtliche Dauer der Krankheit einzutragen. Der Rücktritt ist nur für die Prüfungen gültig, die im bescheinigten Krankheitszeitraum liegen.Dieses Attest zur Prüfungsunfähigkeit ist unverzüglich an das Sekretariat des Prüfungsamts weiterzuleiten. Eine nachträgliche Geltendmachung von Prüfungsunfähigkeit wird nicht akzeptiert. Weitere Informationen hierzu sind dem Anhang zum Formular zu entnehmen.\n",
+                    "qas": [
+                        {
+                            "question": "Was muss ich im Krankheitsfall beachten?",
+                            "id": "22",
+                            "answers": [
+                                {
+                                    "answer_id": "22",
+                                    "document_id": "22",
+                                    "question_id": "22",
+                                    "text": "Wenn Sie aus Krankheitsgründen nicht in der Lage sind, an einer Prüfung teilzunehmen, müssen Sie dies durch ein ärztliches Attest belegen (gleichgültig, ob es sich um einen terminierte oder nicht-terminierte Prüfung handelt).Hierfür ist das Formular zum krankheitsbedingten Rücktritt durch Sie und den/die Arzt/Ärztin auszufüllen. Sie müssen die Prüfungen, an denen Sie wegen der Krankheit nicht teilnehmen können, mit dem jeweiligen Prüfungsdatum angeben. Der Arzt / Die Ärztin hat den Befund und die voraussichtliche Dauer der Krankheit einzutragen. Der Rücktritt ist nur für die Prüfungen gültig, die im bescheinigten Krankheitszeitraum liegen.Dieses Attest zur Prüfungsunfähigkeit ist unverzüglich an das Sekretariat des Prüfungsamts weiterzuleiten. Eine nachträgliche Geltendmachung von Prüfungsunfähigkeit wird nicht akzeptiert. Weitere Informationen hierzu sind dem Anhang zum Formular zu entnehmen.\n",
+                                    "answer_start": 41,
+                                    "answer_end": 948
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Welche Sonderregelung gibt es für Wiederholungsprüfungen des Assessmentsemesters? Auf schriftlichen Antrag hin ist ein Rücktritt von bis zu zwei Wiederholungsklausuren des Assessmentsemesters möglich.Voraussetzung hierfür ist ein nichtbestandener Erstversuch sowie die Durchführung einer Beratung durch den Leiter Ihres Studiengangs oder den/die für Sie zuständige/n Vorsitzende/n des Prüfungsausschusses. Der/Die Letztgenannte entscheidet auch über die Genehmigung Ihres Antrags.Hintergrund dieser Sonderregelung: Wenn Sie am Ende eines Wintersemesters eine Klausur des ersten Semesters angetreten, aber nicht bestanden haben, dann bleibt Ihnen nur wenig Zeit zur Vorbereitung auf die Wiederholungsklausur, denn diese findet schon im zweiten Prüfungszeitraum, also zu Beginn des Folgesemesters, statt. Daher ist es manchmal ratsam, eine oder zwei solcher Wiederholungsklausuren auf das Ende des Sommersemesters zu verschieben.Wenn Sie diese Option wahrnehmen wollen, müssen Sie folgendermaßen vorgehen:1. Klären Sie durch eine Klausureinsicht bei dem/der Prüfer/in Ihren Leistungsstand.2. Melden Sie sich für ein Beratungsgespräch beim Studiengangsleiter oder dem/der Vorsitzenden des Prüfungsausschusses an.3. Beantragen Sie schriftlich den Rücktritt von einer terminierten Prüfung des Assessmentsemesters. \n",
+                    "qas": [
+                        {
+                            "question": "Welche Sonderregelung gibt es für Wiederholungsprüfungen des Assessmentsemesters?",
+                            "id": "23",
+                            "answers": [
+                                {
+                                    "answer_id": "23",
+                                    "document_id": "23",
+                                    "question_id": "23",
+                                    "text": "Auf schriftlichen Antrag hin ist ein Rücktritt von bis zu zwei Wiederholungsklausuren des Assessmentsemesters möglich.Voraussetzung hierfür ist ein nichtbestandener Erstversuch sowie die Durchführung einer Beratung durch den Leiter Ihres Studiengangs oder den/die für Sie zuständige/n Vorsitzende/n des Prüfungsausschusses. Der/Die Letztgenannte entscheidet auch über die Genehmigung Ihres Antrags.Hintergrund dieser Sonderregelung: Wenn Sie am Ende eines Wintersemesters eine Klausur des ersten Semesters angetreten, aber nicht bestanden haben, dann bleibt Ihnen nur wenig Zeit zur Vorbereitung auf die Wiederholungsklausur, denn diese findet schon im zweiten Prüfungszeitraum, also zu Beginn des Folgesemesters, statt. Daher ist es manchmal ratsam, eine oder zwei solcher Wiederholungsklausuren auf das Ende des Sommersemesters zu verschieben.Wenn Sie diese Option wahrnehmen wollen, müssen Sie folgendermaßen vorgehen:1. Klären Sie durch eine Klausureinsicht bei dem/der Prüfer/in Ihren Leistungsstand.2. Melden Sie sich für ein Beratungsgespräch beim Studiengangsleiter oder dem/der Vorsitzenden des Prüfungsausschusses an.3. Beantragen Sie schriftlich den Rücktritt von einer terminierten Prüfung des Assessmentsemesters. \n",
+                                    "answer_start": 82,
+                                    "answer_end": 1310
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was geschieht, wenn ich einer Prüfung fernbleibe, ohne zuvor den Rücktritt erklärt oder ein Attest eingereicht zu haben? In diesem Falle gilt die Prüfung als nicht bestanden (Note 5,0). Im Notenkonto wird der Vermerk U (unentschuldigtes Fehlen) eingetragen, und der Versuchszähler wird für die nächste Anmeldung dieser Prüfung um 1 erhöht.Genauso werden Hausarbeiten, die nicht fristgerecht eingereicht wurden, behandelt – es sei denn, es liegt ein genehmigter Rücktritt vor, der lange vor dem von dem/der Prüfer/in geforderten Abgabetermin erklärt wurde.\n",
+                    "qas": [
+                        {
+                            "question": "Was geschieht, wenn ich einer Prüfung fernbleibe, ohne zuvor den Rücktritt erklärt oder ein Attest eingereicht zu haben?",
+                            "id": "24",
+                            "answers": [
+                                {
+                                    "answer_id": "24",
+                                    "document_id": "24",
+                                    "question_id": "24",
+                                    "text": "In diesem Falle gilt die Prüfung als nicht bestanden (Note 5,0). Im Notenkonto wird der Vermerk U (unentschuldigtes Fehlen) eingetragen, und der Versuchszähler wird für die nächste Anmeldung dieser Prüfung um 1 erhöht.Genauso werden Hausarbeiten, die nicht fristgerecht eingereicht wurden, behandelt – es sei denn, es liegt ein genehmigter Rücktritt vor, der lange vor dem von dem/der Prüfer/in geforderten Abgabetermin erklärt wurde.\n",
+                                    "answer_start": 121,
+                                    "answer_end": 556
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "In welchen Fällen muss ich eine Anmeldung meiner Prüfungen vornehmen? Zu den Pflichtprüfungen des Semesters, in dem Sie aktuell eingestuft sind, und zu allen terminierten Prüfungen werden Sie automatisch angemeldet und brauchen daher nichts weiter zu tun.Wenn Sie jedoch an Prüfungen zuWahlpflichtfächern,Fächern des Studium Generale,Kursen des Fremdsprachenangebots der HTWGoder Zusatzfächern, die Sie freiwillig belegen möchten,teilnehmen wollen, müssen Sie sich explizit beim Zentralen Prüfungsamt anmelden.In den Studiengängen Wirtschaftsinformatik und Angewandte Informatik gilt dies aber auch für diePflichtmodule der von Ihnen gewählten Vertiefungsrichtung Im Studiengang Wirtschaftsinformatik können Sie ein solches Modul ab dem 4., im Studiengang Angewandte Informatik ab dem 5. Einstufungssemester anmelden. Sie haben aber die Freiheit, den Erstversuch auf ein beliebiges höheres Semester zu legen. Die Flexibilität, die Ihnen hiermit zugebilligt wird, hat natürlich zur Folge, dass eine Erstanmeldung zu einer solchen Prüfung nicht automatisch erfolgen kann.Selbstverständlich ist aucheine Prüfungsleistung, die Sie aus einem höheren Semester vorziehen wollen,  von Ihnen anzumelden. Zuvor muss das Vorziehen allerdings von dem/der Vorsitzenden des Prüfungsausschusses genehmigt worden sein.\n",
+                    "qas": [
+                        {
+                            "question": "In welchen Fällen muss ich eine Anmeldung meiner Prüfungen vornehmen?",
+                            "id": "25",
+                            "answers": [
+                                {
+                                    "answer_id": "25",
+                                    "document_id": "25",
+                                    "question_id": "25",
+                                    "text": "Zu den Pflichtprüfungen des Semesters, in dem Sie aktuell eingestuft sind, und zu allen terminierten Prüfungen werden Sie automatisch angemeldet und brauchen daher nichts weiter zu tun.Wenn Sie jedoch an Prüfungen zuWahlpflichtfächern,Fächern des Studium Generale,Kursen des Fremdsprachenangebots der HTWGoder Zusatzfächern, die Sie freiwillig belegen möchten,teilnehmen wollen, müssen Sie sich explizit beim Zentralen Prüfungsamt anmelden.In den Studiengängen Wirtschaftsinformatik und Angewandte Informatik gilt dies aber auch für diePflichtmodule der von Ihnen gewählten Vertiefungsrichtung Im Studiengang Wirtschaftsinformatik können Sie ein solches Modul ab dem 4., im Studiengang Angewandte Informatik ab dem 5. Einstufungssemester anmelden. Sie haben aber die Freiheit, den Erstversuch auf ein beliebiges höheres Semester zu legen. Die Flexibilität, die Ihnen hiermit zugebilligt wird, hat natürlich zur Folge, dass eine Erstanmeldung zu einer solchen Prüfung nicht automatisch erfolgen kann.Selbstverständlich ist aucheine Prüfungsleistung, die Sie aus einem höheren Semester vorziehen wollen,  von Ihnen anzumelden. Zuvor muss das Vorziehen allerdings von dem/der Vorsitzenden des Prüfungsausschusses genehmigt worden sein.\n",
+                                    "answer_start": 70,
+                                    "answer_end": 1303
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie ist die Anmeldung durchzuführen? Die Prüfungsanmeldung ist online im Prüfungsportal vorzunehmen.Lediglich für Prüfungen zu Zusatzfächern müssen Sie das Formular zur Prüfungsanmeldung (Rubrik \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\") in Papierform verwenden. (Zusatzfächer sind solche, für die keine ECTS-Punkte angerechnet werden, die Sie sich aber in Ihrem Abschlusszeugnis zusätzlich aufführen lassen können.)Die Prüfungsanmeldung muss innerhalb eines vorgegebenen Zeitfensters während des Semesters erfolgen. Die aktuellen Termine finden Sie in den Infos des Zentralen Prüfungsamts unter \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\" / Link \"Infos zur Prüfungsanmeldung\", in denen auch viel weiteres Wissenswerte beschrieben wird.\n",
+                    "qas": [
+                        {
+                            "question": "Wie ist die Anmeldung durchzuführen?",
+                            "id": "26",
+                            "answers": [
+                                {
+                                    "answer_id": "26",
+                                    "document_id": "26",
+                                    "question_id": "26",
+                                    "text": "Die Prüfungsanmeldung ist online im Prüfungsportal vorzunehmen.Lediglich für Prüfungen zu Zusatzfächern müssen Sie das Formular zur Prüfungsanmeldung (Rubrik \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\") in Papierform verwenden. (Zusatzfächer sind solche, für die keine ECTS-Punkte angerechnet werden, die Sie sich aber in Ihrem Abschlusszeugnis zusätzlich aufführen lassen können.)Die Prüfungsanmeldung muss innerhalb eines vorgegebenen Zeitfensters während des Semesters erfolgen. Die aktuellen Termine finden Sie in den Infos des Zentralen Prüfungsamts unter \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\" / Link \"Infos zur Prüfungsanmeldung\", in denen auch viel weiteres Wissenswerte beschrieben wird.\n",
+                                    "answer_start": 37,
+                                    "answer_end": 755
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wo finde ich die zur Prüfungsanmeldung erforderlichen Details? Diese finden Sie in der Prüfungsordnungsliste. Suchen Sie dort Ihren Studiengang auf. Achten Sie dabei auf die richtige Version der Prüfungsordnung (PO), nach der Sie studieren.Tragen Sie im Online-Formular (oder ggf. im Anmeldebogen) für jede Prüfung, die Sie anmelden wollen,die 5-stellige Prüfungsnummer Pnr, die Sie der Prüfungsordnungsliste entnehmen,die Bezeichnung des Prüfungsfachs (Prüfungstext), die Vertiefungsrichtung (falls es sich um eine vertiefungsspezifische Prüfung handelt),den Namen des Prüfers / der Prüferinund zuletzt das Prüfungskennzeichen (Pfkz) ein: Dabei stehen \"P\" für Pflichtfach (der Vertiefungsrichtung), \"WP\" für Wahlpflichtfach und \"SG\" für Studium Generale. Pflichtfächer Ihrer Vertiefungsrichtung müssen das Prüfungskennzeichen \"P\" tragen, damit die richtige Zuordnung gewährleistet ist.  Beispiel:Sie wollen sich im Studiengang Wirtschaftsinformatik für die Klausurprüfung \"Verteilte Systeme\" und den zugehörigen Schein anmelden.Wenn Sie der Vertiefung Software- und Systementwicklung (SSE) angehören, ist dies ein Pflichtfach. Sie müssen daher die folgenden Einträge vornehmen:43170   |  Verteilte Systeme  |  SSE   |   Mueller  |  P 43171   |  Verteilte Systeme  |  SSE   |   Mueller  |  PWenn Sie dagegen die Vertiefungsrichtung Geschäftsprozessmanagement (GPM) eingeschlagen haben, können Sie \"Verteilte Systeme\" nur als Wahlpflichtfach anmelden. Dafür gibt es weiterhin die Prüfungsnummern der SPO2:28110   |  Verteilte Systeme  |  GPM   |   Mueller  |  WP 28111   |  Verteilte Systeme  |  GPM   |   Mueller  |  WP\n",
+                    "qas": [
+                        {
+                            "question": "Wo finde ich die zur Prüfungsanmeldung erforderlichen Details?",
+                            "id": "27",
+                            "answers": [
+                                {
+                                    "answer_id": "27",
+                                    "document_id": "27",
+                                    "question_id": "27",
+                                    "text": "Diese finden Sie in der Prüfungsordnungsliste. Suchen Sie dort Ihren Studiengang auf. Achten Sie dabei auf die richtige Version der Prüfungsordnung (PO), nach der Sie studieren.Tragen Sie im Online-Formular (oder ggf. im Anmeldebogen) für jede Prüfung, die Sie anmelden wollen,die 5-stellige Prüfungsnummer Pnr, die Sie der Prüfungsordnungsliste entnehmen,die Bezeichnung des Prüfungsfachs (Prüfungstext), die Vertiefungsrichtung (falls es sich um eine vertiefungsspezifische Prüfung handelt),den Namen des Prüfers / der Prüferinund zuletzt das Prüfungskennzeichen (Pfkz) ein: Dabei stehen \"P\" für Pflichtfach (der Vertiefungsrichtung), \"WP\" für Wahlpflichtfach und \"SG\" für Studium Generale. Pflichtfächer Ihrer Vertiefungsrichtung müssen das Prüfungskennzeichen \"P\" tragen, damit die richtige Zuordnung gewährleistet ist.  Beispiel:Sie wollen sich im Studiengang Wirtschaftsinformatik für die Klausurprüfung \"Verteilte Systeme\" und den zugehörigen Schein anmelden.Wenn Sie der Vertiefung Software- und Systementwicklung (SSE) angehören, ist dies ein Pflichtfach. Sie müssen daher die folgenden Einträge vornehmen:43170   |  Verteilte Systeme  |  SSE   |   Mueller  |  P 43171   |  Verteilte Systeme  |  SSE   |   Mueller  |  PWenn Sie dagegen die Vertiefungsrichtung Geschäftsprozessmanagement (GPM) eingeschlagen haben, können Sie \"Verteilte Systeme\" nur als Wahlpflichtfach anmelden. Dafür gibt es weiterhin die Prüfungsnummern der SPO2:28110   |  Verteilte Systeme  |  GPM   |   Mueller  |  WP 28111   |  Verteilte Systeme  |  GPM   |   Mueller  |  WP\n",
+                                    "answer_start": 63,
+                                    "answer_end": 1620
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wo finde ich Informationen zur Organisation und zu den Inhalten des Praktischen Studiensemesters? Praktisches Studiensemester im Web: Dort finden Sie u.a. auch Richtlinien, die für die Betreuer im Unternehmen wichtig sind, sowie Hinweise zu Aufbau und Gestaltung des Berichts, den Sie im Anschluss an das Praxissemester erstellen müssen.\n",
+                    "qas": [
+                        {
+                            "question": "Wo finde ich Informationen zur Organisation und zu den Inhalten des Praktischen Studiensemesters?",
+                            "id": "28",
+                            "answers": [
+                                {
+                                    "answer_id": "28",
+                                    "document_id": "28",
+                                    "question_id": "28",
+                                    "text": "Praktisches Studiensemester im Web: Dort finden Sie u.a. auch Richtlinien, die für die Betreuer im Unternehmen wichtig sind, sowie Hinweise zu Aufbau und Gestaltung des Berichts, den Sie im Anschluss an das Praxissemester erstellen müssen.\n",
+                                    "answer_start": 98,
+                                    "answer_end": 338
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Unter welchen Voraussetzungen werde ich zum Praxissemester zugelassen? In den Studiengängen WIN und GIB liegt das Praxissemester im 5. Einstufungssemester. Um hierfür zugelassen zu werden, müssen Sie die \"Bachelorzwischenprüfung\" zuvor bestanden, das heißt, alle Prüfungsleistungen des Grundstudiums erfolgreich erbracht haben.Im Studiengang AIN dagegen ist das Praxissemester bereits im 4. Einstufungssemester angesiedelt. Zu diesem werden Sie hier schon dann zugelassen, wenn die Zulassung zum Hauptstudium gegeben ist. Das bedeutet, dass noch zwei Prüfungsleistungen aus dem Grundstudium offen sein dürfen. \n",
+                    "qas": [
+                        {
+                            "question": "Unter welchen Voraussetzungen werde ich zum Praxissemester zugelassen?",
+                            "id": "29",
+                            "answers": [
+                                {
+                                    "answer_id": "29",
+                                    "document_id": "29",
+                                    "question_id": "29",
+                                    "text": "In den Studiengängen WIN und GIB liegt das Praxissemester im 5. Einstufungssemester. Um hierfür zugelassen zu werden, müssen Sie die \"Bachelorzwischenprüfung\" zuvor bestanden, das heißt, alle Prüfungsleistungen des Grundstudiums erfolgreich erbracht haben.Im Studiengang AIN dagegen ist das Praxissemester bereits im 4. Einstufungssemester angesiedelt. Zu diesem werden Sie hier schon dann zugelassen, wenn die Zulassung zum Hauptstudium gegeben ist. Das bedeutet, dass noch zwei Prüfungsleistungen aus dem Grundstudium offen sein dürfen. \n",
+                                    "answer_start": 71,
+                                    "answer_end": 611
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich das Praxissemester verschieben? Sie können einen Antrag auf Verschiebung des Praktischen Studiensemesters (s. Webseite des Praktischen Studiensemesters) stellen. Auf dem gleichnamigen Formular müssen Sie dabei gute Gründe für die gewünschte Verschiebung angeben. Wenn Sie keinen Praxisplatz gefunden haben, sollten Sie glaubhaft machen, dass Sie sich durch etliche Bewerbungsschreiben intensiv, aber vergeblich darum bemüht hatten.Der Antrag ist an den Vorsitzenden des Prüfungsausschusses zu richten und im Sekretariat des Prüfungsamtes abzugeben. Wenn er genehmigt wird, werden Sie in der Regel in das 3. Semester (AIN) bzw. in das 4. Semester (WIN/GIB) zurückgestuft. Falls Sie dort aber nur noch wenige Prüfungsleistungen offen haben, können Sie temporär höhergestuft werden, damit Sie die Möglichkeit haben, auch Prüfungen des 5. bzw. des 6. Semesters zu belegen.Eine Verschiebung des Praxissemesters ist nur ein Mal möglich. Damit wird auch ausgeschlossen, dass das Praxissemester ganz ans Ende des Studiums geschoben wird. \n",
+                    "qas": [
+                        {
+                            "question": "Kann ich das Praxissemester verschieben?",
+                            "id": "30",
+                            "answers": [
+                                {
+                                    "answer_id": "30",
+                                    "document_id": "30",
+                                    "question_id": "30",
+                                    "text": "Sie können einen Antrag auf Verschiebung des Praktischen Studiensemesters (s. Webseite des Praktischen Studiensemesters) stellen. Auf dem gleichnamigen Formular müssen Sie dabei gute Gründe für die gewünschte Verschiebung angeben. Wenn Sie keinen Praxisplatz gefunden haben, sollten Sie glaubhaft machen, dass Sie sich durch etliche Bewerbungsschreiben intensiv, aber vergeblich darum bemüht hatten.Der Antrag ist an den Vorsitzenden des Prüfungsausschusses zu richten und im Sekretariat des Prüfungsamtes abzugeben. Wenn er genehmigt wird, werden Sie in der Regel in das 3. Semester (AIN) bzw. in das 4. Semester (WIN/GIB) zurückgestuft. Falls Sie dort aber nur noch wenige Prüfungsleistungen offen haben, können Sie temporär höhergestuft werden, damit Sie die Möglichkeit haben, auch Prüfungen des 5. bzw. des 6. Semesters zu belegen.Eine Verschiebung des Praxissemesters ist nur ein Mal möglich. Damit wird auch ausgeschlossen, dass das Praxissemester ganz ans Ende des Studiums geschoben wird. \n",
+                                    "answer_start": 41,
+                                    "answer_end": 1040
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich während des Praxissemesters an Prüfungen teilnehmen? Sie dürfen während des Praxissemesters in der Regel nur an Wiederholungsprüfungen teilnehmen (dazu zählen auch solche, bei denen Sie im ersten Versuch unentschuldigt gefehlt haben), nicht aber an Prüfungen, zu denen Sie zum ersten Mal antreten würden. Die Anzahl solcher Wiederholungsprüfungen ist in der Regel auf zwei beschränkt. Über Ausnahmen entscheidet die bzw. der zuständige Prüfungsausschussvorsitzende. Wenn Sie planen im Praxissemester an Prüfungen teilzunehmen, die Sie noch nicht versucht haben, sprechen Sie das bitte vor dem Praxissemester mit Ihrer bzw. Ihrem Prüfungsausschussvorsitzenden ab.Da die Teilnahme an Wiederholungsprüfungen während des Praxissemesters freiwillig ist, werden Sie zu diesen nicht automatisch angemeldet, sondern müssen die Prüfungsanmeldung selbst vornehmen. (Beachten Sie dazu bitte die Punkte 2., 3. und 5. in den Infos des Zentralen Prüfungsamts unter \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\" / Link \"Infos zur Prüfungsanmeldung\".)\n",
+                    "qas": [
+                        {
+                            "question": "Kann ich während des Praxissemesters an Prüfungen teilnehmen?",
+                            "id": "31",
+                            "answers": [
+                                {
+                                    "answer_id": "31",
+                                    "document_id": "31",
+                                    "question_id": "31",
+                                    "text": "Sie dürfen während des Praxissemesters in der Regel nur an Wiederholungsprüfungen teilnehmen (dazu zählen auch solche, bei denen Sie im ersten Versuch unentschuldigt gefehlt haben), nicht aber an Prüfungen, zu denen Sie zum ersten Mal antreten würden. Die Anzahl solcher Wiederholungsprüfungen ist in der Regel auf zwei beschränkt. Über Ausnahmen entscheidet die bzw. der zuständige Prüfungsausschussvorsitzende. Wenn Sie planen im Praxissemester an Prüfungen teilzunehmen, die Sie noch nicht versucht haben, sprechen Sie das bitte vor dem Praxissemester mit Ihrer bzw. Ihrem Prüfungsausschussvorsitzenden ab.Da die Teilnahme an Wiederholungsprüfungen während des Praxissemesters freiwillig ist, werden Sie zu diesen nicht automatisch angemeldet, sondern müssen die Prüfungsanmeldung selbst vornehmen. (Beachten Sie dazu bitte die Punkte 2., 3. und 5. in den Infos des Zentralen Prüfungsamts unter \"Allgemeine Infos zum Ablauf der Prüfungsanmeldung\" / Link \"Infos zur Prüfungsanmeldung\".)\n",
+                                    "answer_start": 62,
+                                    "answer_end": 1051
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was versteht man unter Wahlpflichtfächern? \"Wahl\": Wahlpflichtfächer können aus einem vorgegebenen Katalog von Lehrveranstaltungen nach Belieben ausgewählt werden.\"Pflicht\": Während Ihres Studiums müssen Sie Wahlpflichtfächer in einem in Ihrer Prüfungsordnung vorgeschriebenen Umfang (gemessen in ECTS-Punkten) belegen und die zugehörigen Prüfungsleistungen bestehen. Auch ist die getroffene Wahl verpflichtend, d. h. die allgemeinen Regeln für Rücktritte oder für die Wiederholung nicht bestandener Prüfungen gelten auch für Wahlpflichtfächer, sobald diese zum ersten Mal angemeldet wurden.\n",
+                    "qas": [
+                        {
+                            "question": "Was versteht man unter Wahlpflichtfächern?",
+                            "id": "32",
+                            "answers": [
+                                {
+                                    "answer_id": "32",
+                                    "document_id": "32",
+                                    "question_id": "32",
+                                    "text": "\"Wahl\": Wahlpflichtfächer können aus einem vorgegebenen Katalog von Lehrveranstaltungen nach Belieben ausgewählt werden.\"Pflicht\": Während Ihres Studiums müssen Sie Wahlpflichtfächer in einem in Ihrer Prüfungsordnung vorgeschriebenen Umfang (gemessen in ECTS-Punkten) belegen und die zugehörigen Prüfungsleistungen bestehen. Auch ist die getroffene Wahl verpflichtend, d. h. die allgemeinen Regeln für Rücktritte oder für die Wiederholung nicht bestandener Prüfungen gelten auch für Wahlpflichtfächer, sobald diese zum ersten Mal angemeldet wurden.\n",
+                                    "answer_start": 43,
+                                    "answer_end": 592
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wo finde ich den für mich gültigen Katalog der Wahlpflichtfächer? Den Wahlpflichtkatalog Ihres Studiengangs (und ggf. Ihrer Vertiefungsrichtung) finden Sie auf der Studiengangswebseite im Reiter \"Dokumente\".Die Kataloge werden immer zu Semesterbeginn aktualisiert und veröffentlicht. Ein Teil der Wahlpflichtfächer kann auch dem Studium-Generale-Angebot oder dem Katalog der Fremdsprachen-Kurse der HTWG entnommen werden (s. u.).Wahlpflichtkatalog Angewandte InformatikWahlpflichtkatalog GesundheitsinformatikWahlpflichtkatalog Wirtschaftsinformatik\n",
+                    "qas": [
+                        {
+                            "question": "Wo finde ich den für mich gültigen Katalog der Wahlpflichtfächer?",
+                            "id": "33",
+                            "answers": [
+                                {
+                                    "answer_id": "33",
+                                    "document_id": "33",
+                                    "question_id": "33",
+                                    "text": "Den Wahlpflichtkatalog Ihres Studiengangs (und ggf. Ihrer Vertiefungsrichtung) finden Sie auf der Studiengangswebseite im Reiter \"Dokumente\".Die Kataloge werden immer zu Semesterbeginn aktualisiert und veröffentlicht. Ein Teil der Wahlpflichtfächer kann auch dem Studium-Generale-Angebot oder dem Katalog der Fremdsprachen-Kurse der HTWG entnommen werden (s. u.).Wahlpflichtkatalog Angewandte InformatikWahlpflichtkatalog GesundheitsinformatikWahlpflichtkatalog Wirtschaftsinformatik\n",
+                                    "answer_start": 66,
+                                    "answer_end": 550
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wann dürfen Wahlpflichtfächer belegt werden? Dies wird durch die jeweilige Prüfungsordnung geregelt. Im Studiengang AIN können Sie sich ab dem fünften Einstufungssemester zu den Lehrveranstaltungen aus dem Wahlpflichtkatalog anmelden,in GIB ab dem sechstenund in WIN ab dem vierten Einstufungssemester.Für Fremdsprachenkurse und Lehrveranstaltungen des Studium Generale gibt es diese Einschränkung nicht.\n",
+                    "qas": [
+                        {
+                            "question": "Wann dürfen Wahlpflichtfächer belegt werden?",
+                            "id": "34",
+                            "answers": [
+                                {
+                                    "answer_id": "34",
+                                    "document_id": "34",
+                                    "question_id": "34",
+                                    "text": "Dies wird durch die jeweilige Prüfungsordnung geregelt. Im Studiengang AIN können Sie sich ab dem fünften Einstufungssemester zu den Lehrveranstaltungen aus dem Wahlpflichtkatalog anmelden,in GIB ab dem sechstenund in WIN ab dem vierten Einstufungssemester.Für Fremdsprachenkurse und Lehrveranstaltungen des Studium Generale gibt es diese Einschränkung nicht.\n",
+                                    "answer_start": 45,
+                                    "answer_end": 405
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "In welchem Umfang sind Wahlpflichtfächer zu belegen? Auch dies hängt vom jeweiligen Studiengang ab:Studiengang AIN: \tEs sind Wahlpflichtfächer im Umfang von insgesamt 12 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale-, dem Fremdsprachen-Angebot oder auch dem Angebot anderer Fakultäten befinden; diese sind in der Summe allerdings auf maximal 6 ECTS-Punkte begrenzt.Studiengang GIB: \tEs sind Wahlpflichtfächer im Umfang von insgesamt 11 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale- oder dem Fremdsprachen-Angebot befinden; diese sind in der Summe allerdings auf maximal 6 ECTS-Punkte begrenzt.Studiengang WIN (\"neue\" Prüfungsordnung PO 4): \tEs sind Wahlpflichtfächer im Umfang von insgesamt 12 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale- oder dem Fremdsprachen-Angebot befinden; diese sind in der Summe allerdings auf maximal 8 ECTS-Punkte begrenzt.Studiengang WIN (\"alte\" Prüfungsordnung PO 3): \tEs sind Wahlpflichtfächer im Umfang von insgesamt 9 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale- oder dem Fremdsprachen-Angebot befinden; diese sind in der Summe allerdings auf maximal 6 ECTS-Punkte begrenzt. \n",
+                    "qas": [
+                        {
+                            "question": "In welchem Umfang sind Wahlpflichtfächer zu belegen?",
+                            "id": "35",
+                            "answers": [
+                                {
+                                    "answer_id": "35",
+                                    "document_id": "35",
+                                    "question_id": "35",
+                                    "text": "Auch dies hängt vom jeweiligen Studiengang ab:Studiengang AIN: \tEs sind Wahlpflichtfächer im Umfang von insgesamt 12 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale-, dem Fremdsprachen-Angebot oder auch dem Angebot anderer Fakultäten befinden; diese sind in der Summe allerdings auf maximal 6 ECTS-Punkte begrenzt.Studiengang GIB: \tEs sind Wahlpflichtfächer im Umfang von insgesamt 11 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale- oder dem Fremdsprachen-Angebot befinden; diese sind in der Summe allerdings auf maximal 6 ECTS-Punkte begrenzt.Studiengang WIN (\"neue\" Prüfungsordnung PO 4): \tEs sind Wahlpflichtfächer im Umfang von insgesamt 12 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale- oder dem Fremdsprachen-Angebot befinden; diese sind in der Summe allerdings auf maximal 8 ECTS-Punkte begrenzt.Studiengang WIN (\"alte\" Prüfungsordnung PO 3): \tEs sind Wahlpflichtfächer im Umfang von insgesamt 9 ECTS-Punkten zu erbringen. Darunter dürfen sich auch Veranstaltungen aus dem Studium-Generale- oder dem Fremdsprachen-Angebot befinden; diese sind in der Summe allerdings auf maximal 6 ECTS-Punkte begrenzt. \n",
+                                    "answer_start": 53,
+                                    "answer_end": 1305
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich mir auch eine Lehrveranstaltung aus einer anderen Fakultät als WPF anerkennen lassen? In AIN (SPO2 und SPO3) können - wie schon in der vorangegangenen Frage erwähnt - auch Lehrveranstaltungen anderer Fakultäten belegt werden, allerdings nur im Umfang von maximal 6 ECTS-Punkten und nur nach vorheriger Genehmigung des zuständigen Studiendekans. \t In den Studiengängen GIB und WIN ist dies nur mit Genehmigung des zuständigen Prüfungsausschussvorsitzenden möglich. Für GIB ist dies auf maximal 6 ECTS-Punkte begrenzt, für WIN PO 3 auf 6 ECTS, für WIN PO 4 auf 8 ECTS. Beachten Sie in jedem Fall auch die Antwort auf die nachfolgende Frage.\n",
+                    "qas": [
+                        {
+                            "question": "Kann ich mir auch eine Lehrveranstaltung aus einer anderen Fakultät als WPF anerkennen lassen?",
+                            "id": "36",
+                            "answers": [
+                                {
+                                    "answer_id": "36",
+                                    "document_id": "36",
+                                    "question_id": "36",
+                                    "text": "In AIN (SPO2 und SPO3) können - wie schon in der vorangegangenen Frage erwähnt - auch Lehrveranstaltungen anderer Fakultäten belegt werden, allerdings nur im Umfang von maximal 6 ECTS-Punkten und nur nach vorheriger Genehmigung des zuständigen Studiendekans. \t In den Studiengängen GIB und WIN ist dies nur mit Genehmigung des zuständigen Prüfungsausschussvorsitzenden möglich. Für GIB ist dies auf maximal 6 ECTS-Punkte begrenzt, für WIN PO 3 auf 6 ECTS, für WIN PO 4 auf 8 ECTS. Beachten Sie in jedem Fall auch die Antwort auf die nachfolgende Frage.\n",
+                                    "answer_start": 95,
+                                    "answer_end": 648
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich mir auch eine nicht benotete Prüfung (z. B. des Studium Generale) als Wahlpflichtfach anerkennen lassen? Nein, es werden nur Veranstaltungen, für die ein benoteter Leistungsnachweis erbracht wurde, anerkannt.\n",
+                    "qas": [
+                        {
+                            "question": "Kann ich mir auch eine nicht benotete Prüfung (z. B. des Studium Generale) als Wahlpflichtfach anerkennen lassen?",
+                            "id": "37",
+                            "answers": [
+                                {
+                                    "answer_id": "37",
+                                    "document_id": "37",
+                                    "question_id": "37",
+                                    "text": "Nein, es werden nur Veranstaltungen, für die ein benoteter Leistungsnachweis erbracht wurde, anerkannt.\n",
+                                    "answer_start": 114,
+                                    "answer_end": 218
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Muss ich mich für die Prüfungsleistungen meiner Wahlpflichtfächer beim Zentralen Prüfungsamt anmelden? Ja, das müssen Sie (s. a. Prüfungsanmeldung).\n",
+                    "qas": [
+                        {
+                            "question": "Muss ich mich für die Prüfungsleistungen meiner Wahlpflichtfächer beim Zentralen Prüfungsamt anmelden?",
+                            "id": "38",
+                            "answers": [
+                                {
+                                    "answer_id": "38",
+                                    "document_id": "38",
+                                    "question_id": "38",
+                                    "text": "Ja, das müssen Sie (s. a. Prüfungsanmeldung).\n",
+                                    "answer_start": 103,
+                                    "answer_end": 149
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was passiert, wenn der Gesamtumfang meiner Wahlpflichtfächer größer ist als erforderlich? Ihre Wahlpflichtfächer werden in der zeitlichen Reihenfolge, in der sie angemeldet worden waren, so lange in das \"Wahlpflichtmodul\" aufgenommen, bis die erforderliche Anzahl an ECTS-Punkten erreicht oder knapp überschritten ist.Darüber hinausgehende Prüfungsleistungen können auf Wunsch als Zusatzveranstaltungen (mit Note, aber ohne ECTS-Punkte) im Bachelorzeugnis aufgeführt werden. Diese gehen nicht in die Berechnung der Gesamtnote Ihres Bachelorzeugnisses ein. \n",
+                    "qas": [
+                        {
+                            "question": "Was passiert, wenn der Gesamtumfang meiner Wahlpflichtfächer größer ist als erforderlich?",
+                            "id": "39",
+                            "answers": [
+                                {
+                                    "answer_id": "39",
+                                    "document_id": "39",
+                                    "question_id": "39",
+                                    "text": "Ihre Wahlpflichtfächer werden in der zeitlichen Reihenfolge, in der sie angemeldet worden waren, so lange in das \"Wahlpflichtmodul\" aufgenommen, bis die erforderliche Anzahl an ECTS-Punkten erreicht oder knapp überschritten ist.Darüber hinausgehende Prüfungsleistungen können auf Wunsch als Zusatzveranstaltungen (mit Note, aber ohne ECTS-Punkte) im Bachelorzeugnis aufgeführt werden. Diese gehen nicht in die Berechnung der Gesamtnote Ihres Bachelorzeugnisses ein. \n",
+                                    "answer_start": 90,
+                                    "answer_end": 557
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Worin besteht der Zweck einer Bachelorarbeit? Die Bachelorarbeit ist eine schriftliche Hausarbeit. Sie soll zeigen, dass Sie befähigt sind, \"ein Problem aus einem Fachgebiet des gewählten Studiengangs selbständig nach wissenschaftlichen Methoden\" innerhalb der vorgegebenen Frist von 3 Monaten zu bearbeiten (vgl. Studien- und Prüfungsordnung Bachelor allgemeiner Teil; §30 (1) und (5))SPO-Ba, allgemeiner Teil\n",
+                    "qas": [
+                        {
+                            "question": "Worin besteht der Zweck einer Bachelorarbeit?",
+                            "id": "40",
+                            "answers": [
+                                {
+                                    "answer_id": "40",
+                                    "document_id": "40",
+                                    "question_id": "40",
+                                    "text": "Die Bachelorarbeit ist eine schriftliche Hausarbeit. Sie soll zeigen, dass Sie befähigt sind, \"ein Problem aus einem Fachgebiet des gewählten Studiengangs selbständig nach wissenschaftlichen Methoden\" innerhalb der vorgegebenen Frist von 3 Monaten zu bearbeiten (vgl. Studien- und Prüfungsordnung Bachelor allgemeiner Teil; §30 (1) und (5))SPO-Ba, allgemeiner Teil\n",
+                                    "answer_start": 46,
+                                    "answer_end": 411
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie finde ich ein geeignetes Thema für die Bachelorarbeit? Im System INdigit finden Sie die Liste der aktuell an der Hochschule für Ihren Studiengang ausgeschriebenen Themen für Ihre Abschlussarbeit. Falls Sie selbst einen Themenvorschlag haben und hierfür eine Betreuung suchen, können Sie Ihr Gesuch über INdigit einstellen. Alternativ können Sie sich auch mit einer Professorin bzw. einem Professor der Fakultät Informatik direkt in Verbindung setzen und über eigene Vorschläge sprechen.Sie können die Bachelorarbeit auch außerhalb der Hochschule, z. B. in einem Unternehmen, als \"externe Bachelorarbeit\" durchführen. Beachten Sie dabei aber, dass Sie hierfür benötigen:eine Professorin bzw. einen Professor der Fakultät Informatik als Erstbetreuerin bzw. Erstbetreuer. Diese bzw. diesen sollten Sie direkt oder über INdigit ansprechen und für Ihr Thema gewinnen.die Zustimmung der bzw. des Vorsitzenden des Prüfungsausschusses. Diese bzw. dieser überprüft, ob das Thema und die externe Betreuerin bzw. der externe Betreuer den Vorgaben der Studien- und Prüfungsordnung entsprechen. Alle Zustimmungen werden über INdigit abgefragt. Beachten Sie bitte auch, dass Sie sich zuerst die hochschulseitige Genehmigung einholen, bevor Sie bei einer Firma einen Vertrag unterschreiben. Im Zweifelsfall nehmen Sie gerne Kontakt mit der oder dem zuständigen Vorsitzenden des Prüfungsausschusses auf.Erläuterung zu allen Prozessschritten finden Sie auf der Webseite zur Plattform INdigit sowie in den dortigen FAQ: INdigit / Support / FAQ & Hilfe. \n",
+                    "qas": [
+                        {
+                            "question": "Wie finde ich ein geeignetes Thema für die Bachelorarbeit?",
+                            "id": "41",
+                            "answers": [
+                                {
+                                    "answer_id": "41",
+                                    "document_id": "41",
+                                    "question_id": "41",
+                                    "text": "Im System INdigit finden Sie die Liste der aktuell an der Hochschule für Ihren Studiengang ausgeschriebenen Themen für Ihre Abschlussarbeit. Falls Sie selbst einen Themenvorschlag haben und hierfür eine Betreuung suchen, können Sie Ihr Gesuch über INdigit einstellen. Alternativ können Sie sich auch mit einer Professorin bzw. einem Professor der Fakultät Informatik direkt in Verbindung setzen und über eigene Vorschläge sprechen.Sie können die Bachelorarbeit auch außerhalb der Hochschule, z. B. in einem Unternehmen, als \"externe Bachelorarbeit\" durchführen. Beachten Sie dabei aber, dass Sie hierfür benötigen:eine Professorin bzw. einen Professor der Fakultät Informatik als Erstbetreuerin bzw. Erstbetreuer. Diese bzw. diesen sollten Sie direkt oder über INdigit ansprechen und für Ihr Thema gewinnen.die Zustimmung der bzw. des Vorsitzenden des Prüfungsausschusses. Diese bzw. dieser überprüft, ob das Thema und die externe Betreuerin bzw. der externe Betreuer den Vorgaben der Studien- und Prüfungsordnung entsprechen. Alle Zustimmungen werden über INdigit abgefragt. Beachten Sie bitte auch, dass Sie sich zuerst die hochschulseitige Genehmigung einholen, bevor Sie bei einer Firma einen Vertrag unterschreiben. Im Zweifelsfall nehmen Sie gerne Kontakt mit der oder dem zuständigen Vorsitzenden des Prüfungsausschusses auf.Erläuterung zu allen Prozessschritten finden Sie auf der Webseite zur Plattform INdigit sowie in den dortigen FAQ: INdigit / Support / FAQ & Hilfe. \n",
+                                    "answer_start": 59,
+                                    "answer_end": 1540
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wann kann ich mit meiner Bachelorarbeit frühestens beginnen? Sie können frühestens dann zur Bachelorarbeit angemeldet werden, wenn Sie alle Prüfungsleistungen der ersten 5 Semester erbracht haben. Insbesondere muss also auch das Praxissemester erfolgreich abgeleistet worden sein.Im Studiengang AIN (SPO2) wird zusätzlich vorausgesetzt, dass Sie bereits Module aus der von Ihnen gewählten Vertiefungsrichtung im Umfang von 15 ECTS-Punkten belegt und bestanden haben.Im Studiengang AIN (SPO3) wird zusätzlich vorausgesetzt, dass Sie bereits Module aus der von Ihnen gewählten Vertiefungsrichtung im Umfang von 12 ECTS-Punkten belegt und bestanden haben. Ausnahmsweise kann eine Bachelorarbeit auch mit offenen Leistungen begonnen werden, wenn Sie darstellen können, dass Sie alle offenen Prüfungsleistungen im laufenden Semester abschließen können.Bevor Sie mit der Bachelorarbeit beginnen dürfen, muss diese angemeldet und von dem/der Vorsitzenden des Prüfungsausschusses genehmigt worden sein (s. u. \"Wie melde ich meine Bachelorarbeit an?\").\n",
+                    "qas": [
+                        {
+                            "question": "Wann kann ich mit meiner Bachelorarbeit frühestens beginnen?",
+                            "id": "42",
+                            "answers": [
+                                {
+                                    "answer_id": "42",
+                                    "document_id": "42",
+                                    "question_id": "42",
+                                    "text": "Sie können frühestens dann zur Bachelorarbeit angemeldet werden, wenn Sie alle Prüfungsleistungen der ersten 5 Semester erbracht haben. Insbesondere muss also auch das Praxissemester erfolgreich abgeleistet worden sein.Im Studiengang AIN (SPO2) wird zusätzlich vorausgesetzt, dass Sie bereits Module aus der von Ihnen gewählten Vertiefungsrichtung im Umfang von 15 ECTS-Punkten belegt und bestanden haben.Im Studiengang AIN (SPO3) wird zusätzlich vorausgesetzt, dass Sie bereits Module aus der von Ihnen gewählten Vertiefungsrichtung im Umfang von 12 ECTS-Punkten belegt und bestanden haben. Ausnahmsweise kann eine Bachelorarbeit auch mit offenen Leistungen begonnen werden, wenn Sie darstellen können, dass Sie alle offenen Prüfungsleistungen im laufenden Semester abschließen können.Bevor Sie mit der Bachelorarbeit beginnen dürfen, muss diese angemeldet und von dem/der Vorsitzenden des Prüfungsausschusses genehmigt worden sein (s. u. \"Wie melde ich meine Bachelorarbeit an?\").\n",
+                                    "answer_start": 61,
+                                    "answer_end": 1044
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wann muss ich die Bachelorarbeit spätestens anmelden? In der Regel meldet man seine Bachelorarbeit spätestens dann an, wenn alle sonstigen Prüfungsleistungen des Studiengangs erbracht sind.  Achten Sie aber auch auf die Höchststudiendauer: Damit diese nicht überschritten wird, muss die Abgabe der Bachelorarbeit spätestens zum Ende Ihres 10. Studiensemesters erfolgen. Das Anfangsdatum muss also vor dem 1. Juni liegen, falls es sich um ein Sommersemester handelt, und vor dem 1. Dezember bei einem Wintersemester. (Die Semestergrenzen liegen beim 31. August bzw. 28. Februar.)In jedem Falle sollten Sie bei Ihrer Zeitplanung berücksichtigen, dass Sie sich auch bei nur geringfügigem Überschreiten der Semestergrenzen zum nachfolgenden Semester rückmelden müssen. Kalkulieren Sie dabei auch ein, dass vielleicht eine Verlängerung der Bearbeitungszeit von 3 auf 4 Monate notwendig werden könnte. \n",
+                    "qas": [
+                        {
+                            "question": "Wann muss ich die Bachelorarbeit spätestens anmelden?",
+                            "id": "43",
+                            "answers": [
+                                {
+                                    "answer_id": "43",
+                                    "document_id": "43",
+                                    "question_id": "43",
+                                    "text": "In der Regel meldet man seine Bachelorarbeit spätestens dann an, wenn alle sonstigen Prüfungsleistungen des Studiengangs erbracht sind.  Achten Sie aber auch auf die Höchststudiendauer: Damit diese nicht überschritten wird, muss die Abgabe der Bachelorarbeit spätestens zum Ende Ihres 10. Studiensemesters erfolgen. Das Anfangsdatum muss also vor dem 1. Juni liegen, falls es sich um ein Sommersemester handelt, und vor dem 1. Dezember bei einem Wintersemester. (Die Semestergrenzen liegen beim 31. August bzw. 28. Februar.)In jedem Falle sollten Sie bei Ihrer Zeitplanung berücksichtigen, dass Sie sich auch bei nur geringfügigem Überschreiten der Semestergrenzen zum nachfolgenden Semester rückmelden müssen. Kalkulieren Sie dabei auch ein, dass vielleicht eine Verlängerung der Bearbeitungszeit von 3 auf 4 Monate notwendig werden könnte. \n",
+                                    "answer_start": 54,
+                                    "answer_end": 897
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wer kann meine Bachelorarbeit betreuen und benoten? Die/Der 1. Prüfer/in muss ein/e Professor/in der Fakultät Informatik sein. Er/Sie entscheidet darüber, ob das Thema als geeignet für eine Bachelorarbeit anzusehen ist. Die/Der 2. Prüfer/in kann ein/e Professor/in oder ein/e Lehrbeauftragte/r (auch aus einer anderen Fakultät) sein. Bei einer externen Bachelorarbeit übernimmt ein/e Mitarbeiter/in in der Firma, in der die Bachelorarbeit durchgeführt wird, diese Rolle; es muss sich dabei um eine in der beruflichen Praxis erfahrene Person, die mindestens eine dem Bachelor Degree gleichwertige Qualifikation besitzt, handeln.Bei einer internen Bachelorarbeit ist der/die 1. Prüfer/in gleichzeitig der/die Betreuer/in, der/die Ihnen mit Ratschlägen zur Seite steht. Eine externe Bachelorarbeit dagegen wird durch den/die 2. Prüfer/in betreut.Beide Prüfer/innen werden Ihre Bachelorarbeit bewerten. Die im Bachelorzeugnis aufgeführte Note errechnet sich als Mittelwert der von den beiden Prüfer/innen erteilten Einzelnoten. \n",
+                    "qas": [
+                        {
+                            "question": "Wer kann meine Bachelorarbeit betreuen und benoten?",
+                            "id": "44",
+                            "answers": [
+                                {
+                                    "answer_id": "44",
+                                    "document_id": "44",
+                                    "question_id": "44",
+                                    "text": "Die/Der 1. Prüfer/in muss ein/e Professor/in der Fakultät Informatik sein. Er/Sie entscheidet darüber, ob das Thema als geeignet für eine Bachelorarbeit anzusehen ist. Die/Der 2. Prüfer/in kann ein/e Professor/in oder ein/e Lehrbeauftragte/r (auch aus einer anderen Fakultät) sein. Bei einer externen Bachelorarbeit übernimmt ein/e Mitarbeiter/in in der Firma, in der die Bachelorarbeit durchgeführt wird, diese Rolle; es muss sich dabei um eine in der beruflichen Praxis erfahrene Person, die mindestens eine dem Bachelor Degree gleichwertige Qualifikation besitzt, handeln.Bei einer internen Bachelorarbeit ist der/die 1. Prüfer/in gleichzeitig der/die Betreuer/in, der/die Ihnen mit Ratschlägen zur Seite steht. Eine externe Bachelorarbeit dagegen wird durch den/die 2. Prüfer/in betreut.Beide Prüfer/innen werden Ihre Bachelorarbeit bewerten. Die im Bachelorzeugnis aufgeführte Note errechnet sich als Mittelwert der von den beiden Prüfer/innen erteilten Einzelnoten. \n",
+                                    "answer_start": 52,
+                                    "answer_end": 1025
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie melde ich meine Bachelorarbeit an? Hierzu müssen Sie einen digitalen Antrag auf Ausgabe derAbschlussarbeit über das System INdigit stellen.Erst wenn Ihr Antrag von der bzw. dem Vorsitzenden des Prüfungsausschusses genehmigt wurde, dürfen Sie mit der Bachelorarbeit beginnen.Zur Prozessbeschreibung Antrag auf Ausgabe der AbschlussarbeitDer gesamte Prozess von der Anmeldung bis hin zur Abgabe und Bewertung wird über das INdigit-System beschrieben und durchgeführt.FAQ zum Thema Abschlussarbeit auf INdigit: INdigit / Support / FAQ & Hilfe\n",
+                    "qas": [
+                        {
+                            "question": "Wie melde ich meine Bachelorarbeit an?",
+                            "id": "45",
+                            "answers": [
+                                {
+                                    "answer_id": "45",
+                                    "document_id": "45",
+                                    "question_id": "45",
+                                    "text": "Hierzu müssen Sie einen digitalen Antrag auf Ausgabe derAbschlussarbeit über das System INdigit stellen.Erst wenn Ihr Antrag von der bzw. dem Vorsitzenden des Prüfungsausschusses genehmigt wurde, dürfen Sie mit der Bachelorarbeit beginnen.Zur Prozessbeschreibung Antrag auf Ausgabe der AbschlussarbeitDer gesamte Prozess von der Anmeldung bis hin zur Abgabe und Bewertung wird über das INdigit-System beschrieben und durchgeführt.FAQ zum Thema Abschlussarbeit auf INdigit: INdigit / Support / FAQ & Hilfe\n",
+                                    "answer_start": 39,
+                                    "answer_end": 544
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie kann ich die Bearbeitungszeit der Bachelorarbeit verlängern lassen? In Ausnahmefällen kann die ursprünglich auf 3 Monate begrenzte Bearbeitungszeit auf Antrag einmalig verlängert werden, aber höchstens um 1 Monat. In diesem (formlosen) Antrag müssen Gründe vorgebracht und nachgewiesen werden, die von Ihnen nicht zu vertreten sind. Dazu zählen - neben Krankheit - z. B. zeitliche Verzögerungen bei Rückläufen zu Umfragen oder bei der Lieferung von Hard- oder Software, die für die Bachelorarbeit benötigt wird.Die Entscheidung über eine Verlängerung der Bearbeitungszeit trifft der/die Vorsitzende des Prüfungsausschusses auf der Grundlage einer Stellungnahme der/des Erstprüferin/Erstprüfers. \n",
+                    "qas": [
+                        {
+                            "question": "Wie kann ich die Bearbeitungszeit der Bachelorarbeit verlängern lassen?",
+                            "id": "46",
+                            "answers": [
+                                {
+                                    "answer_id": "46",
+                                    "document_id": "46",
+                                    "question_id": "46",
+                                    "text": "In Ausnahmefällen kann die ursprünglich auf 3 Monate begrenzte Bearbeitungszeit auf Antrag einmalig verlängert werden, aber höchstens um 1 Monat. In diesem (formlosen) Antrag müssen Gründe vorgebracht und nachgewiesen werden, die von Ihnen nicht zu vertreten sind. Dazu zählen - neben Krankheit - z. B. zeitliche Verzögerungen bei Rückläufen zu Umfragen oder bei der Lieferung von Hard- oder Software, die für die Bachelorarbeit benötigt wird.Die Entscheidung über eine Verlängerung der Bearbeitungszeit trifft der/die Vorsitzende des Prüfungsausschusses auf der Grundlage einer Stellungnahme der/des Erstprüferin/Erstprüfers. \n",
+                                    "answer_start": 72,
+                                    "answer_end": 700
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Allgemeine Informationen zur Prüfungsanmeldung Wenn Sie sich im Portal Prüfungsangelegenheiten anmelden den Menuepunkt \"Prüfungsverwaltung\" anklicken und dann \"Info zur Prüfungsanmeldung\" bekommen Sie detaillierte Infos zu diesem Thema. Falls dort nicht alle Fragen beantwortet sind, finden Sie hier auf unserer FAQ-Seite viele weitere Antworten auf häufige gestellte Fragen. Weitere Antworten auf Fragen zu Prüfungen und zur Prüfungsan- oder abmeldung beantwortet das Zentrale Prüfungsamt. Darüber hinausgehende Fragen zum Studium beantwortet die Studienberatung Ihres Studiengangs oder die zentrale Studienberatung (ZSB). Fragen zur Einstufung beantwortet das Studierendensekretariat der Studentischen Abteilung.\n",
+                    "qas": [
+                        {
+                            "question": "Allgemeine Informationen zur Prüfungsanmeldung",
+                            "id": "47",
+                            "answers": [
+                                {
+                                    "answer_id": "47",
+                                    "document_id": "47",
+                                    "question_id": "47",
+                                    "text": "Wenn Sie sich im Portal Prüfungsangelegenheiten anmelden den Menuepunkt \"Prüfungsverwaltung\" anklicken und dann \"Info zur Prüfungsanmeldung\" bekommen Sie detaillierte Infos zu diesem Thema. Falls dort nicht alle Fragen beantwortet sind, finden Sie hier auf unserer FAQ-Seite viele weitere Antworten auf häufige gestellte Fragen. Weitere Antworten auf Fragen zu Prüfungen und zur Prüfungsan- oder abmeldung beantwortet das Zentrale Prüfungsamt. Darüber hinausgehende Fragen zum Studium beantwortet die Studienberatung Ihres Studiengangs oder die zentrale Studienberatung (ZSB). Fragen zur Einstufung beantwortet das Studierendensekretariat der Studentischen Abteilung.\n",
+                                    "answer_start": 47,
+                                    "answer_end": 715
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Hinweis zum zweiten Prüfungszeitraum für die Prüfungen des Assessmentsemesters Die Regelungen der Studien- und Prüfungsordnung für die Bachelorstudiengänge (SPOBa) verstehen im prüfungsrechtlichen Sinne unter dem Begriff des Assessmentsemesters die \"Prüfungen des ersten Semesters\", nicht die \"Studierenden des ersten Semesters\". Für die Prüfungen des ersten Semesters macht der Allgemeine Teil der SPOBa für alle Studiengänge verbindliche Vorgaben: Die laut Studien- und Prüfungsordnung des jeweiligen Studiengangs vorgesehenen Prüfungen des Assessmentsemesters müssen zum ersten Prüfungstermin angetreten werden, d.h. sie sind terminiert (vgl. § 18 Abs. 2); ein Rücktritt ist nur unter ganz bestimmten Bedingungen möglich (vgl. § 22). Die möglicherweise erforderliche Wiederholung von Prüfungen des Assessmentsemesters ist in § 21 Abs. 3 Satz 1 und § 18 Abs. 1 geregelt. Generell gilt: die Wiederholungsprüfung ist zum nächstmöglichen Prüfungstermin abzulegen (Ausnahmen gelten beim Praxissemester siehe § 21 Abs. 3 Satz 2f.). Für die Wiederholung der Prüfungen des ersten Semesters gibt es einen zweiten Prüfungszeitraum am Ende der vorlesungsfreien Zeit bzw. zu Beginn der Vorlesungszeit des folgenden Semesters (vgl. § 18 Abs. 1 Satz 3). Zusammenfassend: Prüfungen des ersten Semesters sind terminiert und sie sind in allen Prüfungszeiträumen terminiert, also auch wenn Studierende bereits im zweiten oder dritten Semester sind. Wiederholungsprüfungen bzw. noch nicht bestandene Prüfungen aus dem ersten Semester werden vom Zentralen Prüfungsamt automatisch zum nächstmöglichen Prüfungszeitraum angemeldet.Beispiel: Student*in A ist im 1. Semester und hat im ersten Prüfungszeitraum die Prüfung X nicht bestanden. Sie wird für die Prüfung X automatisch zum nächstmöglichen Termin, d.h. zum Termin im zweiten Prüfungszeitraum angemeldet. An diesem Prüfungstermin ist sie*er krank. Student*in A wird daher zum nächstmöglichen Prüfungstermin (= im ersten Prüfungszeitraum des darauffolgenden Semesters) angemeldet. An diesem Termin besteht sie*er zum zweiten Mal nicht. Student*in A beantragt eine zweite Wiederholung dieser Prüfung aus dem ersten Semester und bekommt diese bewilligt. Sie*Er wird automatisch zum nächstmöglichen Prüfungstermin (= zweiten Prüfungszeitraum ihres 2. Fachsemesters) angemeldet.\n",
+                    "qas": [
+                        {
+                            "question": "Hinweis zum zweiten Prüfungszeitraum für die Prüfungen des Assessmentsemesters",
+                            "id": "48",
+                            "answers": [
+                                {
+                                    "answer_id": "48",
+                                    "document_id": "48",
+                                    "question_id": "48",
+                                    "text": "Die Regelungen der Studien- und Prüfungsordnung für die Bachelorstudiengänge (SPOBa) verstehen im prüfungsrechtlichen Sinne unter dem Begriff des Assessmentsemesters die \"Prüfungen des ersten Semesters\", nicht die \"Studierenden des ersten Semesters\". Für die Prüfungen des ersten Semesters macht der Allgemeine Teil der SPOBa für alle Studiengänge verbindliche Vorgaben: Die laut Studien- und Prüfungsordnung des jeweiligen Studiengangs vorgesehenen Prüfungen des Assessmentsemesters müssen zum ersten Prüfungstermin angetreten werden, d.h. sie sind terminiert (vgl. § 18 Abs. 2); ein Rücktritt ist nur unter ganz bestimmten Bedingungen möglich (vgl. § 22). Die möglicherweise erforderliche Wiederholung von Prüfungen des Assessmentsemesters ist in § 21 Abs. 3 Satz 1 und § 18 Abs. 1 geregelt. Generell gilt: die Wiederholungsprüfung ist zum nächstmöglichen Prüfungstermin abzulegen (Ausnahmen gelten beim Praxissemester siehe § 21 Abs. 3 Satz 2f.). Für die Wiederholung der Prüfungen des ersten Semesters gibt es einen zweiten Prüfungszeitraum am Ende der vorlesungsfreien Zeit bzw. zu Beginn der Vorlesungszeit des folgenden Semesters (vgl. § 18 Abs. 1 Satz 3). Zusammenfassend: Prüfungen des ersten Semesters sind terminiert und sie sind in allen Prüfungszeiträumen terminiert, also auch wenn Studierende bereits im zweiten oder dritten Semester sind. Wiederholungsprüfungen bzw. noch nicht bestandene Prüfungen aus dem ersten Semester werden vom Zentralen Prüfungsamt automatisch zum nächstmöglichen Prüfungszeitraum angemeldet.Beispiel: Student*in A ist im 1. Semester und hat im ersten Prüfungszeitraum die Prüfung X nicht bestanden. Sie wird für die Prüfung X automatisch zum nächstmöglichen Termin, d.h. zum Termin im zweiten Prüfungszeitraum angemeldet. An diesem Prüfungstermin ist sie*er krank. Student*in A wird daher zum nächstmöglichen Prüfungstermin (= im ersten Prüfungszeitraum des darauffolgenden Semesters) angemeldet. An diesem Termin besteht sie*er zum zweiten Mal nicht. Student*in A beantragt eine zweite Wiederholung dieser Prüfung aus dem ersten Semester und bekommt diese bewilligt. Sie*Er wird automatisch zum nächstmöglichen Prüfungstermin (= zweiten Prüfungszeitraum ihres 2. Fachsemesters) angemeldet.\n",
+                                    "answer_start": 79,
+                                    "answer_end": 2311
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Muss ich mich zu Pflichtprüfungen selber anmelden? Prüfungen, die in Ihrer Studien- und Prüfungsordnungen als Pflichtprüfungen (PM) gekennzeichnet sind, werden für Sie durch das Zentrale Prüfungsamt angemeldet. Dies erfolgt im April/Mai für das Sommer- und im Oktober/November für das Wintersemester und kann im Portal Prüfungsangelegenheiten eingesehen werden.Erscheinen im Portal Prüfungsangelegenheiten keine angemeldete Prüfungen, überprüfen Sie Ihr Einstufungssemester. Vor allem wenn Sie eine Rückstufung oder eine Verschiebung des Praxissemesters beantragt haben. Stimmt die Einstung Ihrer Meinung nach nicht, klären Sie dies zunächst mit Ihrer Sachbearbeiterin im Studierendensekretariat und nehmen dann Kontakt mit dem Zentralen Prüfungsamt auf. Dort kann Ihre Prüfungsanmeldung angepasst werden.\n",
+                    "qas": [
+                        {
+                            "question": "Muss ich mich zu Pflichtprüfungen selber anmelden?",
+                            "id": "49",
+                            "answers": [
+                                {
+                                    "answer_id": "49",
+                                    "document_id": "49",
+                                    "question_id": "49",
+                                    "text": "Prüfungen, die in Ihrer Studien- und Prüfungsordnungen als Pflichtprüfungen (PM) gekennzeichnet sind, werden für Sie durch das Zentrale Prüfungsamt angemeldet. Dies erfolgt im April/Mai für das Sommer- und im Oktober/November für das Wintersemester und kann im Portal Prüfungsangelegenheiten eingesehen werden.Erscheinen im Portal Prüfungsangelegenheiten keine angemeldete Prüfungen, überprüfen Sie Ihr Einstufungssemester. Vor allem wenn Sie eine Rückstufung oder eine Verschiebung des Praxissemesters beantragt haben. Stimmt die Einstung Ihrer Meinung nach nicht, klären Sie dies zunächst mit Ihrer Sachbearbeiterin im Studierendensekretariat und nehmen dann Kontakt mit dem Zentralen Prüfungsamt auf. Dort kann Ihre Prüfungsanmeldung angepasst werden.\n",
+                                    "answer_start": 51,
+                                    "answer_end": 806
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was sind terminierte Prüfungen? Prüfungen sind dann terminiert, wenn es die Studien- und Prüfungsordnung vorsieht. Das ist grundsätzlich bei den Prüfungen des ersten Semesters (Assessmentsemester) in allen Bachelorstudiengängen der Fall.Prüfungen in höheren Semestern sind terminiert, wenn ein Fehlversuch vorliegt. Dann erfolgt die automatische Prüfungsanmeldung und es kann online oder manuell kein Rücktritt verbucht werden.Prüfungen in höheren Semestern sind terminiert, wenn im vorherigen Semester ein Rücktritt verbucht wurde. Dann erfolgt die automatische Prüfungsanmeldung und es kann online oder manuell kein Rücktritt verbucht werden.Im Studiengang WIM und MAB sind ab dem Sommersemester 2023 bis 2025 keine Prüfungen terminiert. Näheres erfahren Sie im Studiengang der Fakultät Maschinenbau.\n",
+                    "qas": [
+                        {
+                            "question": "Was sind terminierte Prüfungen?",
+                            "id": "50",
+                            "answers": [
+                                {
+                                    "answer_id": "50",
+                                    "document_id": "50",
+                                    "question_id": "50",
+                                    "text": "Prüfungen sind dann terminiert, wenn es die Studien- und Prüfungsordnung vorsieht. Das ist grundsätzlich bei den Prüfungen des ersten Semesters (Assessmentsemester) in allen Bachelorstudiengängen der Fall.Prüfungen in höheren Semestern sind terminiert, wenn ein Fehlversuch vorliegt. Dann erfolgt die automatische Prüfungsanmeldung und es kann online oder manuell kein Rücktritt verbucht werden.Prüfungen in höheren Semestern sind terminiert, wenn im vorherigen Semester ein Rücktritt verbucht wurde. Dann erfolgt die automatische Prüfungsanmeldung und es kann online oder manuell kein Rücktritt verbucht werden.Im Studiengang WIM und MAB sind ab dem Sommersemester 2023 bis 2025 keine Prüfungen terminiert. Näheres erfahren Sie im Studiengang der Fakultät Maschinenbau.\n",
+                                    "answer_start": 32,
+                                    "answer_end": 803
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Welche Rücktrittsmöglichkeiten gibt es? Von einer benoteten Prüfung ist einmalig ein Rücktritt ohne Genehmigung möglich. Den Rücktritt können Sie während des Prüfungsanmeldezeitraums online selbst duchführen. Im kommenden Semester ist diese Prüfung dann terminiert.Können Sie krankheitsbedingt nicht teilnehmen, kann der Rücktritt nicht durch Sie selbst durchgeführt werden. Wenden Sie sich dazu an das Sekretariat in Ihrem Studiengang. Beachten Sie dabei, dass der/die Vorsitzende des Prüfungsausschusses Ihres Studiengangs den krankheitsbedingten Rücktritt genehmigen muss.Im Studiengang WIM und MAB sind ab dem Sommersemester 2023 bis 2025 keine Prüfungen terminiert. Näheres erfahren Sie im Studiengang der Fakultät Maschinenbau.\n",
+                    "qas": [
+                        {
+                            "question": "Welche Rücktrittsmöglichkeiten gibt es?",
+                            "id": "51",
+                            "answers": [
+                                {
+                                    "answer_id": "51",
+                                    "document_id": "51",
+                                    "question_id": "51",
+                                    "text": "Von einer benoteten Prüfung ist einmalig ein Rücktritt ohne Genehmigung möglich. Den Rücktritt können Sie während des Prüfungsanmeldezeitraums online selbst duchführen. Im kommenden Semester ist diese Prüfung dann terminiert.Können Sie krankheitsbedingt nicht teilnehmen, kann der Rücktritt nicht durch Sie selbst durchgeführt werden. Wenden Sie sich dazu an das Sekretariat in Ihrem Studiengang. Beachten Sie dabei, dass der/die Vorsitzende des Prüfungsausschusses Ihres Studiengangs den krankheitsbedingten Rücktritt genehmigen muss.Im Studiengang WIM und MAB sind ab dem Sommersemester 2023 bis 2025 keine Prüfungen terminiert. Näheres erfahren Sie im Studiengang der Fakultät Maschinenbau.\n",
+                                    "answer_start": 40,
+                                    "answer_end": 734
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie läuft die Prüfungsphase ab? Eine Prüfungsanmeldung für die im jeweiligen Semester vorgesehenen Prüfungen erfolgt automatisch und ist über das Portal Prüfungsangelegenheiten einsehbar. Im ersten Semester (und in manchen Studiengängen auch im zweiten) sind die dafür vorgesehenen Prüfungen für den ersten Prüfungszeitraum terminiert. Sie müssen sie bereits im zweiten Prüfungszeitraum wiederholen, falls Sie sie nicht bestanden haben.Einen Überblick über die genauen Prüfungszeiträume im Semester finden Sie unter Termine & Fristen. Die jeweiligen Einzeltermine Ihrer Prüfungen erfahren Sie in Ihrer Fakultät oder auf den jeweiligen Websites.Ab dem zweiten Semester (in den Studiengängen URB und VUB erst ab dem dritten Semester) erlaubt die Studien- und Prüfungsordnung dann, sofern imbesonderen Teil der Ordnung nicht anders geregelt, einen einmaligen Rücktritt von Prüfungen ohne Angabe von Gründen. Sie können dies direkt online innerhalb einer entsprechenden Frist im Portal Prüfungsangelegenheiten vornehmen. Danach sind die Prüfungen jedoch für das darauf folgende Semester terminiert.Im Studiengang KD erlaubt die Studien- und Prüfungsordnung erst ab dem vierten Semester einen einmaligen Rücktritt von Prüfungen ohne Angabe von Gründen. Sie können dies direkt online innerhalb einer entsprechenden Frist im Portal Prüfungsangelegenheiten vornehmen. Danach sind die Prüfungen jedoch für das darauf folgende Semester terminiert.Nähere Informationen zum Rücktritt und zur Form der jeweiligen Prüfungen finden Sie im Allgemeinen und im Besonderen Teil der Studien- und Prüfungsordnung. Informationen hierzu können Sie bei den Ansprechpartnern/-innen Ihres Studiengangs sowie im Zentralen Prüfungsamt erfragen.Die Ergebnisse der abgelegten Prüfungen sind im Anschluss während Ihres Studiums im Portal Prüfungsangelegenheiten hinterlegt und einsehbar.\n",
+                    "qas": [
+                        {
+                            "question": "Wie läuft die Prüfungsphase ab?",
+                            "id": "52",
+                            "answers": [
+                                {
+                                    "answer_id": "52",
+                                    "document_id": "52",
+                                    "question_id": "52",
+                                    "text": "Eine Prüfungsanmeldung für die im jeweiligen Semester vorgesehenen Prüfungen erfolgt automatisch und ist über das Portal Prüfungsangelegenheiten einsehbar. Im ersten Semester (und in manchen Studiengängen auch im zweiten) sind die dafür vorgesehenen Prüfungen für den ersten Prüfungszeitraum terminiert. Sie müssen sie bereits im zweiten Prüfungszeitraum wiederholen, falls Sie sie nicht bestanden haben.Einen Überblick über die genauen Prüfungszeiträume im Semester finden Sie unter Termine & Fristen. Die jeweiligen Einzeltermine Ihrer Prüfungen erfahren Sie in Ihrer Fakultät oder auf den jeweiligen Websites.Ab dem zweiten Semester (in den Studiengängen URB und VUB erst ab dem dritten Semester) erlaubt die Studien- und Prüfungsordnung dann, sofern imbesonderen Teil der Ordnung nicht anders geregelt, einen einmaligen Rücktritt von Prüfungen ohne Angabe von Gründen. Sie können dies direkt online innerhalb einer entsprechenden Frist im Portal Prüfungsangelegenheiten vornehmen. Danach sind die Prüfungen jedoch für das darauf folgende Semester terminiert.Im Studiengang KD erlaubt die Studien- und Prüfungsordnung erst ab dem vierten Semester einen einmaligen Rücktritt von Prüfungen ohne Angabe von Gründen. Sie können dies direkt online innerhalb einer entsprechenden Frist im Portal Prüfungsangelegenheiten vornehmen. Danach sind die Prüfungen jedoch für das darauf folgende Semester terminiert.Nähere Informationen zum Rücktritt und zur Form der jeweiligen Prüfungen finden Sie im Allgemeinen und im Besonderen Teil der Studien- und Prüfungsordnung. Informationen hierzu können Sie bei den Ansprechpartnern/-innen Ihres Studiengangs sowie im Zentralen Prüfungsamt erfragen.Die Ergebnisse der abgelegten Prüfungen sind im Anschluss während Ihres Studiums im Portal Prüfungsangelegenheiten hinterlegt und einsehbar.\n",
+                                    "answer_start": 32,
+                                    "answer_end": 1857
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Welche Arten von Prüfungsleistungen sind in   meinem Studium vorgesehen? Es gibt verschiedene Arten von Prüfungsleistungen wie Klausuren, Referate oder mündliche Prüfungen. Welche Arten von Prüfungsleistung Sie ablegen müssen bzw. ablegen können, finden Sie im besonderen Teil der Studien- und Prüfungsordnung. Der Prüfungsplan Ihres Studiengangs, der dort hinterlegt ist, beinhaltet Angaben zur Art der vorgesehenen Prüfungsleistung, zu deren Umfang und deren Wertigkeit (Anzahl der »ECTS-Punkte«). So können Sie sich einen Überblick über die Gewichtung der einzelnen Prüfungsleistungen pro Semester und deren Form verschaffen und dies in Ihrer Lernplanung entsprechend berücksichtigen.\n",
+                    "qas": [
+                        {
+                            "question": "Welche Arten von Prüfungsleistungen sind in   meinem Studium vorgesehen?",
+                            "id": "53",
+                            "answers": [
+                                {
+                                    "answer_id": "53",
+                                    "document_id": "53",
+                                    "question_id": "53",
+                                    "text": "Es gibt verschiedene Arten von Prüfungsleistungen wie Klausuren, Referate oder mündliche Prüfungen. Welche Arten von Prüfungsleistung Sie ablegen müssen bzw. ablegen können, finden Sie im besonderen Teil der Studien- und Prüfungsordnung. Der Prüfungsplan Ihres Studiengangs, der dort hinterlegt ist, beinhaltet Angaben zur Art der vorgesehenen Prüfungsleistung, zu deren Umfang und deren Wertigkeit (Anzahl der »ECTS-Punkte«). So können Sie sich einen Überblick über die Gewichtung der einzelnen Prüfungsleistungen pro Semester und deren Form verschaffen und dies in Ihrer Lernplanung entsprechend berücksichtigen.\n",
+                                    "answer_start": 73,
+                                    "answer_end": 688
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie werden meine Prüfungsleistungen gewichtet? Die verschiedenen Module, welche Sie im Studium belegen müssen, werden für Ihr Studium unterschiedlich stark gewichtet. Diese Gewichtung drückt sich aus in ECTS-Punkten (ECTS = »European Credit Transfer System«). Das Credit-Point-System regelt, welche Leistungen in welchem Umfang zu welchem Zeitpunkt erbracht werden müssen. Durch dieses System soll die Vergleichbarkeit von Studienleistungen im europäischen Bildungsraum gewährleistet und der Arbeitsaufwand messbar gemacht werden. An der HTWG können durchschnittlich 30 ECTS-Punkte pro Semester erbracht werden – in einem 7-semestrigen Bachelor-Studium also insgesamt 210 ECTS-Punkte.\n",
+                    "qas": [
+                        {
+                            "question": "Wie werden meine Prüfungsleistungen gewichtet?",
+                            "id": "54",
+                            "answers": [
+                                {
+                                    "answer_id": "54",
+                                    "document_id": "54",
+                                    "question_id": "54",
+                                    "text": "Die verschiedenen Module, welche Sie im Studium belegen müssen, werden für Ihr Studium unterschiedlich stark gewichtet. Diese Gewichtung drückt sich aus in ECTS-Punkten (ECTS = »European Credit Transfer System«). Das Credit-Point-System regelt, welche Leistungen in welchem Umfang zu welchem Zeitpunkt erbracht werden müssen. Durch dieses System soll die Vergleichbarkeit von Studienleistungen im europäischen Bildungsraum gewährleistet und der Arbeitsaufwand messbar gemacht werden. An der HTWG können durchschnittlich 30 ECTS-Punkte pro Semester erbracht werden – in einem 7-semestrigen Bachelor-Studium also insgesamt 210 ECTS-Punkte.\n",
+                                    "answer_start": 47,
+                                    "answer_end": 685
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Was passiert, wenn ich eine Prüfung nicht bestanden habe? Die Studien- und Prüfungsordnung sieht zwei Versuche für eine Prüfung bzw. eine Wiederholung einer nicht bestandenen Prüfung vor. Sollte eine Prüfung im zweiten Versuch nicht bestanden werden, kann der Prüfungsausschuss die zweite Wiederholung einer nicht bestandenen Prüfung in Ausnahmefällen auf schriftlichen Antrag (Härteantrag) genehmigen. Für den Antrag gibt es keine Formvorschriften. Mindestens aber ist der Absender, Empfänger, Ort, Datum und Unterschrift unerlässlich. Der Antrag muss begründet sein. Die Formulierung \"hiermit stelle ich einen Härteantrag...\" ist nicht ausreichend und kann wegen \"nicht begründet\" abgelehnt werden!Sollten Sie eine Prüfung zum wiederholten Mal nicht bestehen oder davon ausgehen, dass Sie eine Prüfung im zweiten Versuch nicht bestehen können, informieren Sie sich rechtzeitig über die weiteren Schritte. Hierfür können Sie die entsprechenden Ansprechpartner in Ihrem Studiengang oder die Zentrale Studienberatung kontaktieren.Wenn Sie nach nicht bestandener Wiederholungsprüfung innerhalb der entsprechenden Fristen einen Antrag auf eine zweite Wiederholung stellen möchten, unterstützt der AStA Sie mit seiner \"Härteantragsberatung\".\n",
+                    "qas": [
+                        {
+                            "question": "Was passiert, wenn ich eine Prüfung nicht bestanden habe?",
+                            "id": "55",
+                            "answers": [
+                                {
+                                    "answer_id": "55",
+                                    "document_id": "55",
+                                    "question_id": "55",
+                                    "text": "Die Studien- und Prüfungsordnung sieht zwei Versuche für eine Prüfung bzw. eine Wiederholung einer nicht bestandenen Prüfung vor. Sollte eine Prüfung im zweiten Versuch nicht bestanden werden, kann der Prüfungsausschuss die zweite Wiederholung einer nicht bestandenen Prüfung in Ausnahmefällen auf schriftlichen Antrag (Härteantrag) genehmigen. Für den Antrag gibt es keine Formvorschriften. Mindestens aber ist der Absender, Empfänger, Ort, Datum und Unterschrift unerlässlich. Der Antrag muss begründet sein. Die Formulierung \"hiermit stelle ich einen Härteantrag...\" ist nicht ausreichend und kann wegen \"nicht begründet\" abgelehnt werden!Sollten Sie eine Prüfung zum wiederholten Mal nicht bestehen oder davon ausgehen, dass Sie eine Prüfung im zweiten Versuch nicht bestehen können, informieren Sie sich rechtzeitig über die weiteren Schritte. Hierfür können Sie die entsprechenden Ansprechpartner in Ihrem Studiengang oder die Zentrale Studienberatung kontaktieren.Wenn Sie nach nicht bestandener Wiederholungsprüfung innerhalb der entsprechenden Fristen einen Antrag auf eine zweite Wiederholung stellen möchten, unterstützt der AStA Sie mit seiner \"Härteantragsberatung\".\n",
+                                    "answer_start": 58,
+                                    "answer_end": 1238
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie kann ich mit offenen Prüfungsleistungen ins Hauptstudium zugelassen werden? Grundsätzlich ist die Zulassung zur Bachelorprüfung (Hauptstudium) nur möglich, wenn max. zwei Prüfungen (egal ob benotet oder unbenotet) noch nicht bestanden sind! Das ist im allgemeinen Teil der Studien- und Prüfungsordnung geregelt.Ggf. ist für Ihren Studiengang in Absatz 11 im besonderen Teil Ihrer Studien- und Prüfungsordnung festgelegt, dass auf Antrag auch eine Zulassung bei maximal vier offenen Prüfungsleistungen möglich ist. In Ausnahmefällen kann ein Antrag gestellt werden, dieser muss innerhalb von 14 Tagen nach Bekanntgabe der Prüfungsergebnisse an den zuständigen Prüfungsausschuss gestellt und vom Prüfungsausschuss genehmigt sein. Der Beschluss des Prüfungsausschusses wird mit dem Antrag an die Studentische Abteilung weitergeleitet und Sie erhalten darüber einen Bescheid.\n",
+                    "qas": [
+                        {
+                            "question": "Wie kann ich mit offenen Prüfungsleistungen ins Hauptstudium zugelassen werden?",
+                            "id": "56",
+                            "answers": [
+                                {
+                                    "answer_id": "56",
+                                    "document_id": "56",
+                                    "question_id": "56",
+                                    "text": "Grundsätzlich ist die Zulassung zur Bachelorprüfung (Hauptstudium) nur möglich, wenn max. zwei Prüfungen (egal ob benotet oder unbenotet) noch nicht bestanden sind! Das ist im allgemeinen Teil der Studien- und Prüfungsordnung geregelt.Ggf. ist für Ihren Studiengang in Absatz 11 im besonderen Teil Ihrer Studien- und Prüfungsordnung festgelegt, dass auf Antrag auch eine Zulassung bei maximal vier offenen Prüfungsleistungen möglich ist. In Ausnahmefällen kann ein Antrag gestellt werden, dieser muss innerhalb von 14 Tagen nach Bekanntgabe der Prüfungsergebnisse an den zuständigen Prüfungsausschuss gestellt und vom Prüfungsausschuss genehmigt sein. Der Beschluss des Prüfungsausschusses wird mit dem Antrag an die Studentische Abteilung weitergeleitet und Sie erhalten darüber einen Bescheid.\n",
+                                    "answer_start": 80,
+                                    "answer_end": 876
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich während des Praxissemesters Prüfungen anmelden und erbringen? Wenn Sie im Praxissmester eingestuft sind, sind die dem Praxissemester zugeordneten Prüfungen gem. Prüfungsplan für Sie angemeldet. Während des Praxissemesters können ohne Antrag maximal zwei Prüfungen angemeldet werden, die zuvor nicht bestanden sind oder als nicht bestanden gelten, aber keine Prüfungen, die unter die Voraussetzungen für die Zulassung zum Praxissemester fallen - auch wenn Sie in Ihrer Fakultät anderslautende Informationen erhalten (z.B. Nachschreibetermin individull oder im zweiten Prüfungstermin o.ä).Bei der/bei dem Vorsitzenden Ihres Prüfungsausschusses (PAV) können Sie auch weitere Wiederholungsprüfungen beantragen und auch Prüfungen im Erstversuch können Sie beantragen. Verwenden Sie dazu den Vordruck für Prüfungsanmeldungen und lassen Sie es durch den/die PAV genehmigen (Datum und Unterschrift des PAV genügen für eine Anmeldung. Senden Sie den genehmigten Antrag an zprfamt@htwg-konstanz.de. Auch hier gilt: es dürfen keine Prüfungen angemeldet werden, die unter die Voraussetzungen für die Zulassung zum Praxissemester fallen - auch wenn Sie in Ihrer Fakultät anderslautende Informationen erhalten (z.B. Nachschreibetermin individull oder im zweiten Prüfungstermin o.ä).\n",
+                    "qas": [
+                        {
+                            "question": "Kann ich während des Praxissemesters Prüfungen anmelden und erbringen?",
+                            "id": "57",
+                            "answers": [
+                                {
+                                    "answer_id": "57",
+                                    "document_id": "57",
+                                    "question_id": "57",
+                                    "text": "Wenn Sie im Praxissmester eingestuft sind, sind die dem Praxissemester zugeordneten Prüfungen gem. Prüfungsplan für Sie angemeldet. Während des Praxissemesters können ohne Antrag maximal zwei Prüfungen angemeldet werden, die zuvor nicht bestanden sind oder als nicht bestanden gelten, aber keine Prüfungen, die unter die Voraussetzungen für die Zulassung zum Praxissemester fallen - auch wenn Sie in Ihrer Fakultät anderslautende Informationen erhalten (z.B. Nachschreibetermin individull oder im zweiten Prüfungstermin o.ä).Bei der/bei dem Vorsitzenden Ihres Prüfungsausschusses (PAV) können Sie auch weitere Wiederholungsprüfungen beantragen und auch Prüfungen im Erstversuch können Sie beantragen. Verwenden Sie dazu den Vordruck für Prüfungsanmeldungen und lassen Sie es durch den/die PAV genehmigen (Datum und Unterschrift des PAV genügen für eine Anmeldung. Senden Sie den genehmigten Antrag an zprfamt@htwg-konstanz.de. Auch hier gilt: es dürfen keine Prüfungen angemeldet werden, die unter die Voraussetzungen für die Zulassung zum Praxissemester fallen - auch wenn Sie in Ihrer Fakultät anderslautende Informationen erhalten (z.B. Nachschreibetermin individull oder im zweiten Prüfungstermin o.ä).\n",
+                                    "answer_start": 71,
+                                    "answer_end": 1278
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Warum bin ich nicht zum Praxissemester zugelassen ...? Frage: \"Ich habe mich bereits um einen Platz für das Praxissemester bemüht und habe einen Brief erhalten, dass ich nicht zum Praxissemester zugelassen sei - warum?Antwort: Grundsätzlich darf das Praxissemester begonnen werden, wenn Sie die Bachelorzwischenprüfung (Grundstudium) bestanden haben. Der besondere Teil der Studien- und Prüfungsordnung regelt ggf. dass auch zusätzlich einzelne Prüfungen aus dem Hautpstudium bestanden sein müssen oder vielleicht sogar das ganze dritte Semester oder die Zulassung zum Hauptstudium gegeben sein muss. Wichtig ist also immer erst im besonderen Teil der Studien- und Prüfungsordnung für Ihren Studiengang nachzulesen, welche Voraussetzungen es gibt.Wenn die Voraussetzungen nicht erfüllt sind, erhalten Sie von der Studentischen Abteilung einen entsprechenden Bescheid über die Nichtzulassung zum Praxissemester.Weitere Regelungen oder Ausnahmegenehmigungen gibt es nicht! Sie dürfen zwar im Praxissemester bis zu zwei Wiederholungsprüfungen erbringen, aber keine, die unter die Voraussetzungen für die Zulassung zum Praxissemester fallen - auch wenn Sie in Ihrer Fakultät anderslautende Informationen erhalten (z.B. Nachschreibetermin individull oder im zweiten Prüfungstermin o.ä).\n",
+                    "qas": [
+                        {
+                            "question": "Warum bin ich nicht zum Praxissemester zugelassen ...?",
+                            "id": "58",
+                            "answers": [
+                                {
+                                    "answer_id": "58",
+                                    "document_id": "58",
+                                    "question_id": "58",
+                                    "text": "Frage: \"Ich habe mich bereits um einen Platz für das Praxissemester bemüht und habe einen Brief erhalten, dass ich nicht zum Praxissemester zugelassen sei - warum?Antwort: Grundsätzlich darf das Praxissemester begonnen werden, wenn Sie die Bachelorzwischenprüfung (Grundstudium) bestanden haben. Der besondere Teil der Studien- und Prüfungsordnung regelt ggf. dass auch zusätzlich einzelne Prüfungen aus dem Hautpstudium bestanden sein müssen oder vielleicht sogar das ganze dritte Semester oder die Zulassung zum Hauptstudium gegeben sein muss. Wichtig ist also immer erst im besonderen Teil der Studien- und Prüfungsordnung für Ihren Studiengang nachzulesen, welche Voraussetzungen es gibt.Wenn die Voraussetzungen nicht erfüllt sind, erhalten Sie von der Studentischen Abteilung einen entsprechenden Bescheid über die Nichtzulassung zum Praxissemester.Weitere Regelungen oder Ausnahmegenehmigungen gibt es nicht! Sie dürfen zwar im Praxissemester bis zu zwei Wiederholungsprüfungen erbringen, aber keine, die unter die Voraussetzungen für die Zulassung zum Praxissemester fallen - auch wenn Sie in Ihrer Fakultät anderslautende Informationen erhalten (z.B. Nachschreibetermin individull oder im zweiten Prüfungstermin o.ä).\n",
+                                    "answer_start": 55,
+                                    "answer_end": 1282
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Wie kann ich Prüfungsleistungen anrechnen lassen? Prüfungsleistungen, die in Studiengängen an anderen ... Hochschulen ... der Bundesrepublik Deutschland oder an ausländischen Hochschulen erbracht worden sind, werden auf Antrag anerkannt. Über die Anerkennung entscheidet der jeweilige Prüfungsausschuss. Er prüft, ob hinsichtlich der erworbenen Kompetenzen kein wesentlicher Unterschied zu den Studienzeiten, Leistungen oder Abschlüssen besteht, die ersetzt werden.Eine erfolgreich abgelegte Vor- oder Zwischenprüfung an einer anderen Hocschule wird ebenso auf Antrag anerkannt. Ein einschlägiges praktisches Studiensemester wird auf Antrag anerkannt, sofern es nach den Richtlinien für das integrierte praktische Studiensemester des Besonderen Teils absolviert worden ist und entsprechende Voraussetzung erfüllt sind. Für den Antrag auf Anerkennung gibt es eine Frist: er ist innerhalb von drei Monaten nach dem Tag der Immatrikulation beim/bei der zuständigen Prüfungsausschussvorsitzenden schriftlich zu stellen. Bei Anerkennungen von Prüfungsleistungen aus einem Auslandsstudienaufenthalts muss die Anerkennung innerhalb von drei Monaten nach dem Tag der Wiederaufnahme des Studiums ... beim/bei der zuständigen Prüfungsausschussvorsitzenden beantragt werden.Im Antrag muss die Studienzeit und jede Studien- und Prüfungsleistung, die anerkannt werden soll, einzeln aufgeführt werden. Den Antrag finden Sie im Downloadbereich bei Prüfungsangelegenheiten. Beachten Sie auch die Hinweise und erforderlichen Angaben auf dem Antragsformular!Für Bachelor ist alles genau im § 24 des allgemeinen Teils der Studien- und Prüfungsordnung für Bachelorstudiengänge und für Master im § 21 des allgemeinen Teils der Studien- und Prüfungsordnung für Masterstudiengänge geregelt. Siehe auch unter Satzungen und Ordnungen und die folgenden Informationen, die als Download hier zur Verfügung stehen:Antragsformular für Anerkennungen von Studien- und Prüfungsleistungen auf der Seite Prüfungsangelegenheiten | Download | AnträgeStudien- und Prüfungsordnung Allgemeiner Teil für BachelorstudiengängeStudien- und Prüfungsordnung Allgemeiner Teil für Masterstudiengänge\n",
+                    "qas": [
+                        {
+                            "question": "Wie kann ich Prüfungsleistungen anrechnen lassen?",
+                            "id": "59",
+                            "answers": [
+                                {
+                                    "answer_id": "59",
+                                    "document_id": "59",
+                                    "question_id": "59",
+                                    "text": "Prüfungsleistungen, die in Studiengängen an anderen ... Hochschulen ... der Bundesrepublik Deutschland oder an ausländischen Hochschulen erbracht worden sind, werden auf Antrag anerkannt. Über die Anerkennung entscheidet der jeweilige Prüfungsausschuss. Er prüft, ob hinsichtlich der erworbenen Kompetenzen kein wesentlicher Unterschied zu den Studienzeiten, Leistungen oder Abschlüssen besteht, die ersetzt werden.Eine erfolgreich abgelegte Vor- oder Zwischenprüfung an einer anderen Hocschule wird ebenso auf Antrag anerkannt. Ein einschlägiges praktisches Studiensemester wird auf Antrag anerkannt, sofern es nach den Richtlinien für das integrierte praktische Studiensemester des Besonderen Teils absolviert worden ist und entsprechende Voraussetzung erfüllt sind. Für den Antrag auf Anerkennung gibt es eine Frist: er ist innerhalb von drei Monaten nach dem Tag der Immatrikulation beim/bei der zuständigen Prüfungsausschussvorsitzenden schriftlich zu stellen. Bei Anerkennungen von Prüfungsleistungen aus einem Auslandsstudienaufenthalts muss die Anerkennung innerhalb von drei Monaten nach dem Tag der Wiederaufnahme des Studiums ... beim/bei der zuständigen Prüfungsausschussvorsitzenden beantragt werden.Im Antrag muss die Studienzeit und jede Studien- und Prüfungsleistung, die anerkannt werden soll, einzeln aufgeführt werden. Den Antrag finden Sie im Downloadbereich bei Prüfungsangelegenheiten. Beachten Sie auch die Hinweise und erforderlichen Angaben auf dem Antragsformular!Für Bachelor ist alles genau im § 24 des allgemeinen Teils der Studien- und Prüfungsordnung für Bachelorstudiengänge und für Master im § 21 des allgemeinen Teils der Studien- und Prüfungsordnung für Masterstudiengänge geregelt. Siehe auch unter Satzungen und Ordnungen und die folgenden Informationen, die als Download hier zur Verfügung stehen:Antragsformular für Anerkennungen von Studien- und Prüfungsleistungen auf der Seite Prüfungsangelegenheiten | Download | AnträgeStudien- und Prüfungsordnung Allgemeiner Teil für BachelorstudiengängeStudien- und Prüfungsordnung Allgemeiner Teil für Masterstudiengänge\n",
+                                    "answer_start": 50,
+                                    "answer_end": 2152
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Warum sehe ich Prüfungsergebnisse noch nicht? Während des ersten oder zweiten Prüfungszeitraums im Sommer- bzw. Wintersemester werden Prüfungsergebnisse durch Prüferinnen und Prüfer und vom Zentralen Prüfungsamt verbucht. Wenn für alle Teilnehmerinnen und Teilnehmer das Prüfungsergebnis verbucht ist, können Prüferinnen und Prüfer die Prüfung komplett freischalten. Dieses Vorgehen sichert eine Gleichbehandlung aller Teilnehmerinnen und Teilnehmer. Werden während der Prüfungszeiträume vereinzelt Ergebnisse verbucht (v.a. bei Projektarbeiten, vor- und nachbereitende Blockveranstaltungen, Praxissemester, Abschlussarbeiten) ist es nicht vermeidbar, dass Sie vereinzelte Leistungen nicht sehen, obwohl Sie vielleicht schon sicher wissen, wie das Ergebnis lautet.Bitte haben Sie Verständnis, dass wir hier keine Ausnahmen für einzelne Prüfungsleistungen (v.a. benotete Leistungen) machen können.In den Monaten April bis Anfang Juli bzw. Mitte Oktober bis Ende Januar ist i.d.R. komplett alles freigeschaltet, also unabhängig von der Signatur durch die Prüferinnen und Prüfer.Die jeweiligen Termine für die Prüfungszeiträume werden vom Senat verabschiedet und unter Termine und Fristen veröffentlicht.\n",
+                    "qas": [
+                        {
+                            "question": "Warum sehe ich Prüfungsergebnisse noch nicht?",
+                            "id": "60",
+                            "answers": [
+                                {
+                                    "answer_id": "60",
+                                    "document_id": "60",
+                                    "question_id": "60",
+                                    "text": "Während des ersten oder zweiten Prüfungszeitraums im Sommer- bzw. Wintersemester werden Prüfungsergebnisse durch Prüferinnen und Prüfer und vom Zentralen Prüfungsamt verbucht. Wenn für alle Teilnehmerinnen und Teilnehmer das Prüfungsergebnis verbucht ist, können Prüferinnen und Prüfer die Prüfung komplett freischalten. Dieses Vorgehen sichert eine Gleichbehandlung aller Teilnehmerinnen und Teilnehmer. Werden während der Prüfungszeiträume vereinzelt Ergebnisse verbucht (v.a. bei Projektarbeiten, vor- und nachbereitende Blockveranstaltungen, Praxissemester, Abschlussarbeiten) ist es nicht vermeidbar, dass Sie vereinzelte Leistungen nicht sehen, obwohl Sie vielleicht schon sicher wissen, wie das Ergebnis lautet.Bitte haben Sie Verständnis, dass wir hier keine Ausnahmen für einzelne Prüfungsleistungen (v.a. benotete Leistungen) machen können.In den Monaten April bis Anfang Juli bzw. Mitte Oktober bis Ende Januar ist i.d.R. komplett alles freigeschaltet, also unabhängig von der Signatur durch die Prüferinnen und Prüfer.Die jeweiligen Termine für die Prüfungszeiträume werden vom Senat verabschiedet und unter Termine und Fristen veröffentlicht.\n",
+                                    "answer_start": 46,
+                                    "answer_end": 1202
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Warum sehe ich vor/während Prüfungszeitraum keine aktuellen Noten ...? Während des Prüfungszeitraums im Sommer- bzw. Wintersemester ist die Funktion Notenspiegel über alle bestanden Leistungen abgeschaltet!In dieser Zeit steht dann ein \"verkürzter\" Notenspiegel zur Verfügung. Dieser enthält dann nur die verbuchten Noten aus dem aktuellen Semester sobald Prüfer alle Noten einer Prüfung verbucht und \"signiert\" hat. In dieser Zeit bitten wir von Nachfragen nach Noten abzusehen. Auch die Frage, \"warum sehe ich heut die Prüfungsnummer nicht mehr unter den angemeldeten Prüfungen?\" wird häufig gestellt. Es ergibt sich von selbst, dass eine verbuchte Note dazu führt, dass die Prüfung nicht mehr unter \"angemeldete Prüfungen\" erscheint, denn inzwischen ist sie bestanden oder nicht bestanden.\n",
+                    "qas": [
+                        {
+                            "question": "Warum sehe ich vor/während Prüfungszeitraum keine aktuellen Noten ...?",
+                            "id": "61",
+                            "answers": [
+                                {
+                                    "answer_id": "61",
+                                    "document_id": "61",
+                                    "question_id": "61",
+                                    "text": "Während des Prüfungszeitraums im Sommer- bzw. Wintersemester ist die Funktion Notenspiegel über alle bestanden Leistungen abgeschaltet!In dieser Zeit steht dann ein \"verkürzter\" Notenspiegel zur Verfügung. Dieser enthält dann nur die verbuchten Noten aus dem aktuellen Semester sobald Prüfer alle Noten einer Prüfung verbucht und \"signiert\" hat. In dieser Zeit bitten wir von Nachfragen nach Noten abzusehen. Auch die Frage, \"warum sehe ich heut die Prüfungsnummer nicht mehr unter den angemeldeten Prüfungen?\" wird häufig gestellt. Es ergibt sich von selbst, dass eine verbuchte Note dazu führt, dass die Prüfung nicht mehr unter \"angemeldete Prüfungen\" erscheint, denn inzwischen ist sie bestanden oder nicht bestanden.\n",
+                                    "answer_start": 71,
+                                    "answer_end": 793
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Warum sind angemeldete Prüfungen plötzlich verschwunden? Während des Prüfungszeitraums im Sommer- bzw. Wintersemester werden Prüfungsergebnisse durch Prüferinnen und Prüfer und vom Zentralen Prüfungsamt verbucht. Dadurch ändert sich der Status einer Prüfung von ANGEMELDET zu BESTANDEN oder NICHT BESTANDEN!Wenn noch keine Note verbucht ist, erscheinen die angemeldeten Prüfungen in der Auswahl \"Übersicht über angemeldete Prüfungen\" im Portal Prüfungsangelegenheiten.Ist die Note verbucht, kann eine Prüfung in dieser Übersicht logischerweise nicht mehr erscheinen.Daher bitte nicht nachfragen, was mit den angemeldeten Prüfungen passiert ist oder wo der Fehler im System liegt! Es genügt ein Blick ins Portal Prüfungsangelegenheiten. Eine Note ist aber erst für Sie sichtbar, wenn der Prüfer/die Prüferin alle Noten verbucht hat und die Prüfung insgesamt \"signiert\". Dadurch wird sichergestellt, dass alle Teilnehmer:innen gleichzeitig die Möglichkeit haben, die Note einer Prüfung abzurufen.\n",
+                    "qas": [
+                        {
+                            "question": "Warum sind angemeldete Prüfungen plötzlich verschwunden?",
+                            "id": "62",
+                            "answers": [
+                                {
+                                    "answer_id": "62",
+                                    "document_id": "62",
+                                    "question_id": "62",
+                                    "text": "Während des Prüfungszeitraums im Sommer- bzw. Wintersemester werden Prüfungsergebnisse durch Prüferinnen und Prüfer und vom Zentralen Prüfungsamt verbucht. Dadurch ändert sich der Status einer Prüfung von ANGEMELDET zu BESTANDEN oder NICHT BESTANDEN!Wenn noch keine Note verbucht ist, erscheinen die angemeldeten Prüfungen in der Auswahl \"Übersicht über angemeldete Prüfungen\" im Portal Prüfungsangelegenheiten.Ist die Note verbucht, kann eine Prüfung in dieser Übersicht logischerweise nicht mehr erscheinen.Daher bitte nicht nachfragen, was mit den angemeldeten Prüfungen passiert ist oder wo der Fehler im System liegt! Es genügt ein Blick ins Portal Prüfungsangelegenheiten. Eine Note ist aber erst für Sie sichtbar, wenn der Prüfer/die Prüferin alle Noten verbucht hat und die Prüfung insgesamt \"signiert\". Dadurch wird sichergestellt, dass alle Teilnehmer:innen gleichzeitig die Möglichkeit haben, die Note einer Prüfung abzurufen.\n",
+                                    "answer_start": 57,
+                                    "answer_end": 995
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Kann ich eine bestandene Prüfungsleistung wiederholen? Prüfungsleistungen, die einmal als bestanden in Ihrem Notenspiegel eingetragen sind, können nicht wiederholt werden. Festgeschrieben ist dies in der Studien- und Prüfungsordnung in § 21 Abs. 1 (Bachelor) | § 18 Abs. 1 (Master). Ausnahmen sind nicht zulässig. \n",
+                    "qas": [
+                        {
+                            "question": "Kann ich eine bestandene Prüfungsleistung wiederholen?",
+                            "id": "63",
+                            "answers": [
+                                {
+                                    "answer_id": "63",
+                                    "document_id": "63",
+                                    "question_id": "63",
+                                    "text": "Prüfungsleistungen, die einmal als bestanden in Ihrem Notenspiegel eingetragen sind, können nicht wiederholt werden. Festgeschrieben ist dies in der Studien- und Prüfungsordnung in § 21 Abs. 1 (Bachelor) | § 18 Abs. 1 (Master). Ausnahmen sind nicht zulässig. \n",
+                                    "answer_start": 55,
+                                    "answer_end": 315
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
