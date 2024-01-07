@@ -126,7 +126,7 @@ DPR
 ====================================================
 gpt-3.5-turbo-1106
 ====================================================
-ISOLATED
+ISOLATED (sadly not possible with PromptNode at the moment)
 {'Retriever': {}, 'Reader': {}}
 
 OPENAI
