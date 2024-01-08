@@ -9,3 +9,5 @@ The code is sorted by occurrence in the thesis as follows:
 4. PoC of Retrieval-Augmented Generation system with a custom pipeline
 5. Evaluation with 4 Retrievers, 3 LLMs on 2 small Datasets
 7. Evaluation results for Retriever and Reader in .csv files
+
+The annotation_tool from haystack can be used to locally annotate txt data with labels and output it in SQuAD format
