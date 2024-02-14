@@ -1,4 +1,4 @@
-## Evaluation and Implementation of a German-language Retrieval-Augmented Generation System for Examination Regulations  
+## Towards a German-Language Chatbot for University Examination Regulations: A Comparative Study of Retrieval-Augmented Generation Systems 
 
 This repository contains the entire code of the bachelor thesis
 
